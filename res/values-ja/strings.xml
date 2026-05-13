@@ -22,6 +22,7 @@
     <string name="language_arabic">العربية｜アラビア語</string>
     <string name="language_bengali">বাংলা｜ベンガル語</string>
     <string name="language_chinese">简体中文｜中国語（簡体）</string>
+    <string name="language_chinese_traditional">繁體中文 | Chinese (Traditional)</string>
     <string name="language_czech">Čeština｜チェコ語</string>
     <string name="language_danish">Dansk｜デンマーク語</string>
     <string name="language_dutch">Nederlands｜オランダ語</string>
@@ -38,6 +39,7 @@
     <string name="language_korean">한국어｜韓国語</string>
     <string name="language_polish">Polski｜ポーランド語</string>
     <string name="language_portuguese">Português (Brasil)｜ブラジルポルトガル語</string>
+    <string name="language_portuguese_portugal">Português (Portugal) | Portuguese (Portugal)</string>
     <string name="language_romanian">Română｜ルーマニア語</string>
     <string name="language_russian">Русский｜ロシア語</string>
     <string name="language_spanish">Español｜スペイン語</string>
@@ -113,6 +115,20 @@
     <string name="play_online">オンラインプレイ</string>
     <string name="switch_server">サーバーを切り替え</string>
     <string name="x_players">%s人のプレイヤー</string>
+    <string name="x_player">%s player</string>
+    <string name="unrated">Unrated</string>
+    <string name="rating">Rating</string>
+    <string name="find_opponent">FIND OPPONENT</string>
+    <string name="leave_matchmaking">LEAVE MATCHMAKING</string>
+    <string name="searching">Searching…</string>
+    <string name="x_searching_y_playing">%s searching · %s playing</string>
+    <string name="global_position">Global #%s</string>
+    <string name="wins_draws_losses_winrate">Wins: %s · Draws: %s · Losses: %s · Win rate: %s%%</string>
+    <string name="match_starts_in">Match starts in…</string>
+    <string name="victory">VICTORY</string>
+    <string name="defeat">DEFEAT</string>
+    <string name="draw">DRAW</string>
+    <string name="competitive_menu">COMPETITIVE</string>
     <string name="x_online">%s人がオンライン</string>
     <string name="x_requests">%s件の申請</string>
     <string name="private_room">プライベートルーム</string>
@@ -424,7 +440,6 @@
     <string name="clan_description_saved">クラン説明の保存完了！</string>
     <string name="clan_description_save">クラン説明を保存</string>
     <string name="clan_description_save_failed">クラン説明が保存できませんでした</string>
-
     <string name="clan_feature_not_unlocked">クランの機能はアンロックされていません</string>
     <string name="clan_history_event_purchase_name_color">クラン名のカラーを購入済み</string>
     <string name="clan_history_event_purchase_name_gradient">クラン名のグラデーションを購入済み</string>
@@ -434,6 +449,18 @@
     <string name="clan_history_event_purchase_triple_gradient">クラン背景の3色のグラデーションを購入済み</string>
     <string name="clan_history_event_purchase_description_color">クラン説明のカラーを購入済み</string>
     <string name="clan_history_event_rename">クラン名を変更済み</string>
+
+    <!-- Leaderboard !-->
+    <string name="leaderboard_type">Leaderboard Type</string>
+    <string name="leaderboard_xp_description">Experience points. Required to level up. Can be obtained by doing any meaningful action in game.</string>
+    <string name="leaderboard_period_daily">Daily</string>
+    <string name="leaderboard_period_weekly">Weekly</string>
+    <string name="leaderboard_period_monthly">Monthly</string>
+    <string name="leaderboard_period_all_time">All Time</string>
+    <string name="leaderboard_score">Score</string>
+    <string name="leaderboard_rank">Rank</string>
+    <string name="leaderboard_empty">No entries yet</string>
+    <string name="leaderboard_load_error">Failed to load leaderboard</string>
 
     <!-- Statistics !-->
     <string name="all">すべて</string>
@@ -702,6 +729,7 @@
     <string name="players">プレイヤー</string>
     <string name="player_list_title">プレイヤーのリスト</string>
     <string name="player_list_count">プレイヤー数: %d・ボット数: %d・総数: %d</string>
+    <string name="player_list_count_with_spectators">Players: %d ⋅ Bots: %d ⋅ Spectators: %d ⋅ Total: %d</string>
     <string name="kick_confirm_title">プレイヤーをキック</string>
     <string name="kick_confirm_message">「%s」さんをキックしますか？まだ再参加できます。</string>
     <string name="ban_confirm_title">プレイヤーをバン</string>
@@ -731,10 +759,43 @@
     <string name="custom_image_bought">カスタム画像のアップロード</string>
     <string name="custom_image_refund">カスタム画像の返金</string>
     <string name="custom_image_slot">画像 %1$d</string>
+
+    <!-- Custom image skin -->
+    <string name="custom_image_skin_load_failed">Failed to load your custom skin: %1$s</string>
+    <string name="custom_image_no_approved_image">No approved image in slot %1$d</string>
     <string name="report_avatar">アイコンを報告</string>
     <string name="report_avatar_message">「%1$s」さんのアイコンを報告しますか？</string>
     <string name="report_avatar_success">アイコンの報告完了</string>
     <string name="report_avatar_failed">アイコンが報告できませんでした</string>
+
+    <!-- Account recovery -->
+    <string name="account_recovery">Account Recovery</string>
+    <string name="recovery_info">Same Wi-Fi and device are required, otherwise recovery may fail.</string>
+    <string name="recovery_continue">Continue</string>
+    <string name="recovery_enter_account_id">Enter your account ID</string>
+    <string name="recovery_account_id_placeholder">Account ID</string>
+    <string name="recovery_load_preview">Load account</string>
+    <string name="recovery_new_email_label">New email address</string>
+    <string name="recovery_new_email_placeholder">new@example.com</string>
+    <string name="recovery_change_mail">Change mail</string>
+    <string name="recovery_confirm_title">Change account email?</string>
+    <string name="recovery_confirm_body">You are about to change the email on this account to %1$s. You will sign in with the matching Google account next. This cannot be undone.</string>
+    <string name="recovery_success_body">The account email has been changed to %1$s. Please sign in now with your new Google account.</string>
+    <string name="recovery_error_invalid_id">Please enter a valid account ID.</string>
+    <string name="recovery_error_invalid_email">Please enter a valid email address.</string>
+    <string name="recovery_error_invalid_request">Invalid request. Please try again.</string>
+    <string name="recovery_error_network">Network error. Please check your connection and try again.</string>
+    <string name="recovery_error_fingerprint_mismatch">This device and network do not match this account. Recovery requires the same phone on a Wi-Fi you have used with that account before.</string>
+    <string name="recovery_error_email_taken">This email is already used by another account. Delete that account or use a different email.</string>
+    <string name="recovery_error_google_taken">This Google account is already linked to another account.</string>
+    <string name="recovery_error_email_mismatch">The email you typed does not match the Google account you signed in with.</string>
+    <string name="recovery_error_cooldown">This account was recently recovered. Please wait 24 hours before trying again.</string>
+    <string name="recovery_error_banned">This account is banned and cannot be recovered.</string>
+    <string name="recovery_error_not_found">No account found with that ID.</string>
+    <string name="recovery_error_rate_limited">Too many attempts. Please wait and try again later.</string>
+    <string name="recovery_error_google_invalid">Could not verify your Google account. Please try again.</string>
+    <string name="recovery_error_google_cancelled">Google sign-in was cancelled or failed.</string>
+    <string name="recovery_error_internal">Something went wrong on our side. Please try again later.</string>
 
     <!-- Miscellaneous !-->
     <string name="play">プレイ</string>
