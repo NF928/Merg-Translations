@@ -154,10 +154,10 @@
     <string name="competitive_history">バトルモードの履歴</string>
     <string name="rating_label">ランキング</string>
     <string name="unrated">ランキングなし</string>
-    <string name="find_opponent">摘を探す</string>
-    <string name="leave_matchmaking">LEAVE MATCHMAKING</string>
+    <string name="find_opponent">敵を探す</string>
+    <string name="leave_matchmaking">マッチメイキング終了</string>
     <string name="searching_ellipsis">探しています…</string>
-    <string name="x_searching_y_playing">%1$s件が探し中 · %2$s件が進行中</string>
+    <string name="x_searching_y_playing">%1$試合が探し中 · %2$s試合が進行中</string>
     <string name="global_position">グローバルランキング: #%s</string>
     <string name="global_label">グローバルランキング: #</string>
     <string name="wins_draws_losses_winrate">勝利数: %1$s · 引分数: %2$s · 敗戦数: %3$s · Win rate: %4$s%%</string>
@@ -175,14 +175,14 @@
     <string name="defeat">敗戦</string>
     <string name="draw">引分</string>
     <string name="play_again">再プレイ</string>
-    <string name="play_x_more_matches_to_rated">あと%d件プレイしてランキングに入りましょう！</string>
-    <string name="play_one_more_match_to_rated">あと1件プレイしてランキングに入りましょう！</string>
+    <string name="play_x_more_matches_to_rated">あと%d試合プレイしてランキングに入りましょう！</string>
+    <string name="play_one_more_match_to_rated">あと1試合プレイしてランキングに入りましょう！</string>
     <string name="history_viewer_vs_opponent">「%1$s」さん 対 「%2$s」さん</string>
 
     <!-- Shop -->
     <string name="shop">ショップ</string>
     <string name="free_voidstones">無料ボイドストーン！</string>
-    <string name="free_voidstones_subtitle">マスを選び、広告を視聴してボイドストーンをケットしましょう！</string>
+    <string name="free_voidstones_subtitle">マスを選んで、広告を視聴してボイドストーンをケットしよう！</string>
     <string name="free_voidstones_won">ボイドストーンを%d枚獲得しました！</string>
     <string name="free_voidstones_status">残り%1$d件・%2$s後にリセット</string>
     <string name="pick">選ぶ</string>
@@ -473,7 +473,7 @@
     <!-- Leaderboard !-->
     <string name="leaderboard_type">リーダーボード種類</string>
     <string name="leaderboard_xp_description">経験値です。獲得してレベルアップします。経験値はドットやボイドストーンを集めて得られます。</string>
-    <string name="leaderboard_competitive_description">1対1のランキングマッチです。アリーナ戦で12試合以上勝利したプレイヤーのみが表示されます。</string>
+    <string name="leaderboard_competitive_description">1対1のランキングマッチです。アリーナ戦で12試合以上完了したプレイヤーのみが表示されます。</string>
     <string name="leaderboard_rating">ランキング</string>
     <string name="leaderboard_period_daily">デイリー</string>
     <string name="leaderboard_period_weekly">ウィークリー</string>
@@ -556,7 +556,7 @@
     <string name="description_adventure">ユニークな目的のアドベンチャーステージをクリアしよう！難易度はステージが進むにつれて上がり、ボーナスを獲得し、スキルを披露しよう！各ステージで難易度が上がる！</string>
     <string name="description_soccer">ボールを敵のゴールにシュートしよう。タイムアップ時に最も多くのゴールを決めているチームが勝利する！</string>
     <string name="description_coming_soon">このゲームモードは近日公開予定です。続報をお待ちください！</string>
-    <string name="description_competitive">1対1のランキング戦サバイバル！同じくらいのスキルの摘を倒して、ランキングに入ろう。2人のプレイヤーが生存した場合、3分間のマッチと2分間の延長時間が得られる。勝ってグローバルランキングを駆け上がり、負けたら下がってしまう。ランキングの変動は2人のプレイヤーのスキル差によって決まる。</string>
+    <string name="description_competitive">1対1のランキング戦サバイバル！同じくらいのスキルの敵を倒して、ランキングに入ろう。2人のプレイヤーが生存した場合、3分間のマッチと2分間の延長時間が得られる。勝ってグローバルランキングを駆け上がり、負けたら下がってしまう。ランキングの変動は2人のプレイヤーのスキル差によって決まる。</string>
 
     <!-- Map sizes !-->
     <string name="mapsize_tiny">極小</string>
