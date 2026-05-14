@@ -189,7 +189,7 @@
     <string name="redeem_code">コード利用</string>
     <string name="invalid_code">無効なコードです</string>
     <string name="code_already_claimed">コードは既に利用されました！</string>
-    <string name="successfully_claimed_code">リワード利用済み</string>
+    <string name="successfully_claimed_code">リワードの利用完了</string>
     <string name="reward_voidstones">＋%s枚のボイドストーン</string>
     <string name="reward_unlock">アンロック: %s</string>
     <string name="reward_name_color">ネームカラー</string>
@@ -202,13 +202,13 @@
     <string name="reward_already_owned_compensation">利用しました。ボイドストーンに換算されました。</string>
     <string name="purchase_id">購入ID: %d</string>
     <string name="history">履歴</string>
-    <string name="voidstone_history">ボイドストーンの履歴</string>
+    <string name="voidstone_history">ボッストの履歴</string>
     <string name="purchase_history">購入の履歴</string>
     <string name="no_transactions_yet">取引はありません</string>
     <string name="admin_reward">アドミンリワード</string>
     <string name="in_app_purchase">アプリ内購入</string>
     <string name="voidstone_gift_received">ボイドストーンのギフト受取済</string>
-    <string name="voidstone_gift_send">ボイドストーンのギフトを送る</string>
+    <string name="voidstone_gift_send">ボイドストーンのギフトを贈る</string>
     <string name="skin_bought">購入したスキン</string>
     <string name="profile_name_change_bought">名前の変更購入済み</string>
     <string name="profile_name_color_bought">ネームカラー購入済み</string>
@@ -247,7 +247,7 @@
     <string name="created">作成日付: %s</string>
     <string name="last_seen">最終接続: %s</string>
     <string name="save_profile_description">自己紹介保存</string>
-    <string name="profile_description_placeholder">自己紹介を入力…</string>
+    <string name="profile_description_placeholder">自己紹介を書く…</string>
     <string name="profile_description_save_success">自己紹介の保存完了</string>
     <string name="profile_description_save_failed">自己紹介が保存できませんでした</string>
     <string name="profile_description_too_long">自己紹介が長すぎます！（最大%d文字）</string>
@@ -343,11 +343,11 @@
     <string name="voidstone_gift_from_label">ボイドストーンのギフトの贈り主:</string>
     <string name="voidstone_gift_to_label">ボイドストーンのギフトの受取人:</string>
     <string name="voidstone_gift_player">「%1$s」さん（ID %2$d）</string>
-    <string name="transaction_fee">%d%%の手数料が含まれる</string>
+    <string name="transaction_fee">%d%%の手数料を含む</string>
     <string name="transaction_fee_amount">-%sの手数料</string>
 
     <!-- Search Profile -->
-    <string name="search_account">アカウントを検索</string>
+    <string name="search_account">アカウント検索</string>
     <string name="search_account_by_id_or_name">IDまたは名前で検索する</string>
     <string name="no_account_found">このアカウントは見つかりませんでした</string>
 
@@ -400,14 +400,14 @@
     <string name="clan_unban_confirm_title">バン解除</string>
     <string name="clan_unban_confirm_message">「%1$s」さん（ID %2$d）をバン解除しますか？このユーザーが再参加できます。</string>
     <string name="clan_unkick_confirm_title">キック解除</string>
-    <string name="clan_unkick_confirm_message">「%1$s」さん（ID %2$d）へのリクエスト必要を解除しますか？</string>
+    <string name="clan_unkick_confirm_message">「%1$s」さん（ID %2$d）への申請必要を解除しますか？</string>
     <string name="clan_invited">招待済み</string>
     <string name="clan_revoke_invite_confirm_title">招待を取り消す</string>
     <string name="clan_revoke_invite_confirm_message">「%1$s」さん（ID %2$d）への招待を取り消しますか？</string>
     <string name="clan_invite_sent">招待送信済み！</string>
     <string name="clan_player_not_found">プレイヤーは見つかりませんでした</string>
     <string name="clan_player_banned">このユーザーがクランからバンされています。</string>
-    <string name="clan_already_invited">このユーザーが既に招待されたか、他のクランにいます。</string>
+    <string name="clan_already_invited">このユーザーは既に招待されたか、別のクランにいます。</string>
     <string name="clan_full">クランが満員です。</string>
     <string name="clan_join_button_full">クラン満員</string>
     <string name="clan_join_request_sent">申請送信済み</string>
@@ -431,11 +431,11 @@
     <string name="clan_history_event_demote">広角済み</string>
     <string name="clan_history_event_donation">寄付済み</string>
     <string name="clan_history_id">履歴ID: %d</string>
-    <string name="clan_public_profile">パブリッククランの説明</string>
+    <string name="clan_public_profile">パブリッククラン説明</string>
     <string name="clan_kicked_banned_players">キック済／バン中のユーザー</string>
     <string name="clan_unkick_confirm">「%1$s」さん（ID %2$d）をキック解除しますか？</string>
     <string name="clan_unban_confirm">「%1$s」さん（ID %2$d）をバン解除しますか？</string>
-    <string name="clan_search_hint">名前またはIDで検索</string>
+    <string name="clan_search_hint">名前またはIDで検索する</string>
     <string name="clan_promote_to_owner">オーナーシップ移転</string>
     <string name="clan_transfer_ownership_title">オーナーシップ移転</string>
     <string name="clan_transfer_ownership_message">オーナーシップを「%1$s」さん（ID %2$d）に移転しますか？あなたは共同オーナーになります。これは取り消せません。\n\nユーザーのIDを入力して確認してください:</string>
@@ -600,10 +600,10 @@
 
     <!-- Buttons !-->
     <string name="buttons_shoot">イジェクトボタン</string>
-    <string name="select_shoot">イジェクトボタンの位置を選択</string>
+    <string name="select_shoot">イジェクトボタンの位置移動</string>
     <string name="shoot">イジェクト</string>
     <string name="buttons_split">スプリットボタン</string>
-    <string name="select_split">スプリットボタンの位置を選択</string>
+    <string name="select_split">スプリットボタンの位置移動</string>
     <string name="split">スプリット</string>
     <string name="buttons_customize">カスタマイズ</string>
     <string name="buttons_orientation_message">ポットレートとランドスケープのカスタム設定は、別々に保存されます。</string>
@@ -617,7 +617,7 @@
     <string name="skin_color_preview">プレビュー:</string>
     <string name="skin_tab_standard">デフォルト</string>
     <string name="skin_tab_level">レベル</string>
-    <string name="skin_tab_voidstones">ボイドストーン</string>
+    <string name="skin_tab_voidstones">ボッスト</string>
     <string name="level_skin_locked">このスキンはレベル%d以降にアンロックされます。</string>
     <string name="level_lock">レベルロック</string>
 
