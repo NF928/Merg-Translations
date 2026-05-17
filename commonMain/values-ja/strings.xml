@@ -542,7 +542,7 @@
     <string name="gamemode_classic">クラシック</string>
     <string name="gamemode_teams">チーム</string>
     <string name="gamemode_survival">サバイバル</string>
-    <string name="gamemode_team_survival">チームでのサバイバル</string>
+    <string name="gamemode_team_survival">チームサバイバル</string>
     <string name="gamemode_knockout">ノックアウト</string>
     <string name="gamemode_adventure">アドベンチャー</string>
     <string name="gamemode_soccer">サッカー</string>
