@@ -413,12 +413,12 @@
     <string name="clan_join_request_sent">申請送信済み</string>
     <string name="clan_invite_list_full">このクランの招待リストが満員（最大100件）です。</string>
     <string name="clan_player_invite_list_full">このユーザーの保留中の招待はすでに上限に達しています。</string>
-    <string name="clan_request_list_full">このクランの参加申請リストが満員（最大100件）です。</string>
+    <string name="clan_request_list_full">このクランの加入申請リストが満員（最大100件）です。</string>
     <string name="clan_donate_voidstones">ボイドストーン寄付</string>
     <string name="clan_donate_hint">100枚〜100,000枚</string>
     <string name="clan_donate_sent">寄付完了！</string>
     <string name="clan_not_a_member">このクランのメンバーではありません。</string>
-    <string name="clan_already_requested">すでに別のクランとの保留中の参加申請があります。</string>
+    <string name="clan_already_requested">すでに別のクランとの保留中の加入申請があります。</string>
     <string name="clan_copy_tag">タグをコピー</string>
     <string name="clan_creator">作成者</string>
     <string name="clan_history">クランの履歴</string>
