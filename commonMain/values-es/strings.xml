@@ -750,28 +750,28 @@
     <string name="remote_lan_connections">Para permitir que otros clientes se conecten remotamente a través de una IP pública, debe redirigir el puerto UDP %d o habilitar la DMZ para su dispositivo en la configuración de su enrutador. Tenga en cuenta que las conexiones podrían fallar si su red utiliza NAT simétrica/CGNAT. Para obtener más información y comprobar su tipo de NAT actual, visite %s.</string>
 
     <!-- Player List -->
-    <string name="players">Players</string>
-    <string name="spectators">Spectators</string>
-    <string name="joined_room">Joined room %s</string>
+    <string name="players">Jugadores</string>
+    <string name="spectators">Espectadores</string>
+    <string name="joined_room">Te uniste a la sala %s</string>
     <string name="player_list_title">LISTA DE JUGADORES</string>
     <string name="player_list_count">Jugadores: %d ⋅ Bots: %d ⋅ Total: %d</string>
-    <string name="player_list_count_with_spectators">Players: %d ⋅ Bots: %d ⋅ Spectators: %d ⋅ Total: %d</string>
-    <string name="kick_confirm_title">Expulsar Jugador</string>
-    <string name="kick_confirm_message">Expulsar a %s de esta sala? Podría volver a unirse.</string>
-    <string name="ban_confirm_title">Ban Player</string>
-    <string name="ban_confirm_message">¿Seguro de que quieres banear a %s en esta sala? No podrá volver a unirse y esta acción no se puede deshacer!</string>
+    <string name="player_list_count_with_spectators">Jugadores: %d ⋅ Bots: %d ⋅ Espectadores: %d ⋅ Total: %d</string>
+    <string name="kick_confirm_title">Expulsar jugador</string>
+    <string name="kick_confirm_message">¿Seguro que quieres expulsar a %s de esta sala?. Puede volver a unirse.</string>
+    <string name="ban_confirm_title">¿Seguro que quieres banear de la sala a este jugador?</string>
+    <string name="ban_confirm_message">¿Seguro que quieres banear a %s de esta sala?. ¡No podrá volver a unirse y esta acción no se puede deshacer!</string>
 
     <!-- Custom Images -->
-    <string name="custom_images">Custom Images</string>
-    <string name="profile_avatar">Profile Avatar</string>
-    <string name="custom_image_rules">Explicitly Forbidden Content:\n\n- NSFW / Sexual content\n- Graphic violence / Gore\n- Weapons\n- Hate symbols\n- Hate speech / Discrimination\n- Drugs\n- Shock/gross-out content\n- Copyrighted characters/logos\n- Alcohol/tobacco references\n- Horror/creepy imagery</string>
-    <string name="custom_image_upload">Upload</string>
-    <string name="custom_image_replace">Replace</string>
-    <string name="custom_image_deselect">Deselect</string>
-    <string name="custom_image_confirm_title">Upload Image</string>
-    <string name="custom_image_confirm_body">Upload this image for %1$s voidstones?</string>
-    <string name="custom_image_upload_success">Image sent for review</string>
-    <string name="custom_image_selected">Avatar selected</string>
+    <string name="custom_images">Skin personalizada</string>
+    <string name="profile_avatar">Avatar de perfil</string>
+    <string name="custom_image_rules">CONTENIDO EXPLÍCITAMENTE PROHIBIDO:\n\n- NSFW / Contenido sexual\n- Violencia / Gore\n- Armas\n- Referecias de odio\n- Discursos con odio/discriminación\n- Drogas\n- Contenido impactante/repugnante\n- Personajes/logotipos con copyright\n- Referencias al alcohol/tabaco\n- Imágenes terroríficas/escalofriantes</string>
+    <string name="custom_image_upload">Subir</string>
+    <string name="custom_image_replace">Reemplazar</string>
+    <string name="custom_image_deselect">Deseleccionar</string>
+    <string name="custom_image_confirm_title">¿Seguro que quieres subir esta imagen?</string>
+    <string name="custom_image_confirm_body">Subir imahen por %1$s Voidstones</string>
+    <string name="custom_image_upload_success">La skin está en revisión</string>
+    <string name="custom_image_selected">Avatar seleccionado</string>
     <string name="custom_image_deselected">Avatar deselected</string>
     <string name="custom_image_upload_failed">Failed to upload image</string>
     <string name="custom_image_read_error">Failed to read image</string>
@@ -787,17 +787,17 @@
     <string name="custom_image_slot">Image %1$d</string>
 
     <!-- Custom image skin -->
-    <string name="custom_image_skin_load_failed">Failed to load your custom skin: %1$s</string>
-    <string name="custom_image_no_approved_image">No approved image in slot %1$d</string>
-    <string name="report_avatar">Report Avatar</string>
-    <string name="report_avatar_message">Report the avatar of %1$s?</string>
-    <string name="report_avatar_success">Avatar reported</string>
-    <string name="report_avatar_failed">Failed to report avatar</string>
+    <string name="custom_image_skin_load_failed">Ups, no se pudo cargar la skin personalizada: %1$s</string>
+    <string name="custom_image_no_approved_image">No hay skins personalizadas aprobadas en el espacio: %1$d</string>
+    <string name="report_avatar">Reportar skin personalizada</string>
+    <string name="report_avatar_message">¿Seguro que quieres reportar la skin personalizada de %1$s?</string>
+    <string name="report_avatar_success">Skin personalizada reportada</string>
+    <string name="report_avatar_failed">Ups, no se pudo reportar la skin personalizada...</string>
 
     <!-- Account recovery -->
-    <string name="account_recovery">Account Recovery</string>
+    <string name="account_recovery">Recuperar cuenta</string>
     <string name="recovery_info">Same Wi-Fi and device are required, otherwise recovery may fail.</string>
-    <string name="recovery_continue">Continue</string>
+    <string name="recovery_continue">continuar</string>
     <string name="recovery_enter_account_id">Enter your account ID</string>
     <string name="recovery_account_id_placeholder">Account ID</string>
     <string name="recovery_load_preview">Load account</string>
@@ -828,8 +828,8 @@
     <string name="id">ID:</string>
     <string name="sort_id_desc">ID ↓</string>
     <string name="sort_id_asc">ID ↑</string>
-    <string name="sort_xp_desc">XP ↓</string>
-    <string name="sort_xp_asc">XP ↑</string>
+    <string name="sort_xp_desc">EXP ↓</string>
+    <string name="sort_xp_asc">eXP ↑</string>
     <string name="arrow_expanded">▼</string>
     <string name="arrow_collapsed">▶</string>
     <string name="respawn">Reaparecer</string>
@@ -860,8 +860,8 @@
     <string name="owner">Creador</string>
     <string name="kick">Expulsar</string>
     <string name="ban">Banear</string>
-    <string name="signal">Signal</string>
-    <string name="home">Casa</string>
+    <string name="signal">Señal</string>
+    <string name="home">INICIO</string>
     <string name="settings">Ajustes</string>
     <string name="team">Equipo</string>
     <string name="game_menu">Menú del juego</string>
@@ -871,12 +871,12 @@
     <string name="no_one">Nadie</string>
     <string name="multiplayer">Multijugador</string>
     <string name="loading">Cargando…</string>
-    <string name="room_type_local">Local: %s</string>
+    <string name="room_type_local">Red Local: %s</string>
     <string name="room_type_public">Público: %s</string>
     <string name="room_type_private">Privado: %s</string>
-    <string name="room_public">Public</string>
-    <string name="room_private">Private</string>
-    <string name="room_hidden">Hidden</string>
+    <string name="room_public">Público</string>
+    <string name="room_private">Privado</string>
+    <string name="room_hidden">Oculto</string>
     <string name="map">Mapa</string>
     <string name="size">Tamaño</string>
     <string name="shots">Disparos</string>
@@ -889,17 +889,17 @@
     <string name="uptime">Uptime: %s</string>
     <string name="players_count">Jugadores</string>
     <string name="show_ui">Mostrar interfaz de usuario</string>
-    <string name="open_menu">Abrir Menú</string>
+    <string name="open_menu">Abrir menú</string>
     <string name="stop_spectating">Dejar de espectar</string>
     <string name="spectate">Espectar</string>
     <string name="previous_entity">Entidad anterior</string>
     <string name="next_entity">Siguiente entidad</string>
     <string name="level_abbreviated">Lv.%d</string>
-    <string name="left">Left</string> <!-- left as in remaining, not the left direction -->
+    <string name="left">Restante</string> <!-- left as in remaining, not the left direction -->
     <string name="total">Total</string>
     <string name="unknown">Desconocido</string>
-    <string name="invalid_selection">¡Selección no válida!</string>
-    <string name="invalid_name">Nombre No válido!</string>
+    <string name="invalid_selection">Ups, la selección no es válida...</string>
+    <string name="invalid_name">¡Nombre inválido!</string>
     <string name="content_blocked">String contains blocked content</string>
     <string name="connecting">Conectando%s</string>
     <string name="error">Error</string>
