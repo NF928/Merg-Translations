@@ -640,13 +640,13 @@
 
     <!-- Notification box !-->
     <string name="level_up">Subes de nivel! %d</string>
-    <string name="game_over">Perdiste!</string>
+    <string name="game_over">Fin del juego</string>
     <string name="stage_clear">Etapa %s superada!</string>
     <string name="stage_failed">Etapa %s fallida!</string>
     <string name="restarting_adventure">Reiniciando aventura…</string>
-    <string name="server_in_maintenance">Server Maintenance</string>
-    <string name="server_reboot">Server Reboot</string>
-    <string name="server_shutdown">Server Shutdown</string>
+    <string name="server_in_maintenance">SERVER EN MANTENIMIENTO</string>
+    <string name="server_reboot">SERVIDOR REINICIDADO</string>
+    <string name="server_shutdown">SERVER CAÍDO</string>
 
     <!-- Suffixes for ORDINAL numbers !-->
     <string name="ordinal_first">%dº</string>
@@ -665,7 +665,7 @@
     <string name="player_size">Tamaño: %d</string>
     <string name="effective_size">Tamaño efectivo: %d</string>
     <string name="decay">Decadencia: %.2f/s</string>
-    <string name="pieces">Piezas: %1d/%2d</string>
+    <string name="pieces">Blobs: %1d/%2d</string>
     <string name="merge">Unirse: %ss</string>
     <string name="invincibility">Invencibilidad: %ss</string>
     <string name="speed_boost">+Velocidad: %ss</string>
@@ -675,9 +675,9 @@
     <string name="food">Comida</string>
     <string name="voidstones">Voidstones</string>
     <string name="blobs_eaten">Blobs comidos</string>
-    <string name="session_stat_size_gained">Tamaño ganado</string>
+    <string name="session_stat_size_gained">Masa recolectada:</string>
     <string name="highest_rank">Rango más alto</string>
-    <string name="session_stat_highest_size">Tamaño más grande</string>
+    <string name="session_stat_highest_size">Blob más grande:</string>
     <string name="spectate_ball">Bola</string>
     <string name="leaderboard">Tabla de Clasificación</string>
     <string name="session_stats">Estadísticas de sesión</string>
@@ -727,25 +727,25 @@
     <!-- Block Player -->
     <string name="blocked_players">Jugadores bloqueados</string>
     <string name="no_blocked_players">Sin jugadores bloqueados</string>
-    <string name="unblock_confirm_message">Unblock \"%1$s\" (ID: %2$d)?</string>
-    <string name="block_player">Bloquear Jugador</string>
-    <string name="unblock_player">Desbloquear Jugador</string>
-    <string name="block_confirm_title">Bloquear Jugador?</string>
-    <string name="block_confirm_message">¿Seguro de que quieres bloquear a %s? No podrán enviarse correos ni solicitudes de amistad, y ambos serán eliminados de sus listas de amigos.</string>
+    <string name="unblock_confirm_message">¿seguro que quieres Desbloquear a \"%1$s\" (ID: %2$d)?</string>
+    <string name="block_player">Bloquear jugador</string>
+    <string name="unblock_player">Desbloquear jugador</string>
+    <string name="block_confirm_title">Bloquear jugador</string>
+    <string name="block_confirm_message">¿Seguro que quieres bloquear a %s? No podrán enviarse correos, solicitudes de amistad y ambos serán eliminados de sus listas de amigos.</string>
     <string name="player_unblocked">Jugador desbloqueado</string>
     <string name="player_blocked">Jugador bloqueado</string>
-    <string name="you_blocked_user">Has bloqueado a este usuario</string>
+    <string name="you_blocked_user">Has bloqueado a este jugador</string>
     <string name="user_blocked_you">Bloqueado</string>
-    <string name="both_blocked">Ambos usuarios se bloquearon mutuamente</string>
+    <string name="both_blocked">Ambos jugadores estan bloqueados mutuamente</string>
 
     <!-- LAN Multiplayer -->
-    <string name="host_local_game">HOST LOCAL GAME</string>
-    <string name="local_ip">Local IP: %s</string>
-    <string name="public_ip">Public IP: %s</string>
+    <string name="host_local_game">RED LOCAL</string>
+    <string name="local_ip">IP local: %s</string>
+    <string name="public_ip">IP pública: %s</string>
     <string name="searching_rooms">Buscando salas disponibles…</string>
-    <string name="host">Host</string>
+    <string name="host">Anfitrión(a)</string>
     <string name="enter_ip">Insertar IP</string>
-    <string name="join_ip_title">Join IP Address</string>
+    <string name="join_ip_title">Unirse a esta dirección IP</string>
     <string name="tap_to_reveal">Toca para revelar</string>
     <string name="remote_lan_connections">Para permitir que otros clientes se conecten remotamente a través de una IP pública, debe redirigir el puerto UDP %d o habilitar la DMZ para su dispositivo en la configuración de su enrutador. Tenga en cuenta que las conexiones podrían fallar si su red utiliza NAT simétrica/CGNAT. Para obtener más información y comprobar su tipo de NAT actual, visite %s.</string>
 
