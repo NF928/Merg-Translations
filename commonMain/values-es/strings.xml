@@ -688,12 +688,12 @@
     <!-- Dialogs -->
     <string name="dialog_confirm">Confirmar</string>
     <string name="dialog_confirm_account_deletion">ELIMINAR CUENTA</string>
-    <string name="dialog_leave_game">Salir del juego?</string>
-    <string name="dialog_respawn_warning">Reaparecer? Perderás todo tu puntación.</string>
-    <string name="dialog_change_language">Cambia el lenguaje a %s? La aplicacion necesita recargarse.</string>
+    <string name="dialog_leave_game">¿Salir del juego?</string>
+    <string name="dialog_respawn_warning">¿Seguro que quieres reaparecer? Perderás toda tu masa.</string>
+    <string name="dialog_change_language">¿Quieres cambiar el idioma a %s? La aplicacion necesita cerrarse.</string>
     <string name="dialog_connection_error">Error de conexión</string>
     <string name="dialog_disconnected">Desconectado</string>
-    <string name="dialog_disconnected_message">Se ha perdido la conexión con el servidor.</string>
+    <string name="dialog_disconnected_message">Ups, se ha perdido la conexión con el servidor...</string>
     <string name="kicked_from_room">Ups, has sido expulsado de la sala...</string>
     <string name="banned_from_room">Ups, has sido baneado de la sala...</string>
     <string name="enter_room_name">Escribe el nombre de la sala</string>
@@ -710,15 +710,15 @@
     <string name="dialog_no">NO</string>
     <string name="dialog_ok">OKEY</string>
     <string name="dialog_copy">COPIADO</string>
-    <string name="dialog_notice">Noticia</string>
+    <string name="dialog_notice">NOTICIA</string>
     <string name="dialog_warning">Advertencia</string>
     <string name="dialog_alert">Alerta</string>
-    <string name="dialog_dont_show_again">Don\'t show again</string>
-    <string name="dialog_dismiss">Dismiss</string>
-    <string name="dialog_previous">Previous</string>
+    <string name="dialog_dont_show_again">No volver a mostrar</string>
+    <string name="dialog_dismiss">Minimizar</string>
+    <string name="dialog_previous">Volver</string>
     <string name="dialog_next">Siguiente</string>
     <string name="dialog_update">Actualización</string>
-    <string name="toast_please_wait">Por favor, espera</string>
+    <string name="toast_please_wait">Por favor, espera.</string>
     <string name="permission_denied">Permiso denegado</string>
     <string name="dialog_locked">Bloqueado</string>
     <string name="duplicate_connection">Ups, alguien más está usando tu cuenta Merg...</string>
@@ -736,7 +736,7 @@
     <string name="player_blocked">Jugador bloqueado</string>
     <string name="you_blocked_user">Has bloqueado a este jugador</string>
     <string name="user_blocked_you">Bloqueado</string>
-    <string name="both_blocked">Ambos jugadores estan bloqueados mutuamente</string>
+    <string name="both_blocked">Ambos jugadores están bloqueados mutuamente</string>
 
     <!-- LAN Multiplayer -->
     <string name="host_local_game">RED LOCAL</string>
@@ -829,7 +829,7 @@
     <string name="sort_id_desc">ID ↓</string>
     <string name="sort_id_asc">ID ↑</string>
     <string name="sort_xp_desc">EXP ↓</string>
-    <string name="sort_xp_asc">eXP ↑</string>
+    <string name="sort_xp_asc">EXP ↑</string>
     <string name="arrow_expanded">▼</string>
     <string name="arrow_collapsed">▶</string>
     <string name="respawn">Reaparecer</string>
@@ -864,7 +864,7 @@
     <string name="home">Salir</string>
     <string name="settings">Ajustes</string>
     <string name="team">Equipo</string>
-    <string name="game_menu">Menú del juego</string>
+    <string name="game_menu">MENÚ DEL JUEGO</string>
     <string name="color_picker">SELECCIONADOR DE COLOR</string>
     <string name="color_wheel">Rueda de colores</string>
     <string name="brightness">Brillo</string>
@@ -928,14 +928,14 @@
     <string name="duplicate_action">Acción duplicada</string>
     <string name="invalid_action">Acción inválida</string>
     <string name="invalid_value">Valor Inválido</string>
-    <string name="admin_cannot_act_self">Cannot perform this action on yourself</string>
-    <string name="admin_cannot_act_on_staff">Cannot perform this action on staff members</string>
+    <string name="admin_cannot_act_self">Ups, no puedes realizar esta acción sobre ti mismo.</string>
+    <string name="admin_cannot_act_on_staff">Ups, no se puede realizar esta acción con los miembros del staff.</string>
     <string name="code_not_found">Códido inválido</string>
     <string name="code_expired">Código Expirado</string>
     <string name="code_already_redeemed">Ups, el código ya ha sido canjeado!</string>
-    <string name="clan_owner_must_transfer_error">You must transfer ownership to another member before leaving.</string>
-    <string name="mail_cannot_send_self">You cannot send mail to yourself</string>
-    <string name="clan_already_requested_other">Already requested to join this clan</string>
+    <string name="clan_owner_must_transfer_error">Ups, debes transferir la propiedad a otro miembro antes de abandonar el clan...</string>
+    <string name="mail_cannot_send_self">Ups, no puedes enviarte correo a ti mismo...</string>
+    <string name="clan_already_requested_other">Ups, ya solicitaste unirse a este clan...</string>
     <string name="before">Antes</string>
     <string name="after">Después</string>
 </resources>
