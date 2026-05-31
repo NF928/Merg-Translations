@@ -371,7 +371,7 @@
     <string name="clan_leave">クランを脱退</string>
     <string name="clan_leave_confirm">クランを脱退してもよろしいですか？</string>
     <string name="clan_owner_must_transfer">クランを脱退するには、オーナーシップを移転する必要があります。</string>
-    <string name="clan_request_sent">加入申請送信済み</string>
+    <string name="clan_request_sent">加入申請を送信しました</string>
     <string name="clan_disband">クランを解散</string>
     <string name="clan_disband_confirm">クランを解散してもよろしいですか？これは取り消せません！</string>
     <string name="clan_invite">プレイヤー招待</string>
@@ -404,7 +404,7 @@
     <string name="clan_invited">招待済み</string>
     <string name="clan_revoke_invite_confirm_title">招待をキャンセル</string>
     <string name="clan_revoke_invite_confirm_message">「%1$s」さん（ID %2$d）への招待をキャンセルしますか？</string>
-    <string name="clan_invite_sent">招待を送信しましま！</string>
+    <string name="clan_invite_sent">招待を送信しました！</string>
     <string name="clan_player_not_found">プレイヤーは見つかりませんでした</string>
     <string name="clan_player_banned">このユーザーはクランからバンされています。</string>
     <string name="clan_already_invited">このユーザーはすでに招待されたか、別のクランにいます。</string>
