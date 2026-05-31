@@ -769,22 +769,22 @@
     <string name="custom_image_replace">Reemplazar</string>
     <string name="custom_image_deselect">Deseleccionar</string>
     <string name="custom_image_confirm_title">¿Seguro que quieres subir esta imagen?</string>
-    <string name="custom_image_confirm_body">Subir imahen por %1$s Voidstones</string>
-    <string name="custom_image_upload_success">La skin está en revisión</string>
+    <string name="custom_image_confirm_body">Subir imagen por %1$s Voidstones</string>
+    <string name="custom_image_upload_success">La skin personalizada está en revisión</string>
     <string name="custom_image_selected">Avatar seleccionado</string>
-    <string name="custom_image_deselected">Avatar deselected</string>
-    <string name="custom_image_upload_failed">Failed to upload image</string>
-    <string name="custom_image_read_error">Failed to read image</string>
-    <string name="custom_image_invalid_format">File must be an image</string>
-    <string name="custom_image_error_size">Your image %1$dKB is too large (max %2$dKB)</string>
-    <string name="custom_image_error_dimensions">Your image %1$dx%2$d is too large (max %3$dx%4$d pixels)</string>
+    <string name="custom_image_deselected">Avatar deseleccionado</string>
+    <string name="custom_image_upload_failed">Ups, ocurrió un error al subir tu imagen...</string>
+    <string name="custom_image_read_error">Ups, no pudimos cargar tu imagen...</string>
+    <string name="custom_image_invalid_format">Ups, el archivo debe ser una imagen...</string>
+    <string name="custom_image_error_size">Tu imagen %1$dKB es demasiado pesada (max %2$dKB)</string>
+    <string name="custom_image_error_dimensions">Tu imagen %1$dx%2$d es demasiado grande (max. %3$dx%4$d pixeles)</string>
     <string name="custom_image_error_both">Your image %1$dKB / %3$dx%4$d is too large (max %2$dKB / %5$dx%6$d pixels)</string>
-    <string name="custom_image_compress_title">Image Too Large - Compress?</string>
-    <string name="custom_image_compress_accept">Use Compressed</string>
-    <string name="custom_image_compress_failed">Image could not be compressed to fit the size limit</string>
-    <string name="custom_image_bought">Custom Image Upload</string>
-    <string name="custom_image_refund">Custom Image Refund</string>
-    <string name="custom_image_slot">Image %1$d</string>
+    <string name="custom_image_compress_title">La imagen demasiado pesada - ¿Quieres comprimirla?</string>
+    <string name="custom_image_compress_accept">Comprimir imagen</string>
+    <string name="custom_image_compress_failed">La imagen no se pudo comprimir para ajustarse al límite de KB.</string>
+    <string name="custom_image_bought">En revisión</string>
+    <string name="custom_image_refund">Reembolsada</string>
+    <string name="custom_image_slot">Imagen %1$d</string>
 
     <!-- Custom image skin -->
     <string name="custom_image_skin_load_failed">Ups, no se pudo cargar la skin personalizada: %1$s</string>
@@ -861,7 +861,7 @@
     <string name="kick">Expulsar</string>
     <string name="ban">Banear</string>
     <string name="signal">Señal</string>
-    <string name="home">INICIO</string>
+    <string name="home">Salir</string>
     <string name="settings">Ajustes</string>
     <string name="team">Equipo</string>
     <string name="game_menu">Menú del juego</string>
@@ -886,7 +886,7 @@
     <string name="tps" translatable="false">TPS</string>
     <string name="mspt" translatable="false">MSPT</string>
     <string name="ur" translatable="false">UR</string>
-    <string name="uptime">Uptime: %s</string>
+    <string name="uptime">Fuera de tiempo: %s</string>
     <string name="players_count">Jugadores</string>
     <string name="show_ui">Mostrar interfaz de usuario</string>
     <string name="open_menu">Abrir menú</string>
