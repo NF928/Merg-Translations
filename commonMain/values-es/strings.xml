@@ -471,7 +471,7 @@
     <string name="clan_history_event_rename">Renombrar clan</string>
 
     <!-- Leaderboard !-->
-    <string name="leaderboard_type">Tipo de tabla de clasificación</string>
+    <string name="leaderboard_type">Tipo de tabla</string>
     <string name="leaderboard_xp_description">Puntos de experiencia. Necesarios para subir de nivel. Se pueden obtener realizando cualquier acción significativa en el juego.</string>
     <string name="leaderboard_competitive_description">Clasificación 1vs1. Solo se muestran los jugadores que hayan completado al menos 12 partidas competitivas.</string>
     <string name="leaderboard_rating">Clasificación</string>
@@ -485,36 +485,36 @@
     <string name="leaderboard_load_error">Ups, no se pudo cargar la tabla de clasificación...</string>
 
     <!-- Statistics !-->
-    <string name="all">Todo</string>
-    <string name="stat_highest_size">Tamaño más grande:</string>
-    <string name="stat_size_gained">Tamaño ganado:</string>
-    <string name="stat_size_lost">Tamaño perdido:</string>
-    <string name="stat_total">Total:</string>
-    <string name="stat_regular_value">Regular (Valor):</string>
-    <string name="stat_regular_count">Regular (Contar):</string>
-    <string name="stat_rainbow_value">Arcoíris (valor):</string>
-    <string name="stat_rainbow_count">Arcoíris (Contar):</string>
-    <string name="stat_gold_value">Oro (Valor):</string>
-    <string name="stat_gold_count">Oro (Contar):</string>
-    <string name="stat_silver_value">Plata (Valor):</string>
-    <string name="stat_silver_count">Plata (Contar):</string>
-    <string name="stat_bronze_value">Bronce (Valor):</string>
-    <string name="stat_bronze_count">Bronce (Contar):</string>
-    <string name="stat_bonus">Bonus:</string>
-    <string name="stat_food_eaten">Alimentos Consumidos:</string>
-    <string name="stat_players_eaten">Jugadores Comidos:</string>
-    <string name="stat_bots_eaten">Bots Comidos:</string>
-    <string name="stat_blobs_eaten">Blobs Comidos:</string>
-    <string name="stat_games_won">Juegos ganados:</string>
+    <string name="all">TODOS</string>
+    <string name="stat_highest_size">Blob más grande:</string>
+    <string name="stat_size_gained">Masa recolectada:</string>
+    <string name="stat_size_lost">Masa perdida:</string>
+    <string name="stat_total">Voidstones recolectadas:</string>
+    <string name="stat_regular_value">Regular (valor total):</string>
+    <string name="stat_regular_count">Regular (recolectadas):</string>
+    <string name="stat_rainbow_value">Arcoíris (valor total):</string>
+    <string name="stat_rainbow_count">Arcoíris (recolectadas):</string>
+    <string name="stat_gold_value">Oro (valor total):</string>
+    <string name="stat_gold_count">Oro (recolectadas):</string>
+    <string name="stat_silver_value">Plata (valor total):</string>
+    <string name="stat_silver_count">Plata (recolectadas):</string>
+    <string name="stat_bronze_value">Bronce (valor total):</string>
+    <string name="stat_bronze_count">Bronce (recolectadas):</string>
+    <string name="stat_bonus">Bonificación:</string>
+    <string name="stat_food_eaten">Comida recolectada:</string>
+    <string name="stat_players_eaten">Jugadores comidos:</string>
+    <string name="stat_bots_eaten">Bots comidos:</string>
+    <string name="stat_blobs_eaten">Blobs comidos:</string>
+    <string name="stat_games_won">Patidas ganadas:</string>
     <string name="stat_longest_session">Sesión más larga:</string>
     <string name="stat_stages_cleared">Etapas superadas:</string>
     <string name="stat_highest_stage">Etapa más alta:</string>
     <string name="stat_adventures_completed">Aventuras completadas:</string>
-    <string name="stat_goals_scored">Goles:</string>
-    <string name="stat_collisions">Colisiones:</string>
-    <string name="stat_boosts">Mejoras:</string>
+    <string name="stat_goals_scored">Goles anotados:</string>
+    <string name="stat_collisions">Explociones:</string>
+    <string name="stat_boosts">Comidos:</string>
     <string name="stat_teleports">Teletransportaciones:</string>
-    <string name="stat_rewarded_ads_watched">Anuncios de recompensa vistos:</string>
+    <string name="stat_rewarded_ads_watched">Anuncios vistos:</string>
 
     <!-- Mail !-->
     <string name="mail">Correo</string>
