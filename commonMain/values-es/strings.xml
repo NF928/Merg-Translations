@@ -762,37 +762,37 @@
     <string name="ban_confirm_message">¿Seguro que quieres Banear a %s de esta Sala?. ¡No podrá volver a Unirse y esta acción no se puede deshacer!</string>
 
     <!-- Custom Images -->
-    <string name="custom_images">Skin personalizada</string>
-    <string name="profile_avatar">Avatar de perfil</string>
+    <string name="custom_images">Skin Personalizada</string>
+    <string name="profile_avatar">Avatar de Perfil</string>
     <string name="custom_image_rules">CONTENIDO EXPLÍCITAMENTE PROHIBIDO:\n\n- NSFW / Contenido sexual\n- Violencia / Gore\n- Armas\n- Referecias de odio\n- Discursos con odio/discriminación\n- Drogas\n- Contenido impactante/repugnante\n- Personajes/logotipos con copyright\n- Referencias al alcohol/tabaco\n- Imágenes terroríficas/escalofriantes</string>
     <string name="custom_image_upload">Subir</string>
     <string name="custom_image_replace">Reemplazar</string>
     <string name="custom_image_deselect">Deseleccionar</string>
-    <string name="custom_image_confirm_title">¿Seguro que quieres subir esta imagen?</string>
-    <string name="custom_image_confirm_body">Subir imagen por %1$s Voidstones</string>
-    <string name="custom_image_upload_success">La skin personalizada está en revisión</string>
-    <string name="custom_image_selected">Avatar seleccionado</string>
-    <string name="custom_image_deselected">Avatar deseleccionado</string>
-    <string name="custom_image_upload_failed">Ups, ocurrió un error al subir tu imagen...</string>
-    <string name="custom_image_read_error">Ups, no pudimos cargar tu imagen...</string>
-    <string name="custom_image_invalid_format">Ups, el archivo debe ser una imagen...</string>
-    <string name="custom_image_error_size">La imagen %1$dKB es demasiado pesada (max %2$dKB)</string>
-    <string name="custom_image_error_dimensions">La imagen %1$dx%2$d es demasiado grande (max. %3$dx%4$d pixeles)</string>
+    <string name="custom_image_confirm_title">Subir Imagen</string>
+    <string name="custom_image_confirm_body">¿Quieres Subir esta Imagen por %1$s Voidstones?</string>
+    <string name="custom_image_upload_success">La skin Personalizada está en revisión</string>
+    <string name="custom_image_selected">Avatar Seleccionado</string>
+    <string name="custom_image_deselected">Avatar Deseleccionado</string>
+    <string name="custom_image_upload_failed">Ups, ocurrió un Error al Subir tu Imagen.</string>
+    <string name="custom_image_read_error">Ups, no pudimos Cargar tu Imagen.</string>
+    <string name="custom_image_invalid_format">Ups, el archivo debe ser una Imagen.</string>
+    <string name="custom_image_error_size">La Imagen %1$dKB es demasiado Pesada (max %2$dKB)</string>
+    <string name="custom_image_error_dimensions">La Imagen %1$dx%2$d es demasiado Grande (max. %3$dx%4$d pixeles)</string>
     <string name="custom_image_error_both">Your image %1$dKB / %3$dx%4$d is too large (max %2$dKB / %5$dx%6$d pixels)</string>
-    <string name="custom_image_compress_title">La imagen es demasiado pesada - ¿Quieres comprimirla?</string>
-    <string name="custom_image_compress_accept">Comprimir imagen</string>
-    <string name="custom_image_compress_failed">La imagen no se pudo comprimir para ajustarse al límite de KB.</string>
-    <string name="custom_image_bought">En revisión</string>
+    <string name="custom_image_compress_title">La Imagen es demasiado Pesada - ¿Quieres Comprimirla?</string>
+    <string name="custom_image_compress_accept">Comprimir Imagen</string>
+    <string name="custom_image_compress_failed">La Imagen no se pudo Comprimir para ajustarse al límite de KB.</string>
+    <string name="custom_image_bought">En Revisión</string>
     <string name="custom_image_refund">Reembolsada</string>
     <string name="custom_image_slot">Imagen %1$d</string>
 
     <!-- Custom image skin -->
-    <string name="custom_image_skin_load_failed">Ups, no se pudo cargar la skin personalizada: %1$s</string>
-    <string name="custom_image_no_approved_image">No hay skins personalizadas aprobadas en el espacio: %1$d</string>
-    <string name="report_avatar">Reportar skin personalizada</string>
-    <string name="report_avatar_message">¿Seguro que quieres reportar la skin personalizada de %1$s?</string>
-    <string name="report_avatar_success">Skin personalizada reportada</string>
-    <string name="report_avatar_failed">Ups, no se pudo reportar la skin personalizada...</string>
+    <string name="custom_image_skin_load_failed">Ups, no se pudo cargar la Skin Personalizada: %1$s</string>
+    <string name="custom_image_no_approved_image">No hay Skins Personalizadas Aprobadas en el espacio: %1$d</string>
+    <string name="report_avatar">Reportar Skin Personalizada</string>
+    <string name="report_avatar_message">¿Seguro que quieres Reportar la Skin Personalizada de %1$s?</string>
+    <string name="report_avatar_success">Skin Personalizada Reportada</string>
+    <string name="report_avatar_failed">Ups, no se pudo Reportar la Skin Personalizada.</string>
 
     <!-- Account recovery -->
     <string name="account_recovery">Recuperar cuenta</string>
