@@ -140,7 +140,7 @@
     <string name="friend_requests_sent">Solicitudes Enviadas</string>
     <string name="no_friends">Sin Amigos…</string>
     <string name="remove_friend_title">Eliminar Amigo</string>
-    <string name="remove_friend_message">¿Seguro qué quieres dejar de ser Amigo de \"%1$s\" (ID: %2$d)?</string>
+    <string name="remove_friend_message">¿Seguro(a) qué quieres dejar de ser Amigo de \"%1$s\" (ID: %2$d)?</string>
     <string name="cancel_request_title">Cancelar Solicitud</string>
     <string name="cancel_request_message">¿Seguro(a) que quieres eliminar la Solicitud de Amistad de \"%1$s\" (ID: %2$d)?</string>
     <string name="friend_request_error_self">Ups, no puedes enviarte una Solicitud de Amistad a ti mismo.</string>
@@ -390,11 +390,11 @@
     <string name="clan_role_member">Miembro</string>
     <string name="clan_name_taken">Ups, Nombre de Clan en uso.</string>
     <string name="clan_already_member">Ya estás dentro del Clan.</string>
-    <string name="clan_accept_invite_leave_confirm">Ya perteneces a un Clan. ¿Seguro que quieres abandonar tu Clan actual y aceptar esta Invitación?</string>
+    <string name="clan_accept_invite_leave_confirm">Ya perteneces a un Clan. ¿Seguro(a) que quieres abandonar tu Clan actual y aceptar esta Invitación?</string>
     <string name="clan_promoted">Ascender a %1$s.</string>
     <string name="clan_demoted">Descender a %1$s.</string>
     <string name="clan_kick_confirm_title">Expulsar Miembro</string>
-    <string name="clan_kick_confirm_message">¿Seguro que quieres Expulsar a \"%1$s\" (ID: %2$d) del Clan? Podrá volver a Unirse con Invitación.</string>
+    <string name="clan_kick_confirm_message">¿Seguro(a) que quieres Expulsar a \"%1$s\" (ID: %2$d) del Clan? Podrá volver a Unirse con Invitación.</string>
     <string name="clan_ban_confirm_title">Banear miembro</string>
     <string name="clan_ban_confirm_message">¿Seguro(a) que quieres Banear a \"%1$s\" (ID: %2$d) del clan? Ya no podrá Unirse.</string>
     <string name="clan_unban_confirm_title">Desbanear Exmiembro</string>
