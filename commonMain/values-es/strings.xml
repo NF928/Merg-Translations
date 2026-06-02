@@ -573,68 +573,68 @@
     <!-- Adventure mode !-->
     <string name="adventure_stage">Escenario</string>
     <string name="adventure_initializing">Iniciando Aventura…</string>
-    <string name="adventure_obj_eat_all_bots">Come todos los bots</string>
+    <string name="adventure_obj_eat_all_bots">Come a todos los Bots</string>
     <string name="adventure_obj_survive">Sobrevivir</string>
     <string name="adventure_obj_high_speed">¡Alta velocidad!</string>
-    <string name="adventure_obj_more_holes">¡Más agujeros!</string>
-    <string name="adventure_obj_collect_food">Recolecta %d de comida</string>
-    <string name="adventure_obj_invisible_bots">Invisible para bots!</string>
-    <string name="adventure_obj_growing_bots">Farmea bots!</string>
-    <string name="adventure_obj_reach_size">Alcanza los %d puntos</string>
-    <string name="adventure_obj_finish_first">Termina en 1er lugar</string>
+    <string name="adventure_obj_more_holes">¡Más Agujeros!</string>
+    <string name="adventure_obj_collect_food">Recolecta %d de Comida</string>
+    <string name="adventure_obj_invisible_bots">Invisible para Bots!</string>
+    <string name="adventure_obj_growing_bots">Farmea Bots!</string>
+    <string name="adventure_obj_reach_size">Alcanza los %d Puntos</string>
+    <string name="adventure_obj_finish_first">Termina en 1er Lugar</string>
     <string name="adventure_obj_collect_voidstones">Recolecta %d Voidstones</string>
 
     <!-- Timer text !-->
     <string name="timer_time">Tiempo</string>
-    <string name="timer_overtime">Tiempo extra</string>
-    <string name="timer_overtime_count">Tiempo extra %d</string>
-    <string name="timer_grace">Tiempo fuera</string>
+    <string name="timer_overtime">Tiempo Extra</string>
+    <string name="timer_overtime_count">Tiempo Extra %d</string>
+    <string name="timer_grace">Tiempo Fuera</string>
     <string name="timer_tiebreaker">Desempate</string>
     <string name="timer_winner">Ganador</string>
 
     <!-- Teams !-->
-    <string name="blue_team">Equipo azul</string>
-    <string name="red_team">Equipo rojo</string>
-    <string name="green_team">Equipo verde</string>
-    <string name="yellow_team">Equipo amarillo</string>
+    <string name="blue_team">Equipo Azul</string>
+    <string name="red_team">Equipo Rojo</string>
+    <string name="green_team">Equipo Verde</string>
+    <string name="yellow_team">Equipo Amarillo</string>
 
     <!-- Buttons !-->
-    <string name="buttons_shoot">Botón de disparo</string>
-    <string name="select_shoot">Seleccionar disparo</string>
+    <string name="buttons_shoot">Botón de Disparo</string>
+    <string name="select_shoot">Seleccionar Disparo</string>
     <string name="shoot">Disparar</string>
-    <string name="buttons_split">Botón de dividirse</string>
-    <string name="select_split">Seleccionar dividirse</string>
+    <string name="buttons_split">Botón de Dividirse</string>
+    <string name="select_split">Seleccionar Dividirse</string>
     <string name="split">Dividirse</string>
-    <string name="buttons_customize">Personalizar controles</string>
-    <string name="buttons_orientation_message">Las personalizaciones de retrato y paisaje se guardan por separado</string>
+    <string name="buttons_customize">Personalizar Controles</string>
+    <string name="buttons_orientation_message">Las configuraciones personalizadas para modo vertical y horizontal se guardan por separado</string>
 
 
     <!-- Skins !-->
     <string name="skin">Skin</string>
-    <string name="no_skin">Sin skin</string>
-    <string name="selected_skin">Skin seleccionada</string>
+    <string name="no_skin">Sin Skin</string>
+    <string name="selected_skin">Skin Seleccionada</string>
     <string name="select_skin_color">SELECCIONAR COLOR</string>
     <string name="skin_color_preview">Previsualización:</string>
     <string name="skin_tab_standard">Estándar</string>
     <string name="skin_tab_level">Nivel</string>
     <string name="skin_tab_voidstones">Voidstones</string>
-    <string name="level_skin_locked">Esta skin se desbloquea en el nivel %d</string>
-    <string name="level_lock">Nivel bloqueado</string>
+    <string name="level_skin_locked">Esta Skin se desbloquea en el Nivel %d</string>
+    <string name="level_lock">Nivel Bloqueado</string>
 
 
     <!-- Chat !-->
     <string name="chat">Chat</string>
     <string name="room_commands" tools:ignore="TypographyDashes">Commands:\n!op [ID]\n!deop [ID]\n!kick [ID]\n!ban [ID]\n!unban [ID]\n!mute [ID]\n!unmute [ID]\n!slowmode [1-60]\n!pausechat [-1: unpause; 0: permanent; 1-3600 seconds]\n!hidden\n!minplayers [amount]\n!reset\n!close</string>
-    <string name="chat_close">Cerrar chat</string>
-    <string name="chat_message_hint">Escribe un mensaje…</string>
-    <string name="chat_send_message">Mandar mensaje</string>
-    <string name="copy_name">Copiar nombre</string>
-    <string name="copy_message">Copiar mensaje</string>
-    <string name="view_profile">Ver perfil</string>
-    <string name="delete_message">Eliminar mensaje</string>
-    <string name="edit_message">Editar mensaje</string>
-    <string name="report_message">Reportar mensaje</string>
-    <string name="chat_paused">Chat pausado</string>
+    <string name="chat_close">Cerrar Chat</string>
+    <string name="chat_message_hint">Escribe un Mensaje…</string>
+    <string name="chat_send_message">Mandar Mensaje</string>
+    <string name="copy_name">Copiar Nombre</string>
+    <string name="copy_message">Copiar Mensaje</string>
+    <string name="view_profile">Ver Perfil</string>
+    <string name="delete_message">Eliminar Mensaje</string>
+    <string name="edit_message">Editar Mensaje</string>
+    <string name="report_message">Reportar Mensaje</string>
+    <string name="chat_paused">Chat Pausado</string>
     <string name="reply">Responder</string>
     <string name="replying_to">Responder a %s</string>
 
