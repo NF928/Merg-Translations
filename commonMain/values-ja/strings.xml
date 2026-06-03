@@ -84,7 +84,7 @@
     <string name="timer_format_ticks">ティック</string>
     <string name="auto_spectate_killer">自動でキラーを観戦</string>
     <string name="cycle_progressbar">経験値進捗バーテキストをサイクル</string>
-    <string name="verbose_in_game_ui">UIでのブロブ詳細表示</string>
+    <string name="verbose_in_game_ui">ゲーム内UIの詳細表示</string>
     <string name="jitter_buffer">ジッターバッファー</string>
 
     <!-- Game/room creation menu-->
