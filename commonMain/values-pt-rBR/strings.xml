@@ -187,7 +187,7 @@
     <string name="play_one_more_match_to_rated">Jogue mais 1 partida para se classificar!</string>
     <string name="history_viewer_vs_opponent">%1$s vs %2$s</string>
     <string name="prizes">Prêmios</string>
-    <string name="prizes_dialog_intro">Antes da atualização de toda e qualquer temporada, os jogadores no topo do ranking receberão uma recompensa de Voidstone com base em suas habilidades!</string>
+    <string name="prizes_dialog_intro">Antes da atualização de toda e qualquer temporada, os jogadores no topo do ranking receberão uma recompensa de Voidstones com base em suas habilidades!</string>
     <string name="current_season">Temporada Atual</string>
 
     <!-- Shop -->
@@ -250,7 +250,7 @@
     <string name="ad_reward">Recompensa por anúncios</string>
 
     <!-- Season Pass -->
-     <string name="season_pass">Passe da Temporada</string>
+     <string name="season_pass">Passe de Temporada</string>
      <string name="season_pass_season_number">Temporada %s</string>
      <string name="january">Janeiro</string>
      <string name="february">Fevereiro</string>
