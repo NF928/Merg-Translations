@@ -149,7 +149,7 @@
     <string name="remove_friend_message">Tem certeza de que deseja remover \"%1$s\" (ID: %2$d) da sua lista de amigos?</string>
     <string name="cancel_request_title">Cancelar Solicitação</string>
     <string name="cancel_request_message">Tem certeza de que deseja excluir a solicitação de amizade pendente com \"%1$s\" (ID: %2$d)?</string>
-    <string name="friend_request_error_self">Can't send friend request to yourself</string>
+    <string name="friend_request_error_self">Não é possível adicionar a si mesmo(a).</string>
     <string name="friend_request_error_already_sent">Solicitação de amizade já enviada</string>
     <string name="friend_request_error_already_friends">Já são amigos</string>
     <string name="friend_request_error_list_full">A lista de amigos atingiu o limite</string>
@@ -157,34 +157,34 @@
     <!-- Competitive (ranked 1v1) -->
     <string name="competitive">Competitivo</string>
     <string name="competitive_menu">COMPETITIVO</string>
-    <string name="competitive_history">Competitive History</string>
-    <string name="rating_label">Rating</string>
+    <string name="competitive_history">Histórico de Competições</string>
+    <string name="rating_label">Classificação</string>
     <string name="unrated">Não Classificado(a)</string>
     <string name="find_opponent">PROCURAR ADVERSÁRIO</string>
     <string name="leave_matchmaking">SAIR DA FORMAÇÃO</string>
-    <string name="searching_ellipsis">Searching…</string>
-    <string name="x_searching_y_playing">%1$s searching · %2$s playing</string>
+    <string name="searching_ellipsis">Procurando…</string>
+    <string name="x_searching_y_playing">%1$s procurando · %2$s em andamento</string>
     <string name="x_searching">%d searching</string>
     <string name="x_playing">%d playing</string>
     <string name="global_position">Global #%s</string>
     <string name="global_label">Global #</string>
-    <string name="wins_draws_losses_winrate">Wins: %1$s · Draws: %2$s · Losses: %3$s · Win rate: %4$s%%</string>
-    <string name="stat_wins_label">Wins: </string>
-    <string name="stat_draws_label"> · Draws: </string>
-    <string name="stat_losses_label"> · Losses: </string>
-    <string name="stat_winrate_label"> · Win rate: </string>
+    <string name="wins_draws_losses_winrate">Vitórias: %1$s · Empates: %2$s · Perdas: %3$s · Taxa de vitórias: %4$s%%</string>
+    <string name="stat_wins_label">Vitórias: </string>
+    <string name="stat_draws_label"> · Empates: </string>
+    <string name="stat_losses_label"> · Perdas: </string>
+    <string name="stat_winrate_label"> · Taxa de vitórias: </string>
     <string name="match_starts_in">Partida começando em…</string>
     <string name="vs_label">VS</string>
-    <string name="ongoing_matches">Ongoing matches</string>
-    <string name="match_status_starting">STARTING</string>
-    <string name="match_status_in_progress">IN PROGRESS</string>
-    <string name="match_status_finished">FINISHED</string>
+    <string name="ongoing_matches">Partidas em andamento</string>
+    <string name="match_status_starting">COMEÇANDO</string>
+    <string name="match_status_in_progress">EM ANDAMENTO</string>
+    <string name="match_status_finished">TERMINOU</string>
     <string name="victory">VITÓRIA</string>
     <string name="defeat">DERROTA</string>
     <string name="draw">EMPATE</string>
-    <string name="play_again">Play Again</string>
-    <string name="play_x_more_matches_to_rated">Play %d more matches to be rated!</string>
-    <string name="play_one_more_match_to_rated">Play 1 more match to be rated!</string>
+    <string name="play_again">Jogar Novamente</string>
+    <string name="play_x_more_matches_to_rated">Jogue mais %d partidas para se classificar!</string>
+    <string name="play_one_more_match_to_rated">Jogue mais 1 partida para se classificar!</string>
     <string name="history_viewer_vs_opponent">%1$s vs %2$s</string>
     <string name="prizes">Prizes</string>
     <string name="prizes_dialog_intro">Before every season reset, top players will receive a Voidstone reward based on their performance!</string>
@@ -243,7 +243,7 @@
     <string name="ad_not_loaded">Anúncio ainda não carregado</string>
     <string name="ad_show_failed">Falha ao exibir o anúncio</string>
     <string name="ad_load_failed">Falha ao carregar o anúncio</string>
-    <string name="ad_rate_limited">You've watched too many ads recently. Please try again in %s.</string>
+    <string name="ad_rate_limited">Muitos anúncios foram exibidos em curto prazo. Tente novamente em %s.</string>
     <string name="time_hrs">hrs</string>
     <string name="time_min">min</string>
     <string name="time_sec">seg</string>
@@ -274,13 +274,13 @@
     <string name="not_logged_in">Não conectado(a)!</string>
     <string name="login">Fazer login</string>
     <string name="login_google">Entrar com Google</string>
-    <string name="login_apple">Sign in with Apple</string>
+    <string name="login_apple">Entrar com Apple</string>
     <string name="logout">Desconectar-se</string>
     <string name="logout_all_devices">Desconectar-se de Todos os Dispositivos</string>
     <string name="change_name">Alterar Nome</string>
     <string name="copy_id">Copiar ID</string>
-    <string name="share_id">Share ID</string>
-    <string name="share_id_message">Add me on Merg! My ID is %1$s</string>
+    <string name="share_id">Compartilhar ID</string>
+    <string name="share_id_message">Me adicione no Merg! Este é o meu ID: %1$s</string>
     <string name="created">Criou em: %s</string>
     <string name="last_seen">Visto(a) por último: %s</string>
     <string name="save_profile_description">Salvar Biografia</string>
@@ -451,9 +451,9 @@
     <string name="clan_full">Este clã está cheio.</string>
     <string name="clan_join_button_full">Clã Cheio</string>
     <string name="clan_join_request_sent">Solicitação Enviada</string>
-    <string name="clan_invite_list_full">This clan's invite list is full (max 100).</string>
+    <string name="clan_invite_list_full">A lista de convites desse clã está cheia (máx. 100).</string>
     <string name="clan_player_invite_list_full">O número de convites enviados para este(a) jogador(a) já atingiu o limite.</string>
-    <string name="clan_request_list_full">This clan's join request list is full (max 100).</string>
+    <string name="clan_request_list_full">A lista de solicitações de entrada desse clã está cheia (máx. 100).</string>
     <string name="clan_donate_voidstones">Doar Voidstones</string>
     <string name="clan_donate_hint">Valor (100 – 100.000)</string>
     <string name="clan_donate_sent">Doação concluída!</string>
@@ -478,7 +478,7 @@
     <string name="clan_search_hint">Procurar por ID ou nome</string>
     <string name="clan_promote_to_owner">Promover a Dono(a)</string>
     <string name="clan_transfer_ownership_title">Transferir Liderança</string>
-    <string name="clan_transfer_ownership_message">You are about to promote \"%1$s\" (ID: %2$d) to Owner. You will be demoted to Co-Owner. This cannot be undone.\n\nType the player's ID to confirm:</string>
+    <string name="clan_transfer_ownership_message">Tem certeza de que deseja transferir a liderança para \"%1$s\" (ID: %2$d)? Você se tornará vice-dono(a) do clã. Esta ação é irreversível.\n\nInsira o ID do(a) jogador(a) para confirmar:</string>
     <string name="clan_transfer_ownership_id_mismatch">O ID não corresponde.</string>
     <string name="clan_customize_name_color">Cor do Nome do Clã</string>
     <string name="clan_customize_tag_color">Cor da Tag do Clã</string>
@@ -513,8 +513,8 @@
     <!-- Leaderboard !-->
     <string name="leaderboard_type">Tipo de Placar</string>
     <string name="leaderboard_xp_description">XP: Necessário para subir de nível. Pode ser obtido realizando alguma ação significativa no jogo.</string>
-    <string name="leaderboard_competitive_description">Ranked 1v1 ladder. Only players who have completed at least 12 competitive matches are listed.</string>
-    <string name="leaderboard_rating">Rating</string>
+    <string name="leaderboard_competitive_description">Partida classificatória 1v1. Somente jogadores que concluírem pelo menos 12 partidas aparecerão na lista.</string>
+    <string name="leaderboard_rating">Classificação</string>
     <string name="leaderboard_period_daily">Diário</string>
     <string name="leaderboard_period_weekly">Semanal</string>
     <string name="leaderboard_period_monthly">Mensal</string>
@@ -588,7 +588,7 @@
     <string name="gamemode_adventure">Aventura</string>
     <string name="gamemode_soccer">Futebol</string>
     <string name="gamemode_coming_soon">Em Breve</string>
-    <string name="gamemode_competitive">Competitive</string>
+    <string name="gamemode_competitive">Competitivo</string>
     <string name="gamemode_multimerg">MultiMerg</string>
     <string name="description_classic">Absorva jogadores menores e torne-se o maior blob do universo! Use o seu tamanho para dominar o mapa, mas tome cuidado com os jogadores maiores perseguindo você!</string>
     <string name="description_teams">Una-se com outros jogadores da mesma cor! Enfrente adversários junto e faça a sua equipe dominar o placar. Os companheiros de equipe não poderão matar um ao outro.</string>
@@ -598,7 +598,7 @@
     <string name="description_adventure">Conclua fases desafiadoras com objetivos únicos! Obtenha progresso no decorrer de que a dificuldade aumenta, ganhe recompensas e veja até onde você consegue chegar. Cada fase traz consigo novos desafios!</string>
     <string name="description_soccer">Chute a bola até o gol do time adversário. O time com o maior número de gols assim que o tempo acabar será o ganhador!</string>
     <string name="description_coming_soon">Esse modo de jogo chegará em breve, fique antenado(a)!</string>
-    <string name="description_competitive">Ranked 1v1 survival! Earn rating by beating opponents of similar skill. A 3-minute match with a 2-minute overtime if neither player dies. Win to climb the global leaderboard, lose and drop down, but the rating swing depends on the gap between you and your opponent.</string>
+    <string name="description_competitive">Sobrevivência classificatória 1v1! Obtenha classificação derrotando adversários com habilidades semelhantes. Uma partida de 3 minutos com um acréscimo de 2 minutos começará se ambos os jogadores sobreviverem. Cada vitória fará subir no ranking global, enquanto cada derrota fará cair, mas a variação da classificação dependerá na diferença de habilidade entre você e o(a) adversário(a).</string>
     <string name="description_multimerg">You spawn TWO blobs and switch control between them with the yin-yang button! Only the active blob responds to your joystick, split, and shoot. The other one keeps moving in its last direction. Your two blobs can eat each other if split, but the final piece is protected.</string>
 
     <!-- Map sizes !-->
@@ -761,7 +761,7 @@
     <string name="dialog_notice">Nota</string>
     <string name="dialog_warning">Aviso</string>
     <string name="dialog_alert">Alerta</string>
-    <string name="dialog_dont_show_again">Don't show again</string>
+    <string name="dialog_dont_show_again">Não exibir novamente</string>
     <string name="dialog_dismiss">Esquecer</string>
     <string name="dialog_previous">Anterior</string>
     <string name="dialog_next">Próximo</string>
@@ -779,7 +779,7 @@
     <string name="block_player">Bloquear Jogador(a)</string>
     <string name="unblock_player">Desbloquear Jogador(a)</string>
     <string name="block_confirm_title">Bloquear Jogador(a)?</string>
-    <string name="block_confirm_message">Are you sure you want to block %s? You will both be unable to send each other mails or friend requests, and will be removed from each other's friends list.</string>
+    <string name="block_confirm_message">Tem certeza de que deseja bloquear este(a) jogador(a): %s? Você não receberá mais mensagens ou solicitação de amizade dele(a) e ele(a) será excluído(a) da sua lista de amigos.</string>
     <string name="player_unblocked">Jogador(a) desbloqueado(a)</string>
     <string name="player_blocked">Jogador(a) bloqueado(a)</string>
     <string name="you_blocked_user">Você bloqueou</string>
@@ -795,12 +795,12 @@
     <string name="enter_ip">Inserir IP</string>
     <string name="join_ip_title">Entrar no Endereço IP</string>
     <string name="tap_to_reveal">Toque para revelar</string>
-    <string name="remote_lan_connections">To allow other clients to join remotely through public IP, you must port forward UDP %d or enable DMZ for your device on your router's settings. Please note that connections may still fail if your network is under Symmetric NAT/CGNAT. For more information and to check your current NAT type, visit %s.</string>
+    <string name="remote_lan_connections">É necessário redirecionar a porta UDP %d ou, nas configurações do seu roteador, ativar o DMZ para permitir que outros clientes entrem usando seu IP público. As conexões poderão falhar mesmo se a sua rede estiver sob um NAT/CGNAT Simétrico. Para saber mais e verificar o tipo de NAT do seu provedor de Internet, visite %s.</string>
 
     <!-- Player List -->
     <string name="players">Jogadores</string>
-    <string name="spectators">Spectators</string>
-    <string name="joined_room">Joined room %s</string>
+    <string name="spectators">Espectadores</string>
+    <string name="joined_room">Entrou na sala %s</string>
     <string name="player_list_title">LISTA DE JOGADORES</string>
     <string name="staff_list_title">STAFF LIST</string>
     <string name="player_list_count">Jogadores: %d ⋅ Bots: %d ⋅ Total: %d</string>
@@ -947,7 +947,7 @@
     <string name="previous_entity">Entidade Anterior</string>
     <string name="next_entity">Próxima Entidade</string>
     <string name="level_abbreviated">Nv.%d</string>
-    <string name="left">Left</string> <!-- left as in remaining, not the left direction -->
+    <string name="left">Restante</string> <!-- left as in remaining, not the left direction -->
     <string name="total">Total</string>
     <string name="unknown">Desconhecido</string>
     <string name="invalid_selection">Seleção inválida!</string>

@@ -149,7 +149,7 @@
     <string name="remove_friend_message">هل انت متاكد من رغبتك في ازالة "%1$s" (المعرف: %2$d) كصديق؟</string>
     <string name="cancel_request_title">الغاء الطلب</string>
     <string name="cancel_request_message">هل انت متاكد من رغبتك في الغاء طلب الصداقة إلى "%1$s" (المعرف: %2$d)؟</string>
-    <string name="friend_request_error_self">Can't send friend request to yourself</string>
+    <string name="friend_request_error_self">لا يمكنك إرسال طلب صداقة الى نفسك</string>
     <string name="friend_request_error_already_sent">تم ارسال طلب الصداقة بالفعل</string>
     <string name="friend_request_error_already_friends">اصدقاء بالفعل</string>
     <string name="friend_request_error_list_full">قائمة الاصدقاء ممتلئة</string>
@@ -243,7 +243,7 @@
     <string name="ad_not_loaded">لم يتم تحميل الإعلان بعد</string>
     <string name="ad_show_failed">فشل عرض الإعلان</string>
     <string name="ad_load_failed">فشل تحميل الإعلان</string>
-    <string name="ad_rate_limited">You've watched too many ads recently. Please try again in %s.</string>
+    <string name="ad_rate_limited">لقد شاهدت الكثير من الإعلانات مؤخرا. يرجى المحاولة مرة اخرى خلال %s.</string>
     <string name="time_hrs">ساعة</string>
     <string name="time_min">دقيقة</string>
     <string name="time_sec">ثانية</string>
@@ -779,7 +779,7 @@
     <string name="block_player">حضر اللاعب</string>
     <string name="unblock_player">إلغاء حضر اللاعب</string>
     <string name="block_confirm_title">حضر اللاعب؟</string>
-    <string name="block_confirm_message">Are you sure you want to block %s? You will both be unable to send each other mails or friend requests, and will be removed from each other's friends list.</string>
+    <string name="block_confirm_message">هل أنت متأكد من رغبتك في حظر %s؟ لن تتمكن أنت وهو من إرسال رسائل بريد إلكتروني أو طلبات صداقة إلى بعضكما البعض، وسيتم حذفكما من قائمة أصدقاء بعضكما البعض.</string>
     <string name="player_unblocked">تم إلغاء حظر اللاعب</string>
     <string name="player_blocked">تم حضر اللاعب</string>
     <string name="you_blocked_user">انت حضرت هذا اللاعب</string>
@@ -795,7 +795,7 @@
     <string name="enter_ip">ادخل IP</string>
     <string name="join_ip_title">ادخل IP ادريس</string>
     <string name="tap_to_reveal">انقر للكشف</string>
-    <string name="remote_lan_connections">To allow other clients to join remotely through public IP, you must port forward UDP %d or enable DMZ for your device on your router's settings. Please note that connections may still fail if your network is under Symmetric NAT/CGNAT. For more information and to check your current NAT type, visit %s.</string>
+    <string name="remote_lan_connections">للسماح للعملاء الاخرين بالانضمام عن بعد عبر عنوان IP عام، يجب عليك إعادة توجيه منفذ UDP %d او تفعيل منطقة DMZ لجهازك في إعدادات جهاز التوجيه. يُرجى العلم بان الاتصالات قد تفشل إذا كانت شبكتك تستخدم ترجمة عناوين الشبكة المتماثلة/CGNAT. لمزيد من المعلومات وللتحقق من نوع NAT الحالي، تفضل بزيارة %s.</string>
 
     <!-- Player List -->
     <string name="players">Players</string>
