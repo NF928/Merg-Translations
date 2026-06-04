@@ -4,7 +4,7 @@
     <!-- Main menu !-->
     <string name="singleplayer">Un Jugador</string>
     <string name="lan_multiplayer">Multijugador LAN</string>
-    <string name="online_multiplayer">Multiplayer</string>
+    <string name="online_multiplayer">Multijugador</string>
     <string name="options">Opciones</string>
     <string name="discord" translatable="false">Discord</string>
 
@@ -13,10 +13,10 @@
     <string name="email_copy">Copiar Email</string>
     <string name="email_support">Email de Soporte:</string>
     <string name="developer">Desarrolladores:</string>
-    <string name="code_contribution">Contribuciones de código:</string>
-    <string name="skins">Skins:</string>
-    <string name="graphics_icons">Gráficos/Iconos:</string>
-    <string name="translations">Traducciones:</string>
+    <string name="code_contribution">Creditos:</string>
+    <string name="skins">Aspectos:</string>
+    <string name="graphics_icons">Graficos:</string>
+    <string name="translations">Idiomas:</string>
 
     <!-- Options menu !-->
     <string name="language">Idioma</string>
@@ -49,209 +49,209 @@
     <string name="language_turkish">Türkçe | Turco</string>
     <string name="language_vietnamese">Tiếng Việt | Vietnamita</string>
     <string name="background">Fondo</string>
-    <string name="background_black">Fondo Negro</string>
-    <string name="background_white">Fondo Blanco</string>
+    <string name="background_black">Fondo Oscuro</string>
+    <string name="background_white">Fondo Claro</string>
     <string name="controls">Controles</string>
     <string name="control_joystick">Joystick</string>
     <string name="control_relative">Relativo</string>
     <string name="control_touch">Tocar</string>
-    <string name="button_layout">Diseño de Botones</string>
-    <string name="customize">Personalizar</string>
+    <string name="button_layout">Ajustar Botones</string>
+    <string name="customize">Editar</string>
     <string name="opacity">Opacidad</string>
-    <string name="leaderboard_size">Tamaño de la Tabla de Clasificación</string>
+    <string name="leaderboard_size">Tamaño de Tabla</string>
     <string name="show_grid">Mostrar Cuadrícula</string>
-    <string name="show_grid_coordinates">Mostrar Coordenadas de Cuadrículas</string>
-    <string name="show_coordinate_tint">Mostrar Matiz de las Coordenadas</string>
-    <string name="custom_background_image">Fondo con Imagen Personalizada</string>
+    <string name="show_grid_coordinates">Ver coordenadas</string>
+    <string name="show_coordinate_tint">Color de coordenadas</string>
+    <string name="custom_background_image">Imagen de fondo</string>
     <string name="custom_background_select">Seleccionar Imagen</string>
     <string name="custom_background_opacity">Opacidad del Fondo</string>
-    <string name="show_performance_metrics">Mostrar estadísticas de rendimiento</string>
-    <string name="skin_outlines">Contorno de skin</string>
-    <string name="direction_arrow">Dirección de flecha</string>
-    <string name="border_above_entities">Borde por encima de las entidades</string>
-    <string name="map_border_visible">Mostrar el Borde del Mapa</string>
+    <string name="show_performance_metrics">Ver rendimiento</string>
+    <string name="skin_outlines">Borde de aspecto</string>
+    <string name="direction_arrow">Flecha de dirección</string>
+    <string name="border_above_entities">Borde sobre las entidades</string>
+    <string name="map_border_visible">Mostrar Borde del Mapa</string>
     <string name="star_background_enabled">Estrellas</string>
     <string name="star_color_white">Blancas</string>
     <string name="star_color_black">Negras</string>
     <string name="name_position">Posición del Nombre</string>
     <string name="name_position_above">Arriba</string>
-    <string name="name_position_center">Centrado</string>
+    <string name="name_position_center">Centro</string>
     <string name="name_position_below">Abajo</string>
-    <string name="name_scale">Escala del nombre</string>
-    <string name="timer_format">Formato del Temporizador</string>
+    <string name="name_scale">Tamaño del nombre</string>
+    <string name="timer_format">Formato de Tiempo</string>
     <string name="timer_format_normal">Normal</string>
     <string name="timer_format_arcade">Arcade</string>
     <string name="timer_format_ticks">Ticks</string>
-    <string name="auto_spectate_killer">Espectar automát. al Morir</string>
-    <string name="cycle_progressbar">Alternar automát. Texto de la Barra de EXP</string>
-    <string name="verbose_in_game_ui">Interfaz Detallada en Juego</string>
-    <string name="jitter_buffer">Jitter Buffer</string>
+    <string name="auto_spectate_killer">Espectar al Morir</string>
+    <string name="cycle_progressbar">Alternar barra de EXP</string>
+    <string name="verbose_in_game_ui">Interfaz detallada</string>
+    <string name="jitter_buffer">Estabilizador de red</string>
 
     <!-- Game/room creation menu-->
     <string name="game_mode">Modo de Juego</string>
-    <string name="select_mode">Seleccionar Modo</string>
+    <string name="select_mode">Elegir Modo</string>
     <string name="minimum_players">Jugadores Mínimos</string>
     <string name="maximum_players">Jugadores Máximos</string>
     <string name="decrease_time">Reducir Tiempo</string>
     <string name="increase_time">Aumentar Tiempo</string>
-    <string name="grace_period">Período de Tiempo Extra</string>
-    <string name="decrease_grace">Reducir Período de Tiempo Extra</string>
-    <string name="increase_grace">Aumentar Período de Tiempo Extra</string>
+    <string name="grace_period">Tiempo Extra</string>
+    <string name="decrease_grace">Reducir Tiempo Extra</string>
+    <string name="increase_grace">Aumentar Tiempo Extra</string>
     <string name="elimination_count">Cuenta Regresiva de Eliminación</string>
-    <string name="decrease_elimination_count">Reducir Cuenta Regresiva de Eliminación</string>
-    <string name="increase_elimination_count">Aumentar Cuenta Regresiva de Eliminación</string>
+    <string name="decrease_elimination_count">Reducción de cuenta Regresiva</string>
+    <string name="increase_elimination_count">Aumento de cuenta Regresiva</string>
     <string name="elimination_interval">Tiempo Entre Eliminación</string>
     <string name="decrease_elimination_interval">Reducir Tiempo Entre Eliminaciones</string>
     <string name="increase_elimination_interval">Aumentar Tiempo Entre Eliminaciones</string>
     <string name="map_size">Tamaño de Mapa</string>
     <string name="bot_count">Número de Bots</string>
-    <string name="bot_difficulty">Dificultad del Bot</string>
-    <string name="decrease_bots">Reducir Bots</string>
-    <string name="increase_bots">Aumentar Bots</string>
-    <string name="max_split_pieces">Divisiones Máximas de Masa</string>
-    <string name="quick_merge">Fusión Rápida</string>
+    <string name="bot_difficulty">Dificultad para Bots</string>
+    <string name="decrease_bots">Menos Bots</string>
+    <string name="increase_bots">Más Bots</string>
+    <string name="max_split_pieces">Divisiones Máximas</string>
+    <string name="quick_merge">Recombinar</string>
     <string name="no_holes">Sin Agujeros</string>
     <string name="circle_map">Mapa Circular</string>
-    <string name="relax">Relax</string>
-    <string name="warning_no_holes">No se Guardarán Estadísticas</string>
+    <string name="relax">Relajado</string>
+    <string name="warning_no_holes">Sin Guardado de Estadísticas</string>
     <string name="gold_holes">Agujeros Dorados</string>
     <string name="starting_difficulty">Dificultad inicial</string>
 
     <!-- Multiplayer -->
     <string name="play_online">JUGAR EN LÍNEA</string>
     <string name="switch_server">Cambiar Servidor</string>
-    <string name="x_players">%s jugadores</string>
+    <string name="x_players">%s Jugadores</string>
     <string name="x_player">%s jugador</string>
-    <string name="x_online">%s conectado</string>
-    <string name="x_requests">%s solicitud(es)</string>
+    <string name="x_online">%s En línea</string>
+    <string name="x_requests">%s solicitudes</string>
     <string name="private_room">Sala Privada</string>
     <string name="private_rooms">Salas Privadas</string>
     <string name="connected">Conectado</string>
-    <string name="select_server">Seleccionar Región</string>
+    <string name="select_server">Elegir Región</string>
     <string name="server_europe">Europa</string>
     <string name="join">Entrar</string>
     <string name="create">Crear</string>
-    <string name="create_chat_room">CREAR CHAT DE SALA</string>
-    <string name="create_private_game">CREAR PARTIDA PRIVADA</string>
+    <string name="create_chat_room">CREAR CHAT</string>
+    <string name="create_private_game">PARTIDA PRIVADA</string>
     <string name="room_full">Sala Llena</string>
     <string name="clan">Clan</string>
     <string name="friends">Amigos</string>
-    <string name="send_friend_request">Enviar Solicitud de Amistad</string>
+    <string name="send_friend_request">Agregar amigo</string>
     <string name="friend_request_accepted">¡Ahora son Amigos!</string>
-    <string name="send_friend_request_by_id_or_name">Envía una Solicitud de Amistad con el ID o el Nombre</string>
-    <string name="cancel_friend_request">Cancelar Solicitud de Amistad</string>
+    <string name="send_friend_request_by_id_or_name">Busca por ID o nombre</string>
+    <string name="cancel_friend_request">Cancelar Solicitud</string>
     <string name="remove_friend">Eliminar Amigo</string>
     <string name="friend_request_sent">Solicitud de Amistad Enviada</string>
     <string name="friend_requests_received">Solicitudes de Amistad</string>
-    <string name="friend_requests_sent">Solicitudes Enviadas</string>
+    <string name="friend_requests_sent">Solicitud Enviada</string>
     <string name="no_friends">Sin Amigos…</string>
     <string name="remove_friend_title">Eliminar Amigo</string>
-    <string name="remove_friend_message">¿Seguro(a) qué quieres dejar de ser Amigo de \"%1$s\" (ID: %2$d)?</string>
+    <string name="remove_friend_message">¿Seguro(a) que quieres dejar de ser Amigo de \"%1$s\" (ID: %2$d)?</string>
     <string name="cancel_request_title">Cancelar Solicitud</string>
     <string name="cancel_request_message">¿Seguro(a) que quieres eliminar la Solicitud de Amistad de \"%1$s\" (ID: %2$d)?</string>
-    <string name="friend_request_error_self">Ups, no puedes enviarte una Solicitud de Amistad a ti mismo.</string>
-    <string name="friend_request_error_already_sent">Ya has enviado una Solicitud de Amistad</string>
+    <string name="friend_request_error_self">Ups, no puedes enviar una Solicitud de Amistad a ti mismo.</string>
+    <string name="friend_request_error_already_sent">Solicitud ya enviada</string>
     <string name="friend_request_error_already_friends">Ya son Amigos</string>
     <string name="friend_request_error_list_full">Lista de Amigos Llena</string>
 
     <!-- Competitive (ranked 1v1) -->
     <string name="competitive">Competitivo</string>
     <string name="competitive_menu">Menú Competitivo</string>
-    <string name="competitive_history">Historial Competitivo</string>
+    <string name="competitive_history">Historial</string>
     <string name="rating_label">Clasificación</string>
     <string name="unrated">Sin Clasificar</string>
-    <string name="find_opponent">ENCONTRAR OPONENTE</string>
-    <string name="leave_matchmaking">ABANDONAR EMPAREJAMIENTO</string>
+    <string name="find_opponent">BUSCAR RIVAL</string>
+    <string name="leave_matchmaking">CANCELAR BÚSQUEDA</string>
     <string name="searching_ellipsis">Buscando…</string>
     <string name="x_searching_y_playing">%1$s buscando · %2$s jugando</string>
-    <string name="x_searching">%d searching</string>
-    <string name="x_playing">%d playing</string>
-    <string name="global_position">Global #%s</string>
+    <string name="x_searching">%d buscando</string>
+    <string name="x_playing">%d jugando</string>
+    <string name="global_position">Puesto Global #%s</string>
     <string name="global_label">Global #</string>
     <string name="wins_draws_losses_winrate">Victorias: %1$s · Empates: %2$s · Derrotas: %3$s · Tasa de Victorias: %4$s%%</string>
     <string name="stat_wins_label">Victorias: </string>
     <string name="stat_draws_label"> · Empates: </string>
     <string name="stat_losses_label"> · Derrotas: </string>
     <string name="stat_winrate_label"> · Tasa de Victorias: </string>
-    <string name="match_starts_in">La batalla empieza en…</string>
+    <string name="match_starts_in">Comienza en…</string>
     <string name="vs_label">VS</string>
     <string name="ongoing_matches">Batallas en curso</string>
-    <string name="match_status_starting">EMPEZANDO BATALLA</string>
-    <string name="match_status_in_progress">BATALLA EMPEZADA</string>
-    <string name="match_status_finished">BATALLA TERMINADA</string>
+    <string name="match_status_starting">¡Empezando!</string>
+    <string name="match_status_in_progress">EN JUEGO</string>
+    <string name="match_status_finished">LA BATALLA TERMINÓ</string>
     <string name="victory">VICTORIA</string>
     <string name="defeat">DERROTA</string>
     <string name="draw">EMPATE</string>
-    <string name="play_again">Jugar de Nuevo</string>
+    <string name="play_again">Volver a Jugar</string>
     <string name="play_x_more_matches_to_rated">¡Juega %d partidas más para Clasificar!</string>
     <string name="play_one_more_match_to_rated">¡Juega un partido más para obtener Puntuación!</string>
     <string name="history_viewer_vs_opponent">%1$svs%2$s</string>
-    <string name="prizes">Premios</string>
-    <string name="prizes_dialog_intro">Antes del reinicio de temporada, los mejores recibirán Voidstone según su rendimiento!</string>
-    <string name="current_season">Temporada actual</string>
+    <string name="prizes">Recompensas</string>
+    <string name="prizes_dialog_intro">¡Antes de reiniciar la temporada, los jugadores recibirán una Voidstone según su rendimiento!</string>
+    <string name="current_season">Temporada Actual</string>
 
     <!-- Shop -->
-    <string name="shop">TIENDA</string>
+    <string name="shop">Tienda</string>
     <string name="ticket">Ticket</string>
     <string name="free_voidstones">¡Voidstones gratis!</string>
     <string name="free_voidstones_subtitle">¡Mira un Anuncio corto para ganar Voidstones gratis!</string>
-    <string name="free_voidstones_won">Obtuviste %d Voidstones!</string>
+    <string name="free_voidstones_won">¡Ganaste %d Voidstones!</string>
     <string name="free_voidstones_status">%1$d Restantes ⋅ Reinicio en %2$s</string>
     <string name="pick">Elegir</string>
     <string name="redeem_code">Canjear Código</string>
     <string name="invalid_code">Código Inválido</string>
     <string name="code_already_claimed">Ups, el Código ya fue Canjeado…</string>
-    <string name="successfully_claimed_code">¡Código Canjeado!</string>
+    <string name="successfully_claimed_code">¡Código Canjeado con éxito!</string>
     <string name="reward_voidstones">+%s Voidstones</string>
     <string name="reward_unlock">Desbloquear: %s</string>
     <string name="reward_name_color">Color de Nombre</string>
-    <string name="reward_name_color_gradient">Color con Degradado de Nombre</string>
-    <string name="reward_name_triple_gradient">Nombre con Triple Gradiente</string>
+    <string name="reward_name_color_gradient">Nombre con degradado</string>
+    <string name="reward_name_triple_gradient">Nombre degradado triple</string>
     <string name="reward_profile_color">Color de Perfil</string>
-    <string name="reward_profile_gradient">Degradado de Perfil</string>
-    <string name="reward_profile_triple_gradient">Degradado Triple de Perfil</string>
-    <string name="reward_profile_description_color">Color de Descripción de Perfil</string>
+    <string name="reward_profile_gradient">Perfil con degradado</string>
+    <string name="reward_profile_triple_gradient">Perfil con degradado triple</string>
+    <string name="reward_profile_description_color">Color de Descripción</string>
     <string name="reward_name_font">Fuente de Nombre</string>
-    <string name="reward_already_owned_compensation">Listo, fue convertido en Voidstones.</string>
+    <string name="reward_already_owned_compensation">¡Ya lo tienes! se convirtió en Voidstones.</string>
     <string name="purchase_id">ID de Compra: %d</string>
     <string name="history">Historial</string>
     <string name="voidstone_history">Historial de Voidstones</string>
     <string name="purchase_history">Historial de Compras</string>
     <string name="no_transactions_yet">Aún no hay Transacciones</string>
-    <string name="admin_reward">Recompensa Admin</string>
-    <string name="in_app_purchase">Compras en la Aplicación</string>
-    <string name="voidstone_gift_received">Regalo de Voidstone Recibido</string>
-    <string name="voidstone_gift_send">Regalo de Voidstone Envidado</string>
-    <string name="skin_bought">Skin Comprada</string>
-    <string name="profile_name_change_bought">Cambio de Nombre del Perfil comprado</string>
-    <string name="profile_name_color_bought">Color de Nombre del Perfil comprado</string>
+    <string name="admin_reward">Regalo del administrador</string>
+    <string name="in_app_purchase">Compras integradas</string>
+    <string name="voidstone_gift_received">¡Voidstone Recibidas!</string>
+    <string name="voidstone_gift_send">Voidstones Envidadas</string>
+    <string name="skin_bought">Aspecto comprado</string>
+    <string name="profile_name_change_bought">Cambio de Nombre comprado</string>
+    <string name="profile_name_color_bought">Color de Nombre comprado</string>
     <string name="profile_color_bought">Color de Perfil Comprado</string>
     <string name="profile_color_gradient_bought">Degradado de Perfil comprado</string>
     <string name="profile_color_gradient_2_bought">Degradado Doble de Perfil comprado</string>
-    <string name="profile_name_font_bought">Fuente de Nombre del Perfil desbloqueado</string>
+    <string name="profile_name_font_bought">Fuente de Nombre desbloqueada</string>
     <string name="admin_deduction">Deducción Admin</string>
-    <string name="giveaway">Premio de Giveaway</string>
+    <string name="giveaway">Premio de sorteo</string>
     <string name="admin_reward_sent">Recompensa Admin enviada</string>
     <string name="admin_deduction_sent">Deducción Admin enviada</string>
     <string name="verify_reward">Verificar Recompensa</string>
-    <string name="competitive_season_reward">Competitive season reward</string>
-    <string name="purchase_remove_ads_label">Remove Ads</string>
-    <string name="purchase_status_permanent">Permanent</string>
-    <string name="purchase_status_refunded">Refunded</string>
+    <string name="competitive_season_reward">Recompensa de temporada</string>
+    <string name="purchase_remove_ads_label">Quitar anuncios</string>
+    <string name="purchase_status_permanent">Permanente</string>
+    <string name="purchase_status_refunded">Reembolsado</string>
 
     <!-- Ads -->
     <string name="ad_not_loaded">El Anuncio aún no ha cargado</string>
     <string name="ad_show_failed">Error al mostrar Anuncio</string>
     <string name="ad_load_failed">Error al cargar Anuncio</string>
-    <string name="ad_rate_limited">Has visto demasiados Anuncios recientemente. Inténtalo de nuevo en %s.</string>
+    <string name="ad_rate_limited">Límite de anuncios alcanzado. Inténtalo de nuevo en %s.</string>
     <string name="time_hrs">hr(s)</string>
     <string name="time_min">min(s)</string>
     <string name="time_sec">seg(s)</string>
     <string name="ad_reward">Recompensas de Anuncios</string>
 
     <!-- Season Pass -->
-     <string name="season_pass">Pase de Temporada</string>
-     <string name="season_pass_season_number">Season %s</string>
+     <string name="season_pass">Pase de temporada</string>
+     <string name="season_pass_season_number">Temporada %s</string>
      <string name="january">Enero</string>
      <string name="february">Febrero</string>
      <string name="march">Marzo</string>
@@ -264,10 +264,10 @@
      <string name="october">Octubre</string>
      <string name="november">Noviembre</string>
      <string name="december">Diciembre</string>
-     <string name="season_bag_title">Bolsa de Monedas</string>
-     <string name="season_bag_entry">Season %1$s — %2$s (%3$s)</string>
+     <string name="season_bag_title">Bolsa de monedas/string>
+     <string name="season_bag_entry">Temporada %1$s — %2$s (%3$s)</string>
      <string name="season_bag_current">Actual</string>
-     <string name="season_bag_last">Anterior</string>
+     <string name="season_bag_last">Último</string>
 
     <!-- Profile -->
     <string name="profile">Perfil</string>
@@ -283,21 +283,21 @@
     <string name="share_id_message">¡Agrégame en Merg! Mi ID es %1$s</string>
     <string name="created">Creada %s</string>
     <string name="last_seen">Última Conexión %s</string>
-    <string name="save_profile_description">Guardar Descripción del Perfil</string>
+    <string name="save_profile_description">Guardar Descripción</string>
     <string name="profile_description_placeholder">Escribe una Descripción.</string>
-    <string name="profile_description_save_success">Descripción del Perfil guardada</string>
-    <string name="profile_description_save_failed">Error al guardar la Descripción del Perfil</string>
+    <string name="profile_description_save_success">Descripción guardada</string>
+    <string name="profile_description_save_failed">Error al guardar la Descripción</string>
     <string name="profile_description_too_long">¡La Descripción del Perfil es demasiado larga! (máx. %d caracteres)</string>
     <string name="profile_description_too_large">La Descripción del Perfil superó los %s</string>
     <string name="unlock_description_color">Desbloquear el Color del Texto de la Descripción</string>
-    <string name="description_text_color">Color del Texto de la Descripción</string>
+    <string name="description_text_color">Color de Texto de la Descripción</string>
     <string name="unlock_description_color_success">¡Color del Texto de la Descripción desbloqueado!</string>
     <string name="unlock_description_color_already_unlocked">Ups, el Color del Texto de la Descripción ya fue desbloqueado.</string>
     <string name="statistics">Estadísticas</string>
     <string name="achievements">Logros</string>
     <string name="delete_account">ELIMINAR CUENTA</string>
     <string name="change_profile_name">Cambiar el Nombre de Perfil</string>
-    <string name="enter_profile_name">Introduce un Nombre de Perfil</string>
+    <string name="enter_profile_name">Introduce tu Nombre de Perfil</string>
     <string name="profile_color">Color de Perfil</string>
     <string name="profile_text_color_white">Texto Blanco</string>
     <string name="profile_text_color_black">Texto Negro</string>
@@ -309,12 +309,12 @@
     <string name="prerequisite_feature">Característica Requerida</string>
     <string name="profile_name_color">COLOR DE NOMBRE DEL PERFIL</string>
     <string name="profile_not_logged_in_error">No has iniciado Sesión. Por favor, Inicia Sesión primero.</string>
-    <string name="profile_name_changed_success">El Nombre de Perfil fue cambiado a %s</string>
+    <string name="profile_name_changed_success">El Nombre de Perfil se cambió a %s</string>
     <string name="profile_name_change_failed">No se pudo cambiar el Nombre</string>
     <string name="profile_name_change_error">No se pudo cambiar el Nombre: %d</string>
     <string name="profile_goodbye">¡Adiós! :(</string>
-    <string name="profile_logged_in_with_name">Iniciaste Sesión en %s</string>
-    <string name="profile_logged_in">Iniciado Sesión…</string>
+    <string name="profile_logged_in_with_name"> Iniciaste sesión como %s</string>
+    <string name="profile_logged_in">Sesión iniciada…</string>
     <string name="profile_logout_confirm">¿Quieres Cerrar Sesión en %s?</string>
     <string name="profile_logout_confirm_no_name">¿Quieres Cerrar la Sesión?</string>
     <string name="profile_logout_all_confirm">¿Seguro(a) que quieres Desconectar todos los Dispositivos de %s? Esto puede tardar hasta una hora.</string>
@@ -328,11 +328,11 @@
     <string name="unlock_name_colors">Desbloquear Colores de Nombre</string>
     <string name="unlock_name_colors_success">¡Colores de Nombre desbloqueados!</string>
     <string name="name_colors_already_unlocked">Ups, los Colores de Nombre ya fueron desbloqueados.</string>
-    <string name="unlock_name_color_gradient">Unlock Gradient Name Colors</string>
+    <string name="unlock_name_color_gradient">Desbloquear degradado de nombre</string>
     <string name="unlock_name_color_gradient_success">¡Color con Degradado de Nombre desbloqueado!</string>
     <string name="unlock_name_color_gradient_already_unlocked">Ups, el Color con Degradado de Nombre ya fue desbloqueado.</string>
-    <string name="unlock_name_triple_gradient">Unlock Gradient Name Colors 2</string>
-    <string name="unlock_name_triple_gradient_success">Name triple gradient unlocked!</string>
+    <string name="unlock_name_triple_gradient">Desbloquear degradado triple de nombre</string>
+    <string name="unlock_name_triple_gradient_success">Nombre con degradado triple desbloqueado!</string>
     <string name="name_color_save_success">¡Colores de Nombre guardados!</string>
     <string name="name_color_save_failed">Ups, no se pudieron guardar los Colores de Nombre…</string>
     <string name="name_colors_not_unlocked">Ups, los Colores de Nombre no han sido desbloqueados.</string>
@@ -366,12 +366,12 @@
     <string name="admin">ADMIN</string>
     <string name="mod">MOD</string>
     <string name="verified">Verificado</string>
-    <string name="youtube">Youtuber</string>
+    <string name="youtube">YT</string>
     <string name="translator">Traductor</string>
     <string name="internal_tester">Evaluador Interno</string>
     <string name="alpha_tester">Evaluador Alfa</string>
     <string name="beta_tester">Evaluador Beta</string>
-    <string name="discord_staff">Discord Merg Staff</string>
+    <string name="discord_staff">Discord Staff</string>
 
     <!-- Voidstone Transfer -->
     <string name="send_voidstones">Enviar Voidstones</string>
@@ -547,7 +547,7 @@
     <string name="stat_blobs_eaten">Blobs Comidos:</string>
     <string name="stat_games_won">Patidas Ganadas:</string>
     <string name="stat_longest_session">Sesión más Larga:</string>
-    <string name="stat_time_played">Time Played:</string>
+    <string name="stat_time_played">Tiempo jugado:</string>
     <string name="stat_stages_cleared">Etapas Superadas:</string>
     <string name="stat_highest_stage">Etapa más Alta:</string>
     <string name="stat_adventures_completed">Aventuras Completadas:</string>
@@ -584,7 +584,7 @@
     <string name="gamemode_teams">Equipos</string>
     <string name="gamemode_survival">Supervivencia</string>
     <string name="gamemode_team_survival">Equipo de Supervivencia</string>
-    <string name="gamemode_knockout">Knockout</string>
+    <string name="gamemode_knockout">Noqueo</string>
     <string name="gamemode_adventure">Aventura</string>
     <string name="gamemode_soccer">Fútbol</string>
     <string name="gamemode_coming_soon">Muy Pronto…</string>
@@ -599,7 +599,7 @@
     <string name="description_soccer">Captura el balón y anótalo a la portería contraria para anotar Gol. ¡El Equipo con más Goles al finalizar el Tiempo gana!</string>
     <string name="description_coming_soon">¡Este Modo estará Disponible Próximamente, no te lo pierdas!</string>
     <string name="description_competitive">¡Supervivencia Clasificatoria 1vs1! Gana Puntos de Clasificación al vencer a oponentes de habilidad similar. Partida de 3 minutos con 2 minutos de prórroga si ninguno de los Jugadores muere. Si ganas, subirás en la Clasificación Mundial; si pierdes, bajarás. La diferencia en la Clasificación depende de la diferencia de Nivel entre tú y tu oponente.</string>
-    <string name="description_multimerg">You spawn TWO blobs and switch control between them with the yin-yang button! Only the active blob responds to your joystick, split, and shoot. The other one keeps moving in its last direction. Your two blobs can eat each other if split, but the final piece is protected.</string>
+    <string name="description_multimerg">¡Apareces con dos blobs. Alternas el control con el boton yin-yang. Solo la activa responde al joystick, división y disparo; la otra sigue su rumbo. pueden comerse entre si al dividirse, pero lapieza final está protegida!.</string>
 
     <!-- Map sizes !-->
     <string name="mapsize_tiny">Enano</string>
@@ -631,7 +631,7 @@
     <string name="timer_time">Tiempo</string>
     <string name="timer_overtime">Tiempo Extra</string>
     <string name="timer_overtime_count">Tiempo Extra %d</string>
-    <string name="timer_grace">Tiempo Fuera</string>
+    <string name="timer_grace">Tiempo agotado</string>
     <string name="timer_tiebreaker">Desempate</string>
     <string name="timer_winner">Ganador</string>
 
@@ -648,11 +648,11 @@
     <string name="buttons_split">Botón de Dividirse</string>
     <string name="select_split">Seleccionar Dividirse</string>
     <string name="split">Dividirse</string>
-    <string name="buttons_yinyang">Switch Blob Button</string>
-    <string name="select_yinyang">Select Switch</string>
-    <string name="yinyang">Switch</string>
+    <string name="buttons_yinyang">Botón de Yin-Yang</string>
+    <string name="select_yinyang">Cambiar blobs</string>
+    <string name="yinyang">Ying-Yang</string>
     <string name="buttons_customize">Personalizar Controles</string>
-    <string name="buttons_orientation_message">Las configuraciones personalizadas para modo vertical y horizontal se guardan por separado</string>
+    <string name="buttons_orientation_message">Las configuraciones de los modos vertical y horizontal se guardan por separado</string>
 
 
     <!-- Skins !-->
@@ -674,7 +674,7 @@
     <string name="room_commands" tools:ignore="TypographyDashes">Commands:\n!op [ID]\n!deop [ID]\n!kick [ID]\n!ban [ID]\n!unban [ID]\n!mute [ID]\n!unmute [ID]\n!slowmode [1-60]\n!pausechat [-1: unpause; 0: permanent; 1-3600 seconds]\n!hidden\n!minplayers [amount]\n!reset\n!close</string>
     <string name="chat_close">Cerrar Chat</string>
     <string name="chat_message_hint">Escribe un Mensaje…</string>
-    <string name="chat_send_message">Mandar Mensaje</string>
+    <string name="chat_send_message">Enviar Mensaje</string>
     <string name="copy_name">Copiar Nombre</string>
     <string name="copy_message">Copiar Mensaje</string>
     <string name="view_profile">Ver Perfil</string>
@@ -724,7 +724,7 @@
     <string name="voidstones">Voidstones</string>
     <string name="blobs_eaten">Blobs Comidos</string>
     <string name="session_stat_size_gained">Masa Recolectada:</string>
-    <string name="highest_rank">Rango más Alto</string>
+    <string name="highest_rank">Rango más alto</string>
     <string name="session_stat_highest_size">Blob más Grande:</string>
     <string name="spectate_ball">Bola</string>
     <string name="leaderboard">Tabla de Clasificación</string>
@@ -738,7 +738,7 @@
     <string name="dialog_confirm_account_deletion">ELIMINAR CUENTA</string>
     <string name="dialog_leave_game">¿Salir del Juego?</string>
     <string name="dialog_respawn_warning">¿Seguro(a) que quieres Reaparecer? Perderás toda tu Masa.</string>
-    <string name="dialog_change_language">¿Quieres cambiar el Idioma a %s? La Aplicacion necesita Cerrarse.</string>
+    <string name="dialog_change_language">¿Quieres cambiar el idioma a %s? La aplicacion necesita Cerrarse.</string>
     <string name="dialog_connection_error">Error de Conexión</string>
     <string name="dialog_disconnected">Desconectado</string>
     <string name="dialog_disconnected_message">Ups, se ha perdido la Conexión con el Servidor.</string>
@@ -751,18 +751,18 @@
     <string name="room_name">Nombre de la Sala</string>
     <string name="reported">Sala Reportada</string>
     <string name="reason">Razón</string>
-    <string name="room_crash">Ups, hay un Error con la Sala: %s</string>
-    <string name="app_crash">Ups, hay un Error con la Aplicación: %s</string>
+    <string name="room_crash">Ups, hay un error en la sala: %s</string>
+    <string name="app_crash">Ups, hay un error con la aplicación: %s</string>
     <string name="dialog_reload">RECARGAR</string>
     <string name="dialog_yes">SÍ</string>
     <string name="dialog_no">NO</string>
-    <string name="dialog_ok">OKEY</string>
+    <string name="dialog_ok">ACEPTAR</string>
     <string name="dialog_copy">COPIADO</string>
     <string name="dialog_notice">Noticia</string>
     <string name="dialog_warning">Advertencia</string>
     <string name="dialog_alert">Alerta</string>
     <string name="dialog_dont_show_again">No Volver a Mostrar</string>
-    <string name="dialog_dismiss">Minimizar</string>
+    <string name="dialog_dismiss">Descartar</string>
     <string name="dialog_previous">Volver</string>
     <string name="dialog_next">Siguiente</string>
     <string name="dialog_update">Actualización</string>
@@ -770,7 +770,7 @@
     <string name="permission_denied">Permiso Denegado</string>
     <string name="dialog_locked">Bloqueado</string>
     <string name="duplicate_connection">Ups, alguien más está usando tu Cuenta Merg.</string>
-    <string name="outdated_client">Outdated Client!\nClient: %1$s (%2$d)\nServer: %3$s (%4$d)</string>
+    <string name="outdated_client">¡Cliente desactualizado!\nClient: %1$s (%2$d)\nServer: %3$s (%4$d)</string>
 
     <!-- Block Player -->
     <string name="blocked_players">Jugadores Bloqueados</string>
@@ -779,12 +779,12 @@
     <string name="block_player">Bloquear Jugador</string>
     <string name="unblock_player">Desbloquear Jugador</string>
     <string name="block_confirm_title">Bloquear Jugador</string>
-    <string name="block_confirm_message">¿Seguro(a) que quieres Bloquear a %s? No podrán enviarse Correos, Solicitudes de Amistad y ambos serán Eliminados de sus Listas de Amigos.</string>
+    <string name="block_confirm_message">¿Seguro(a) que quieres Bloquear a %s? No podrán enviarse correos, solicitudes de amistad y ambos serán eliminados de sus Listas de Amigos.</string>
     <string name="player_unblocked">Jugador desbloqueado</string>
     <string name="player_blocked">Jugador Bloqueado</string>
     <string name="you_blocked_user">Has Bloqueado a este Jugador</string>
     <string name="user_blocked_you">Bloqueado</string>
-    <string name="both_blocked">Ambos Jugadores están Bloqueados Mutuamente</string>
+    <string name="both_blocked">Ambos jugadores están Bloqueados mutuamente</string>
 
     <!-- LAN Multiplayer -->
     <string name="host_local_game">CREAR SALA LOCAL</string>
@@ -795,14 +795,14 @@
     <string name="enter_ip">Insertar IP</string>
     <string name="join_ip_title">Unirse a esta Dirección IP</string>
     <string name="tap_to_reveal">Toca para Revelar</string>
-    <string name="remote_lan_connections">Para permitir que otros Clientes se Conecten Remotamente a través de una IP Pública, debe redirigir el puerto UDP %d o habilitar la DMZ para su Dispositivo en la Configuración de su enrutador. Tenga en cuenta que las Conexiones podrían fallar si su Red utiliza NAT simétrica/CGNAT. Para obtener más información y comprobar su tipo de NAT actual, visite %s.</string>
+    <string name="remote_lan_connections">Para permitir que otros Clientes se conecten remotamente a través de una IP Pública, debe redirigir el puerto UDP %d o habilitar la DMZ para su Dispositivo en la Configuración de su enrutador. Tenga en cuenta que las Conexiones podrían fallar si su Red utiliza NAT simétrica/CGNAT. Para obtener más información y comprobar su tipo de NAT actual, visite %s.</string>
 
     <!-- Player List -->
     <string name="players">Jugadores</string>
     <string name="spectators">Espectadores</string>
     <string name="joined_room">Te uniste a la Sala %s</string>
     <string name="player_list_title">LISTA DE JUGADORES</string>
-    <string name="staff_list_title">STAFF LIST</string>
+    <string name="staff_list_title">LISTA DE STAFFS</string>
     <string name="player_list_count">Jugadores: %d ⋅ Bots: %d ⋅ Total: %d</string>
     <string name="player_list_count_with_spectators">Jugadores: %d ⋅ Bots: %d ⋅ Espectadores: %d ⋅ Total: %d</string>
     <string name="kick_confirm_title">Expulsar de la Sala</string>
@@ -813,7 +813,7 @@
     <!-- Custom Images -->
     <string name="custom_images">Skin Personalizada</string>
     <string name="profile_avatar">Avatar de Perfil</string>
-    <string name="custom_image_rules">CONTENIDO EXPLÍCITAMENTE PROHIBIDO:\n\n- NSFW / Contenido sexual\n- Violencia / Gore\n- Armas\n- Referecias de odio\n- Discursos con odio/discriminación\n- Drogas\n- Contenido impactante/repugnante\n- Personajes/logotipos con copyright\n- Referencias al alcohol/tabaco\n- Imágenes terroríficas/escalofriantes</string>
+    <string name="custom_image_rules">CONTENIDO EXPLÍCITAMENTE PROHIBIDO:\n\n- NSFW / Contenido sexual\n- Violencia / Gore\n- Armas\n- Referencias de odio\n- Discursos con odio/discriminación\n- Drogas\n- Contenido impactante/repugnante\n- Personajes/logotipos con copyright\n- Referencias al alcohol/tabaco\n- Imágenes terroríficas/escalofriantes</string>
     <string name="custom_image_upload">Subir</string>
     <string name="custom_image_replace">Reemplazar</string>
     <string name="custom_image_deselect">Deseleccionar</string>
@@ -824,10 +824,10 @@
     <string name="custom_image_deselected">Avatar Deseleccionado</string>
     <string name="custom_image_upload_failed">Ups, ocurrió un Error al Subir tu Imagen.</string>
     <string name="custom_image_read_error">Ups, no pudimos Cargar tu Imagen.</string>
-    <string name="custom_image_invalid_format">Ups, el archivo debe ser una Imagen.</string>
+    <string name="custom_image_invalid_format">Ups, el archivo debe ser una imagen.</string>
     <string name="custom_image_error_size">La Imagen %1$dKB es demasiado Pesada (max %2$dKB)</string>
-    <string name="custom_image_error_dimensions">La Imagen %1$dx%2$d es demasiado Grande (max. %3$dx%4$d pixeles)</string>
-    <string name="custom_image_error_both">Your image %1$dKB / %3$dx%4$d is too large (max %2$dKB / %5$dx%6$d pixels)</string>
+    <string name="custom_image_error_dimensions">La imagen %1$dx%2$d es demasiado Grande (max. %3$dx%4$d pixeles)</string>
+    <string name="custom_image_error_both">Tu imagen %1$dKB / %3$dx%4$d es demasiado pesada (max %2$dKB / %5$dx%6$d pixels)</string>
     <string name="custom_image_compress_title">La Imagen es demasiado Pesada - ¿Quieres Comprimirla?</string>
     <string name="custom_image_compress_accept">Comprimir Imagen</string>
     <string name="custom_image_compress_failed">La Imagen no se pudo Comprimir para ajustarse al límite de KB.</string>
@@ -841,7 +841,7 @@
     <string name="report_avatar">Reportar Skin Personalizada</string>
     <string name="report_avatar_message">¿Seguro(a) que quieres Reportar la Skin Personalizada de %1$s?</string>
     <string name="report_avatar_success">Skin Personalizada Reportada</string>
-    <string name="report_avatar_failed">Ups, no se pudo Reportar la Skin Personalizada.</string>
+    <string name="report_avatar_failed">Ups, no se pudo reportar la Skin Personalizada.</string>
 
     <!-- Account recovery -->
     <string name="account_recovery">Recuperar Cuenta</string>
@@ -864,7 +864,7 @@
     <string name="recovery_error_email_taken">Ups, este Correo Electrónico ya está siendo utilizado en otra Cuenta. Elimine esa Cuenta o utilice otro Correo Electrónico.</string>
     <string name="recovery_error_google_taken">Ups, esta Cuenta de Google ya está Vinculada a otra Cuenta.</string>
     <string name="recovery_error_email_mismatch">Ups, el Correo Electrónico no coincide con la Cuenta de Google con la que Iniciaste esta Sesión.</string>
-    <string name="recovery_error_cooldown">Ups, la Cuenta se ha Recuperado recientemente. Por favor, espere 24hrs para volver a intentarlo.</string>
+    <string name="recovery_error_cooldown">Ups, la Cuenta se ha Recuperado recientemente. Por favor, espere 24 hrs para volver a intentarlo.</string>
     <string name="recovery_error_banned">Ups, la Cuenta está Baneada y no se puede Recuperar.</string>
     <string name="recovery_error_not_found">Ups, no se encontró ninguna Cuenta con ese ID.</string>
     <string name="recovery_error_rate_limited">Demasiados intentos. Por favor, espere e inténtelo de nuevo más tarde.</string>
@@ -873,9 +873,9 @@
     <string name="recovery_error_internal">Ups, tuvimos un problema al procesar tu Solicitud. Inténtalo de nuevo más tarde.</string>
 
     <!-- Miscellaneous !-->
-    <string name="no_internet_connection">No internet connection. Check the network settings of your device.</string>
-    <string name="server_not_running">Server is not running</string>
-    <string name="name_change_reconnect_notice">For the name change to take effect, you will be reconnected to the server.</string>
+    <string name="no_internet_connection">Sin conexión a internet. Comprueba la configuración de red de tu dispositivo.</string>
+    <string name="server_not_running">El servidor no está en ejecución</string>
+    <string name="name_change_reconnect_notice">Para que el cambio de nombre surta efecto, se te reconectará al servidor.</string>
     <string name="play">Jugar</string>
     <string name="id">ID:</string>
     <string name="sort_id_desc">ID ↓</string>
@@ -913,7 +913,7 @@
     <string name="kick">Expulsar</string>
     <string name="ban">Banear</string>
     <string name="signal">Señal</string>
-    <string name="home">Salir</string>
+    <string name="home">Inicio</string>
     <string name="settings">Ajustes</string>
     <string name="team">Equipo</string>
     <string name="game_menu">MENÚ DEL JUEGO</string>
@@ -953,17 +953,17 @@
     <string name="invalid_selection">Ups, la Selección no es Válida.</string>
     <string name="invalid_name">¡Nombre Inválido!</string>
     <string name="content_blocked">Contenido Bloqueado</string>
-    <string name="connecting">Conectando%s</string>
+    <string name="connecting">Conectando a %s</string>
     <string name="error">Error</string>
     <string name="error_with_string">Error: %s</string>
     <string name="copied_to_clipboard">Copiado al Portapapeles.</string>
-    <string name="invalid_request">La solicitud tiene un formato Incorrecto o le faltan campos Obligatorios.</string>
+    <string name="invalid_request">La solicitud tiene un formato Incorrecto o le faltan campos obligatorios.</string>
     <string name="invalid_token">Sesión Inválida o Caducada. Inicie Sesión de nuevo.</string>
     <string name="rate_limited">Por favor, espera %d segundo(s) e intenta de nuevo.</string>
     <string name="nonexistent_user">Usuario no Encontrado</string>
     <string name="not_enough_voidstones">No hay suficientes Voidstones</string>
-    <string name="ok">OK</string>
-    <string name="unlock_skin">Unlock</string>
+    <string name="ok">Aceptar</string>
+    <string name="unlock_skin">Desbloquear Skin</string>
     <string name="database_write_fail">Ups, hubo un error al escribir la Base de Datos.</string>
     <string name="database_read_fail">Ups, hubo un error en la lectura de la Base de Datos.</string>
     <string name="banned">Baneado</string>
