@@ -992,4 +992,6 @@
     <string name="clan_already_requested_other">既にクラン参加リクエストを送信しました</string>
     <string name="before">以前</string>
     <string name="after">現在</string>
+    <string name="clan_id">Clan ID:</string>
+    <string name="editing_message">Editing message</string>
 </resources>
