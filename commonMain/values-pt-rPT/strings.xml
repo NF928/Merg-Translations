@@ -992,4 +992,6 @@
     <string name="clan_already_requested_other">Already requested to join this clan</string>
     <string name="before">Before</string>
     <string name="after">After</string>
+    <string name="clan_id">Clan ID:</string>
+    <string name="editing_message">Editing message</string>
 </resources>
