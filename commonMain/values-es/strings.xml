@@ -197,6 +197,7 @@
     <string name="free_voidstones_subtitle">¡Mira un Anuncio corto para ganar Voidstones gratis!</string>
     <string name="free_voidstones_won">¡Ganaste %d Voidstones!</string>
     <string name="free_voidstones_status">%1$d Restantes ⋅ Reinicio en %2$s</string>
+    <string name="free_voidstones_left">%d left</string>
     <string name="pick">Elegir</string>
     <string name="redeem_code">Canjear Código</string>
     <string name="invalid_code">Código Inválido</string>
@@ -264,7 +265,7 @@
      <string name="october">Octubre</string>
      <string name="november">Noviembre</string>
      <string name="december">Diciembre</string>
-     <string name="season_bag_title">Bolsa de monedas/string>
+     <string name="season_bag_title">Bolsa de monedas</string>
      <string name="season_bag_entry">Temporada %1$s — %2$s (%3$s)</string>
      <string name="season_bag_current">Actual</string>
      <string name="season_bag_last">Último</string>
@@ -994,4 +995,4 @@
     <string name="after">Después</string>
     <string name="clan_id">Clan ID:</string>
     <string name="editing_message">Editing message</string>
-    </resources>
+</resources>

@@ -197,6 +197,7 @@
     <string name="free_voidstones_subtitle">Pick a square and watch a short video ad to earn voidstones!</string>
     <string name="free_voidstones_won">You got %d voidstones!</string>
     <string name="free_voidstones_status">%1$d left ⋅ Resets in %2$s</string>
+    <string name="free_voidstones_left">%d left</string>
     <string name="pick">Kuha</string>
     <string name="redeem_code">Redeem Code</string>
     <string name="invalid_code">Invalid Code</string>
