@@ -197,6 +197,7 @@
     <string name="free_voidstones_subtitle">マスを選んで、広告を視聴してボイドストーンをケットしよう！</string>
     <string name="free_voidstones_won">ボイドストーンを%d枚獲得しました！</string>
     <string name="free_voidstones_status">残り%1$d件・%2$s後にリセット</string>
+    <string name="free_voidstones_left">%d left</string>
     <string name="pick">選ぶ</string>
     <string name="redeem_code">コードを利用</string>
     <string name="invalid_code">無効なコードです</string>

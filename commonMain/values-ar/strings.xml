@@ -23,7 +23,7 @@
     <string name="language_arabic">العربية</string>
     <string name="language_bengali">বাংলা</string>
     <string name="language_chinese">中文</string>
-   <string name="language_chinese_traditional">繁體中文</string>
+    <string name="language_chinese_traditional">繁體中文</string>
     <string name="language_czech">Čeština</string>
     <string name="language_danish">Dansk</string>
     <string name="language_dutch">Nederlands</string>
@@ -197,6 +197,7 @@
     <string name="free_voidstones_subtitle">اختر مربعا وشاهد إعلان فيديو قصيرا لتربح فويدستون!</string>
     <string name="free_voidstones_won">لقد حصلت على %d فويدستون!</string>
     <string name="free_voidstones_status">متبقي %1$d ⋅ يعاد كل %2$s</string>
+    <string name="free_voidstones_left">%d left</string>
     <string name="pick">يختار</string>
     <string name="redeem_code">استرداد الرمز</string>
     <string name="invalid_code">رمز غير صالح</string>
@@ -212,7 +213,7 @@
     <string name="reward_profile_triple_gradient">تدرج ثلاثي للون الملف</string>
     <string name="reward_profile_description_color">لون وصف الملف</string>
     <string name="reward_name_font">خط الاسم</string>
-    <string name="reward_already_owned_compensation">مملوك مسبقاً. تم التحويل إلى فويدستون</string>    
+    <string name="reward_already_owned_compensation">مملوك مسبقاً. تم التحويل إلى فويدستون</string>
     <string name="purchase_id">معرف الشراء: %d</string>
     <string name="history">History</string>
     <string name="voidstone_history">تاريخ الفويدستون</string>
