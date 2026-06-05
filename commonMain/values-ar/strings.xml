@@ -412,7 +412,7 @@
     <string name="clan_leave">الخروج من الكلان</string>
     <string name="clan_leave_confirm">هل أنت متأكد من الخروج من الكلان؟ </string>
     <string name="clan_owner_must_transfer">You must transfer ownership to another member before leaving.</string>
-    <string name="clan_request_sent"> تم إرسال طلب الانضمام .</string>
+    <string name="clan_request_sent">تم إرسال طلب الانضمام.</string>
     <string name="clan_disband">Disband Clan</string>
     <string name="clan_disband_confirm">Are you sure you want to disband this clan? This cannot be undone!</string>
     <string name="clan_invite">Invite Player</string>
