@@ -1,12 +1,14 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name" translatable="false">Merg</string>
-
+    
+  <!-- Main menu !-->
     <string name="singleplayer">Одиночная игра</string>
     <string name="lan_multiplayer">Мультиплеер по LAN</string>
     <string name="online_multiplayer">Онлайн-мультиплеер</string>
     <string name="options">Настройки</string>
     <string name="discord" translatable="false">Discord</string>
-
+    
+ <!-- Support menu !-->
     <string name="email" translatable="false">redpixels.studio21@gmail.com</string>
     <string name="email_copy">Копировать Email</string>
     <string name="email_support">Служба поддержки:</string>
@@ -15,7 +17,8 @@
     <string name="skins">Скины:</string>
     <string name="graphics_icons">Графика/Иконки:</string>
     <string name="translations">Переводы:</string>
-
+    
+  <!-- Options menu !-->
     <string name="language">Язык</string>
     <string name="language_arabic">العربية | Арабский</string>
     <string name="language_bengali">বাংলা | Бенгальский</string>
@@ -83,7 +86,8 @@
     <string name="cycle_progressbar">Цикличный текст шкалы опыта</string>
     <string name="verbose_in_game_ui">Подробный игровой интерфейс</string>
     <string name="jitter_buffer">Буфер джиттера</string>
-
+    
+  <!-- Game/room creation menu-->
     <string name="game_mode">Режим игры</string>
     <string name="select_mode">Выбрать режим</string>
     <string name="minimum_players">Минимум игроков</string>
@@ -112,7 +116,8 @@
     <string name="warning_no_holes">Статистика сохраняться не будет</string>
     <string name="gold_holes">Золотые дыры</string>
     <string name="starting_difficulty">Начальная сложность</string>
-
+    
+  <!-- Multiplayer -->
     <string name="play_online">ИГРАТЬ ОНЛАЙН</string>
     <string name="switch_server">Сменить сервер</string>
     <string name="x_players">Игроков: %s</string>
@@ -148,7 +153,8 @@
     <string name="friend_request_error_already_sent">Запрос в друзья уже отправлен</string>
     <string name="friend_request_error_already_friends">Вы уже друзья</string>
     <string name="friend_request_error_list_full">Список друзей заполнен</string>
-
+    
+<!-- Competitive (ranked 1v1) -->
     <string name="competitive">Соревновательный</string>
     <string name="competitive_menu">СОРЕВНОВАТЕЛЬНЫЙ РЕЖИМ</string>
     <string name="competitive_history">История соревнований</string>
@@ -183,12 +189,13 @@
     <string name="prizes">Призы</string>
     <string name="prizes_dialog_intro">Перед каждым сбросом сезона лучшие игроки получат награду в виде Пустотных камней в зависимости от их результатов!</string>
     <string name="current_season">Текущий сезон</string>
-
+    
+  <!-- Shop -->
     <string name="shop">Магазин</string>
     <string name="ticket">Билет</string>
-    <string name="free_voidstones">Бесплатные Пустотные камни!</string>
-    <string name="free_voidstones_subtitle">Выберите квадрат и посмотрите короткую рекламу, чтобы заработать Пустотные камни!</string>
-    <string name="free_voidstones_won">Вы получили %d Пустотных камней!</string>
+    <string name="free_voidstones">Бесплатные войдстоуны!</string>
+    <string name="free_voidstones_subtitle">Выберите квадрат и посмотрите короткую рекламу, чтобы заработать войдстоуны!</string>
+    <string name="free_voidstones_won">Вы получили %d войдстоунов!</string>
     <string name="free_voidstones_status">Осталось: %1$d ⋅ Сброс через %2$s</string>
     <string name="free_voidstones_left">Осталось: %d</string>
     <string name="pick">Выбрать</string>
@@ -209,13 +216,13 @@
     <string name="reward_already_owned_compensation">Уже имеется. Конвертировано в Пустотные камни</string>
     <string name="purchase_id">ID покупки: %d</string>
     <string name="history">История</string>
-    <string name="voidstone_history">История Пустотных камней</string>
+    <string name="voidstone_history">История войдстоунов</string>
     <string name="purchase_history">История покупок</string>
     <string name="no_transactions_yet">Транзакций пока нет</string>
     <string name="admin_reward">Награда от админа</string>
     <string name="in_app_purchase">Внутриигровая покупка</string>
-    <string name="voidstone_gift_received">Получен дар Пустотных камней</string>
-    <string name="voidstone_gift_send">Отправлен дар Пустотных камней</string>
+    <string name="voidstone_gift_received">Получен дар войдстоунов</string>
+    <string name="voidstone_gift_send">Отправлен дар войдстоунов</string>
     <string name="skin_bought">Скин</string>
     <string name="profile_name_change_bought">Смена имени профиля</string>
     <string name="profile_name_color_bought">Разблокировка цвета имени профиля</string>
@@ -232,7 +239,8 @@
     <string name="purchase_remove_ads_label">Отключить рекламу</string>
     <string name="purchase_status_permanent">Навсегда</string>
     <string name="purchase_status_refunded">Возвращено</string>
-
+    
+ <!-- Ads -->
     <string name="ad_not_loaded">Реклама ещё не загрузилась</string>
     <string name="ad_show_failed">Не удалось показать рекламу</string>
     <string name="ad_load_failed">Не удалось загрузить рекламу</string>
@@ -241,7 +249,8 @@
     <string name="time_min">мин</string>
     <string name="time_sec">сек</string>
     <string name="ad_reward">Награда за видеорекламу</string>
-
+    
+    <!-- Season Pass -->
     <string name="season_pass">Сезонный пропуск</string>
      <string name="season_pass_season_number">Сезон %s</string>
      <string name="january">Январь</string>
@@ -260,7 +269,8 @@
      <string name="season_bag_entry">Сезон %1$s — %2$s (%3$s)</string>
      <string name="season_bag_current">Текущий</string>
      <string name="season_bag_last">Последний</
-
+         
+    <!-- Profile -->
     <string name="profile">Профиль</string>
     <string name="not_logged_in">Вы не вошли в систему!</string>
     <string name="login">Войти</string>
@@ -350,7 +360,8 @@
     <string name="unlock_profile_colors_gradient_not_unlocked">Градиентные цвета профиля не разблокированы</string>
     <string name="unlock_profile_colors_gradient_2_not_unlocked">Градиентные цвета профиля 2 не разблокированы</string>
     <string name="profile_color_save_failed">Не удалось сохранить цвета профиля</string>
-
+         
+   <!-- Profile Tags -->
     <string name="developer_tag">Разработчик</string>
     <string name="code_contribution_tag">Вклад в код</string>
     <string name="admin">АДМИН</string>
@@ -362,23 +373,26 @@
     <string name="alpha_tester">Альфа-тестер</string>
     <string name="beta_tester">Бета-тестер</string>
     <string name="discord_staff">Персонал Discord</string>
-
-    <string name="send_voidstones">Отправить Пустотные камни</string>
-    <string name="send_voidstones_to">Отправить Пустотные камни игроку %1$s ID: %2$d</string>
-    <string name="send_voidstones_confirm">Отправить %1$s Пустотных камней игроку %2$s (ID: %3$d)?</string>
-    <string name="send_voidstones_self">Нельзя отправлять Пустотные камни самому себе</string>
-    <string name="voidstone_gift_from">Дар Пустотных камней от %1$s (ID: %2$d)</string>
-    <string name="voidstone_gift_to">Дар Пустотных камней для %1$s (ID: %2$d)</string>
-    <string name="voidstone_gift_from_label">Дар Пустотных камней от:</string>
-    <string name="voidstone_gift_to_label">Дар Пустотных камней для:</string>
+         
+    <!-- Voidstone Transfer -->
+    <string name="send_voidstones">Отправить войдстоуны</string>
+    <string name="send_voidstones_to">Отправить войдстоуны игроку %1$s ID: %2$d</string>
+    <string name="send_voidstones_confirm">Отправить %1$s войдстоунов игроку %2$s (ID: %3$d)?</string>
+    <string name="send_voidstones_self">Нельзя отправлять войдстоуны самому себе</string>
+    <string name="voidstone_gift_from">Дар войдстоунов от %1$s (ID: %2$d)</string>
+    <string name="voidstone_gift_to">Дар войдстоунов для %1$s (ID: %2$d)</string>
+    <string name="voidstone_gift_from_label">Дар войдстоунов от:</string>
+    <string name="voidstone_gift_to_label">Дар войдстоунов для:</string>
     <string name="voidstone_gift_player">%1$s (ID: %2$d)</string>
     <string name="transaction_fee">включает комиссию %d%%</string>
     <string name="transaction_fee_amount">комиссия: -%s</string>
-
+         
+ <!-- Search Profile -->
     <string name="search_account">Поиск аккаунта</string>
     <string name="search_account_by_id_or_name">Искать аккаунт по ID или имени</string>
     <string name="no_account_found">Аккаунт не найден</string>
-
+         
+  <!-- Clan -->
     <string name="clan_create">Создать клан</string>
     <string name="clan_name">Название клана</string>
     <string name="clan_name_hint">Введите название клана (макс. 14)</string>
@@ -441,7 +455,7 @@
     <string name="clan_invite_list_full">Список приглашений этого клана заполнен (макс. 100).</string>
     <string name="clan_player_invite_list_full">У этого игрока уже максимальное количество ожидающих приглашений.</string>
     <string name="clan_request_list_full">Список заявок на вступление этого клана заполнен (макс. 100).</string>
-    <string name="clan_donate_voidstones">Пожертвовать Пустотные камни</string>
+    <string name="clan_donate_voidstones">Пожертвовать войдстоуны</string>
     <string name="clan_donate_hint">100 – 100,000</string>
     <string name="clan_donate_sent">Пожертвование отправлено!</string>
     <string name="clan_not_a_member">Вы не являетесь участником этого клана.</string>
@@ -496,7 +510,8 @@
     <string name="clan_history_event_purchase_triple_gradient">Куплен тройной градиент клана</string>
     <string name="clan_history_event_purchase_description_color">Куплен цвет описания клана</string>
     <string name="clan_history_event_rename">Клан переименован</string>
-
+         
+    <!-- Leaderboard !-->
     <string name="leaderboard_type">Тип списка лидеров</string>
     <string name="leaderboard_xp_description">Очки опыта. Требуются для повышения уровня. Можно получить за любое полезное действие в игре.</string>
     <string name="leaderboard_competitive_description">Рейтинговая таблица 1v1. В список попадают только те игроки, которые завершили хотя бы 12 соревновательных матчей.</string>
@@ -510,6 +525,7 @@
     <string name="leaderboard_empty">Записей пока нет</string>
     <string name="leaderboard_load_error">Не удалось загрузить список лидеров</string>
 
+    <!-- Statistics !-->
     <string name="all">Все</string>
     <string name="stat_highest_size">Макс. размер:</string>
     <string name="stat_size_gained">Набранный размер:</string>
@@ -541,7 +557,9 @@
     <string name="stat_boosts">Ускорения:</string>
     <string name="stat_teleports">Телепорты:</string>
     <string name="stat_rewarded_ads_watched">Посмотрено рекламы с наградой:</string>
+         
 
+    <!-- Mail !-->
     <string name="mail">Почта</string>
     <string name="sent_mail_to_id">Письмо отправлено на ID %d</string>
     <string name="mail_id">ID письма: %d</string>
@@ -562,7 +580,8 @@
     <string name="mark_unread">Отметить как непрочитанное</string>
     <string name="copy_verification_code">Копировать код верификации</string>
     <string name="code_copied">Код скопирован в буфер обмена!</string>
-
+         
+ <!-- Gamemodes !-->
     <string name="gamemode_classic">Классика</string>
     <string name="gamemode_teams">Команды</string>
     <string name="gamemode_survival">Выживание</string>
@@ -583,17 +602,20 @@
     <string name="description_coming_soon">Этот режим появится совсем скоро, следите за обновлениями!</string>
     <string name="description_competitive">Рейтинговое выживание 1v1! Зарабатывайте рейтинг, побеждая соперников равного уровня. Матч длится 3 минуты с 2-минутным овертаймом, если никто не погибнет. Побеждайте, чтобы подниматься в мировом списке лидеров; поражение опустит вас вниз, а величина изменения рейтинга зависит от разницы между вами и соперником.</string>
     <string name="description_multimerg">Вы появляетесь в виде ДВУХ капель и переключаете управление между ними кнопкой инь-ян! Только активная капля реагирует на ваш джойстик, разделение и выстрелы. Вторая продолжает движение в последнем заданном направлении. Ваши две капли могут съесть друг друга при разделении, но финальная часть защищена.</string>
-
+         
+ <!-- Map sizes !-->
     <string name="mapsize_tiny">Крошечная</string>
     <string name="mapsize_small">Маленькая</string>
     <string name="mapsize_medium">Средняя</string>
     <string name="mapsize_large">Большая</string>
     <string name="mapsize_xl">XL</string>
-
+         
+   <!-- Bot difficulties !-->
     <string name="difficulty_easy">Легко</string>
     <string name="difficulty_normal">Нормально</string>
     <string name="difficulty_hard">Сложно</string>
-
+         
+  <!-- Adventure mode !-->
     <string name="adventure_stage">Этап</string>
     <string name="adventure_initializing">Инициализация…</string>
     <string name="adventure_obj_eat_all_bots">Съесть всех ботов</string>
@@ -605,15 +627,17 @@
     <string name="adventure_obj_growing_bots">Растущие боты!</string>
     <string name="adventure_obj_reach_size">Достичь размера %d</string>
     <string name="adventure_obj_finish_first">Финишировать 1-м</string>
-    <string name="adventure_obj_collect_voidstones">Собрать Пустотные камни: %d</string>
-
+    <string name="adventure_obj_collect_voidstones">Собрать войдстоуны: %d</string>
+         
+      <!-- Timer text !-->
     <string name="timer_time">Время</string>
     <string name="timer_overtime">Овертайм</string>
     <string name="timer_overtime_count">Овертайм %d</string>
     <string name="timer_grace">Мир</string>
     <string name="timer_tiebreaker">Тай-брейк</string>
     <string name="timer_winner">Победитель</string>
-
+         
+  <!-- Buttons !-->
     <string name="blue_team">Синяя команда</string>
     <string name="red_team">Красная команда</string>
     <string name="green_team">Зелёная команда</string>
@@ -630,8 +654,8 @@
     <string name="yinyang">Смена</string>
     <string name="buttons_customize">Настроить кнопки</string>
     <string name="buttons_orientation_message">Настройки для портретного и ландшафтного режимов сохраняются отдельно</string>
-
-
+         
+    <!-- Skins !-->
     <string name="skin">Скин</string>
     <string name="no_skin">Без скина</string>
     <string name="selected_skin">Выбранный скин</string>
@@ -644,7 +668,7 @@
     <string name="level_skin_locked">Скин открывается на уровне %d</string>
     <string name="level_lock">Блокировка по уровню</string>
 
-
+ <!-- Chat !-->
     <string name="chat">Чат</string>
     <string name="room_commands" tools:ignore="TypographyDashes">Команды:\n!op [ID]\n!deop [ID]\n!kick [ID]\n!ban [ID]\n!unban [ID]\n!mute [ID]\n!unmute [ID]\n!slowmode [1-60]\n!pausechat [-1: включить; 0: навсегда; 1-3600 секунд]\n!hidden\n!minplayers [кол-во]\n!reset\n!close</string>
     <string name="chat_close">Закрыть чат</string>
@@ -659,7 +683,8 @@
     <string name="chat_paused">Чат на паузе</string>
     <string name="reply">Ответить</string>
     <string name="replying_to">Ответ пользователю %s</string>
-
+         
+ <!-- Notification box !-->
     <string name="level_up">Уровень ПОВЫШЕН! %d</string>
     <string name="game_over">Игра окончена!</string>
     <string name="stage_clear">Этап %s пройден!</string>
@@ -669,7 +694,8 @@
     <string name="server_reboot">Перезагрузка сервера</string>
     <string name="server_shutdown">Выключение сервера</string>
     <string name="afk_disconnect">Отключение за AFK</string>
-
+         
+ <!-- Suffixes for ORDINAL numbers !-->
     <string name="ordinal_first">%d-й</string>
     <string name="ordinal_second">%d-й</string>
     <string name="ordinal_third">%d-й</string>
@@ -681,7 +707,8 @@
     <string name="ordinal_ninth">%d-й</string>
     <string name="ordinal_zeroth">%d-й</string>
     <string name="ordinal_fallback">%d-й</string>
-
+         
+ <!-- In Game UI !-->
     <string name="player_size">Размер: %d</string>
     <string name="effective_size">Эффективный размер: %d</string>
     <string name="decay">Убывание: %.2f/с</string>
@@ -704,7 +731,7 @@
     <string name="debug">Отладка</string>
     <string name="profiler">Профайлер</string>
 
-
+  <!-- Dialogs -->
     <string name="dialog_confirm">Подтвердить</string>
     <string name="dialog_confirm_account_deletion">УДАЛИТЬ АККАУНТ</string>
     <string name="dialog_leave_game">Выйти из игры?</string>
@@ -742,7 +769,8 @@
     <string name="dialog_locked">Заблокировано</string>
     <string name="duplicate_connection">Аккаунт уже подключен!</string>
     <string name="outdated_client">Устаревший клиент!\nКлиент: %1$s (%2$d)\nСервер: %3$s (%4$d)</string>
-
+         
+   <!-- Block Player -->
     <string name="blocked_players">Заблокированные игроки</string>
     <string name="no_blocked_players">Нет заблокированных игроков</string>
     <string name="unblock_confirm_message">Разблокировать \"%1$s\" (ID: %2$d)?</string>
@@ -755,7 +783,8 @@
     <string name="you_blocked_user">Вы заблокировали этого пользователя</string>
     <string name="user_blocked_you">Заблокирован</string>
     <string name="both_blocked">Оба пользователя заблокировали друг друга</string>
-
+    
+    <!-- LAN Multiplayer -->
     <string name="host_local_game">СОЗДАТЬ ЛОКАЛЬНУЮ ИГРУ</string>
     <string name="local_ip">Локальный IP: %s</string>
     <string name="public_ip">Публичный IP: %s</string>
@@ -766,6 +795,7 @@
     <string name="tap_to_reveal">Нажмите, чтобы показать</string>
     <string name="remote_lan_connections">Чтобы разрешить другим клиентам подключаться удаленно через публичный IP, необходимо перенаправить порт UDP %d или включить DMZ для вашего устройства в настройках роутера. Обратите внимание, что подключение все равно может не удаться, если ваша сеть находится под Symmetric NAT/CGNAT. Для получения дополнительной информации и проверки текущего типа NAT посетите %s.</string>
 
+     <!-- Player List -->     
     <string name="players">Игроки</string>
     <string name="spectators">Наблюдатели</string>
     <string name="joined_room">Вы вошли в комнату %s</string>
@@ -778,6 +808,7 @@
     <string name="ban_confirm_title">Забанить игрока</string>
     <string name="ban_confirm_message">Вы уверены, что хотите забанить %s в этой комнате? Они никогда не смогут вернуться, и это действие нельзя отменить!</string>
 
+   <!-- Custom Images -->      
     <string name="custom_images">Пользовательские изображения</string>
     <string name="profile_avatar">Аватар профиля</string>
     <string name="custom_image_rules">Строго запрещенный контент:\n\n- NSFW / Материалы сексуального характера\n- Графическое насилие / Кровь\n- Оружие\n- Символы ненависти\n- Язык вражды / Дискриминация\n- Наркотики\n- Шокирующий/мерзкий контент\n- Персонажи/логотипы, защищенные авторским правом\n- Упоминания алкоголя/табака\n- Хоррор/пугающие изображения</string>
@@ -801,7 +832,8 @@
     <string name="custom_image_bought">Загрузка пользовательского изображения</string>
     <string name="custom_image_refund">Возврат за пользовательское изображение</string>
     <string name="custom_image_slot">Слот изображения %1$d</string>
-
+         
+    <!-- Custom image skin -->
     <string name="custom_image_skin_load_failed">Не удалось загрузить ваш пользовательский скин: %1$s</string>
     <string name="custom_image_no_approved_image">Нет одобренного изображения в слоте %1$d</string>
     <string name="report_avatar">Пожаловаться на аватар</string>
@@ -809,6 +841,7 @@
     <string name="report_avatar_success">Жалоба на аватар отправлена</string>
     <string name="report_avatar_failed">Не удалось отправить жалобу на аватар</string>
 
+        <!-- Account recovery -->     
     <string name="account_recovery">Восстановление аккаунта</string>
     <string name="recovery_info">Требуются те же Wi-Fi и устройство, иначе восстановление может завершиться ошибкой.</string>
     <string name="recovery_continue">Продолжить</string>
@@ -836,7 +869,8 @@
     <string name="recovery_error_google_invalid">Не удалось проверить ваш аккаунт Google. Пожалуйста, попробуйте еще раз.</string>
     <string name="recovery_error_google_cancelled">Вход через Google был отменен или завершился сбоем.</string>
     <string name="recovery_error_internal">Произошла ошибка на нашей стороне. Пожалуйста, попробуйте позже.</string>
-
+         
+ <!-- Miscellaneous !-->
     <string name="no_internet_connection">Нет подключения к интернету. Проверьте настройки сети вашего устройства.</string>
     <string name="server_not_running">Сервер не запущен</string>
     <string name="name_change_reconnect_notice">Чтобы изменение имени вступило в силу, вы будете переподключены к серверу.</string>
