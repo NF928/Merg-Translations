@@ -988,7 +988,7 @@
     <string name="admin_cannot_act_on_staff">スタッフに実行できません</string>
     <string name="code_not_found">無効なコードです</string>
     <string name="code_expired">コードの有効期限が切れました</string>
-    <string name="code_already_redeemed">コードが既に利用されました！</string>
+    <string name="code_already_redeemed">コードはすでに利用されました！</string>
     <string name="clan_owner_must_transfer_error">クランから退出するには、他のクランメンバーにオーナーシップを移転する必要があります。</string>
     <string name="mail_cannot_send_self">自分宛てに送信できません</string>
     <string name="clan_already_requested_other">既にクラン参加リクエストを送信しました</string>
