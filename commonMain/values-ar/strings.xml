@@ -21,33 +21,34 @@
     <!-- Options menu !-->
     <string name="language">اللغة</string>
     <string name="language_arabic">العربية</string>
-    <string name="language_bengali">বাংলা</string>
-    <string name="language_chinese">中文</string>
-    <string name="language_chinese_traditional">繁體中文</string>
-    <string name="language_czech">Čeština</string>
-    <string name="language_danish">Dansk</string>
-    <string name="language_dutch">Nederlands</string>
-    <string name="language_english">English</string>
-    <string name="language_filipino">Filipino</string>
-    <string name="language_finnish">Suomi</string>
-    <string name="language_french">Français</string>
-    <string name="language_german">Deutsch</string>
-    <string name="language_greek">Ελληνικά</string>
-    <string name="language_hindi">हिन्दी</string>
-    <string name="language_indonesian">Bahasa Indonesia</string>
-    <string name="language_italian">Italiano</string>
-    <string name="language_japanese">日本語</string>
-    <string name="language_korean">한국어</string>
-    <string name="language_polish">Polski</string>
-    <string name="language_portuguese">Português</string>
-    <string name="language_portuguese_portugal">Português (Portugal)</string>
-    <string name="language_romanian">Română</string>
-    <string name="language_russian">Русский</string>
-    <string name="language_spanish">Español</string>
-    <string name="language_swedish">Svenska</string>
-    <string name="language_thai">ไทย</string>
-    <string name="language_turkish">Türkçe</string>
-    <string name="language_vietnamese">Tiếng Việt</string>
+    <string name="language_bengali">বাংলা | البنغالية</string>
+    <string name="language_chinese">简体中文 | الصينية (المبسطة)</string>
+    <string name="language_chinese_traditional">繁體中文 | الصينية (التقليدية)</string>
+    <string name="language_czech">Čeština | التشيكية</string>
+    <string name="language_danish">Dansk | الدنماركية</string>
+    <string name="language_dutch">Nederlands | الهولندية</string>
+    <string name="language_english">English | الإنجليزية</string>
+    <string name="language_filipino">Filipino | التاغالوغية</string>
+    <string name="language_finnish">Suomi | الفنلندية</string>
+    <string name="language_french">Français | الفرنسية</string>
+    <string name="language_german">Deutsch | الألمانية</string>
+    <string name="language_greek">Ελληνικά | اليونانية</string>
+    <string name="language_hindi">हिन्दी | الهندية</string>
+    <string name="language_indonesian">Bahasa Indonesia | الإندونيسية</string>
+    <string name="language_italian">Italiano | الإيطالية</string>
+    <string name="language_japanese">日本語 | اليابانية</string>
+    <string name="language_korean">한국어 | الكورية</string>
+    <string name="language_polish">Polski | البولندية</string>
+    <string name="language_portuguese">Português (Brasil) | البرتغالية (البرازيل)</string>
+    <string name="language_portuguese_portugal">Português (Portugal) | البرتغالية (البرتفال)</string>
+    <string name="language_romanian">Română | الرومانية</string>
+    <string name="language_russian">Русский | الروسية</string>
+    <string name="language_spanish">Español | الإسبانية</string>
+    <string name="language_swedish">Svenska | السويدية</string>
+    <string name="language_thai">ไทย | التايلاندية</string>
+    <string name="language_turkish">Türkçe | التركية</string>
+    <string name="language_vietnamese">Tiếng Việt | الفيتنامية</string>
+    <string name="language_ukrainian">Українська | Ukrainian</string>
     <string name="background">الخلفية</string>
     <string name="background_black">أسود</string>
     <string name="background_white">أبيض</string>
@@ -88,8 +89,8 @@
     <string name="jitter_buffer">مخزن مؤقت</string>
 
     <!-- Game/room creation menu-->
-    <string name="game_mode">نوع اللعبة</string>
-    <string name="select_mode">اختر النوع</string>
+    <string name="game_mode">طور اللعبة</string>
+    <string name="select_mode">اختر الطور</string>
     <string name="minimum_players">الحد الادنى من اللاعبين</string>
     <string name="maximum_players">الحد الاقصى من اللاعبين</string>
     <string name="decrease_time">تقليل الوقت</string>
@@ -104,10 +105,10 @@
     <string name="decrease_elimination_interval">تقليل فترة الاستبعاد</string>
     <string name="increase_elimination_interval">زيادة فترة الاستبعاد</string>
     <string name="map_size">حجم الخريطة</string>
-    <string name="bot_count">عدد البوتات</string>
-    <string name="bot_difficulty">صعوبة البوتات</string>
-    <string name="decrease_bots">تقليل البوتات</string>
-    <string name="increase_bots">زيادة البوتات</string>
+    <string name="bot_count">عدد الروبوتات</string>
+    <string name="bot_difficulty">صعوبة الروبوتات</string>
+    <string name="decrease_bots">تقليل الروبوتات</string>
+    <string name="increase_bots">زيادة الروبوتات</string>
     <string name="max_split_pieces">الحد الأقصى للانقسامات</string>
     <string name="quick_merge">تجمع سريع</string>
     <string name="no_holes">بدون ثقوب</string>
@@ -130,7 +131,7 @@
     <string name="select_server">اختيار السيرفر</string>
     <string name="server_europe">أوروبا</string>
     <string name="join">دخول</string>
-    <string name="create">اصنع</string>
+    <string name="create">انشئ</string>
     <string name="create_chat_room">اصنع غرفة شات</string>
     <string name="create_private_game">اصنع غرفة خاصة</string>
     <string name="room_full">الغرفة ممتلئة</string>
@@ -318,7 +319,7 @@
     <string name="profile_logged_in">تم تسجيل الدخول</string>
     <string name="profile_logout_confirm">تسجيل الخروج من %s?</string>
     <string name="profile_logout_confirm_no_name">تسجيل الخروج?</string>
-    <string name="profile_logout_all_confirm">هل تريد تسجيل الخروج من جميع أجهزة %s؟ قد يستغرق هذا الأمر ساعة كاملة.</string>
+    <string name="profile_logout_all_confirm">هل تريد تسجيل الخروج من جميع الأجهزة %s؟ قد يستغرق هذا الأمر ساعة كاملة.</string>
     <string name="profile_logout_all_confirm_no_name">هل تريد تسجيل الخروج من جميع الأجهزة؟ قد يستغرق هذا الأمر ساعة كاملة.</string>
     <string name="profile_logout_failed">فشل تسجيل الخروج</string>
     <string name="profile_delete_warning">هل أنت متأكد من رغبتك في حذف حسابك على Merg وجميع البيانات المرتبطة به؟ لا يمكن التراجع عن هذا الإجراء!</string>
@@ -364,11 +365,11 @@
     <!-- Profile Tags -->
     <string name="developer_tag">Developer</string>
     <string name="code_contribution_tag">Code Contribution</string>
-    <string name="admin">مشرف</string>
-    <string name="mod">مدير</string>
+    <string name="admin">مُشرف</string>
+    <string name="mod">مُدير</string>
     <string name="verified">موثق</string>
     <string name="youtube">يوتيوبر</string>
-    <string name="translator">مترجم</string>
+    <string name="translator">مُترجم</string>
     <string name="internal_tester">Internal Tester</string>
     <string name="alpha_tester">Alpha Tester</string>
     <string name="beta_tester">Beta Tester</string>
@@ -393,33 +394,33 @@
     <string name="no_account_found">لم يتم العثور على الحساب</string>
 
     <!-- Clan -->
-    <string name="clan_create">انشاء كلان</string>
-    <string name="clan_name">اسم الكلان</string>
+    <string name="clan_create">انشاء عشيرة</string>
+    <string name="clan_name">اسم العشيرة</string>
     <string name="clan_name_hint">Enter clan name (max 14)</string>
     <string name="clan_tag">Clan Tag</string>
     <string name="clan_tag_hint">Tag (1-4 letters)</string>
     <string name="clan_list">Public Clans</string>
     <string name="clan_no_clans">No clans found</string>
-    <string name="no_clan">لا يوجد كلان</string>
+    <string name="no_clan">لا يوجد عشيرة</string>
     <string name="clan_request_clans">Request Only Clans</string>
-    <string name="clan_my_invites">دعوه الكلان</string>
+    <string name="clan_my_invites">دعوه العشيرة</string>
     <string name="clan_invite_declined">Invite declined.</string>
     <string name="clan_joined">Clan joined!</string>
     <string name="clan_private">This clan is private or no longer active.</string>
     <string name="clan_members">Members</string>
     <string name="clan_members_count">%1$d / %2$d members</string>
     <string name="clan_request_join">Request to Join</string>
-    <string name="clan_leave">الخروج من الكلان</string>
-    <string name="clan_leave_confirm">هل أنت متأكد من الخروج من الكلان؟ </string>
+    <string name="clan_leave">الخروج من العشيرة</string>
+    <string name="clan_leave_confirm">هل أنت متأكد انك تريد الخروج من العشيرة؟ </string>
     <string name="clan_owner_must_transfer">You must transfer ownership to another member before leaving.</string>
-    <string name="clan_request_sent">Join request sent.</string>
+    <string name="clan_request_sent">تم إرسال طلب الانضمام.</string>
     <string name="clan_disband">Disband Clan</string>
     <string name="clan_disband_confirm">Are you sure you want to disband this clan? This cannot be undone!</string>
     <string name="clan_invite">Invite Player</string>
-    <string name="clan_invite_hint">Invite by ID or Name</string>
+    <string name="clan_invite_hint">إرسال دعوة بالآيدي أو الاسم</string>
     <string name="clan_settings">اعدادات الكلان</string>
     <string name="clan_join_mode">Join Mode</string>
-    <string name="clan_join_mode_open">Open</string>
+    <string name="clan_join_mode_open">مفتوح</string>
     <string name="clan_join_mode_request">Request Only</string>
     <string name="clan_join_mode_private">Private</string>
     <string name="clan_join_mode_abandoned">Abandoned</string>
@@ -461,8 +462,8 @@
     <string name="clan_not_a_member">You are not a member of this clan.</string>
     <string name="clan_already_requested">You already have a pending join request to another clan.</string>
     <string name="clan_copy_tag">Copy Tag</string>
-    <string name="clan_creator">صانع الكلان</string>
-    <string name="clan_history">تاريخ الكلان</string>
+    <string name="clan_creator">مُنشئ العشيرة</string>
+    <string name="clan_history">تاريخ العشيرة</string>
     <string name="clan_history_no_entries">No history yet</string>
     <string name="clan_history_event_join">Joined</string>
     <string name="clan_history_event_leave">Left</string>
@@ -516,10 +517,10 @@
     <string name="leaderboard_xp_description">Experience points. Required to level up. Can be obtained by doing any meaningful action in game.</string>
     <string name="leaderboard_competitive_description">Ranked 1v1 ladder. Only players who have completed at least 12 competitive matches are listed.</string>
     <string name="leaderboard_rating">Rating</string>
-    <string name="leaderboard_period_daily">Daily</string>
-    <string name="leaderboard_period_weekly">Weekly</string>
-    <string name="leaderboard_period_monthly">Monthly</string>
-    <string name="leaderboard_period_all_time">All Time</string>
+    <string name="leaderboard_period_daily">اليومي</string>
+    <string name="leaderboard_period_weekly">الاسبوعي</string>
+    <string name="leaderboard_period_monthly">الشهري</string>
+    <string name="leaderboard_period_all_time">جميع الأوقات</string>
     <string name="leaderboard_score">Score</string>
     <string name="leaderboard_rank">Rank</string>
     <string name="leaderboard_empty">No entries yet</string>
@@ -544,7 +545,7 @@
     <string name="stat_bonus">علاوة:</string>
     <string name="stat_food_eaten">الطعام المأكول:</string>
     <string name="stat_players_eaten">اللاعبين المأكولين:</string>
-    <string name="stat_bots_eaten">البوتات المأكولين:</string>
+    <string name="stat_bots_eaten">الروبوتات المأكولة:</string>
     <string name="stat_blobs_eaten">الدوائر المأكولة:</string>
     <string name="stat_games_won">المباريات الي تم الفوز بها:</string>
     <string name="stat_longest_session">اعلى مدة بقاء على قيد الحياة:</string>
@@ -555,27 +556,27 @@
     <string name="stat_goals_scored">Goals Scored:</string>
     <string name="stat_collisions">التصادمات:</string>
     <string name="stat_boosts">التعزيزات:</string>
-    <string name="stat_teleports">الانتقالات:</string>
-    <string name="stat_rewarded_ads_watched">جوائز الاعلانات:</string>
+    <string name="stat_teleports">الإنتقالات:</string>
+    <string name="stat_rewarded_ads_watched">مكافئات الإعلانات:</string>
 
     <!-- Mail !-->
     <string name="mail">بريد</string>
-    <string name="sent_mail_to_id">تم ارسال بريد الى %d</string>
+    <string name="sent_mail_to_id">تم إرسال بريد الى %d</string>
     <string name="mail_id">هوية البريد: %d</string>
     <string name="no_mail_yet">لم يصلك اي بريد بعد</string>
     <string name="mail_from">من:</string>
     <string name="mail_to">الى:</string>
     <string name="received">تلقى</string>
-    <string name="refresh">انعاش</string>
+    <string name="refresh">تحديث</string>
     <string name="write_mail">أكتب بريد</string>
-    <string name="mail_reply">اعادة</string>
+    <string name="mail_reply">إعادة</string>
     <string name="mail_title_hint">العنوان</string>
     <string name="mail_content_hint">الوصف</string>
     <string name="mail_recipient_not_found">لم يتم العثور على المستلم</string>
-    <string name="mail_send_to_self">ﻻ يمكنك ارسال بريد لنفسك</string>
+    <string name="mail_send_to_self">ﻻ يمكنك إرسال بريد لنفسك</string>
     <string name="mail_title_too_long">العنوان طويل جدا</string>
     <string name="mail_content_too_long">الوصف طويل جدا</string>
-    <string name="mail_sent_success">ارسال</string>
+    <string name="mail_sent_success">إرسال</string>
     <string name="mark_unread">اجعله كغير مقروء</string>
     <string name="copy_verification_code">انسخ رمز التحقق</string>
     <string name="code_copied">تم نسخ الكود إلى الحافظة!</string>
@@ -588,22 +589,22 @@
     <string name="gamemode_knockout">الاقصاء</string>
     <string name="gamemode_adventure">المغامرات</string>
     <string name="gamemode_soccer">Soccer</string>
-    <string name="gamemode_coming_soon">قريبا</string>
+    <string name="gamemode_coming_soon">قريباً</string>
     <string name="gamemode_competitive">Competitive</string>
     <string name="gamemode_multimerg">MultiMerg</string>
-    <string name="description_classic">التهم اللاعبين الاصغر حجما وكن اكبر كتلة في الكون! استخدم حجمك للسيطرة على الخريطة، لكن احذر من اللاعبين الأكبر حجما الذين يريدون التهامك!</string>
-    <string name="description_teams">انضموا إلى لاعبين اخرين من نفس اللون! تعاونوا معا للايقاع بالاعداء وتصدروا قائمة المتصدرين. لا يمكن لاعضاء الفريق الواحد أن ياكلوا بعضهم بعضا.</string>
+    <string name="description_classic">التهم اللاعبين الاصغر حجما وكن اكبر كتلة في الكون! استخدم حجمك للسيطرة على الخريطة، لكن احذر من اللاعبين الأكبر حجماً الذين يريدون التهامك!</string>
+    <string name="description_teams">انضموا إلى لاعبين اخرين من نفس اللون! تعاونوا معا للايقاع بالاعداء وتصدروا قائمة المتصدرين. لا يمكن لاعضاء الفريق أن ياكلوا بعضهم بعضاً!.</string>
     <string name="description_survival">فرصة واحدة، جولة واحدة! اجمع اكبر قدر ممكن قبل انتهاء فترة السماح. بعد ذلك، الموت نهائي! كن آخر من يبقى صامدا أو الأقوى عند انتهاء الوقت لتفوز!</string>
-    <string name="description_team_survival">نمط البقاء على قيد الحياة مع فرق! تعاون مع زملائك في الفريق للقضاء على الفرق الأخرى. الفريق الاخير المتبقي او الفريق الاكبر حجما عند انتهاء الوقت هو الفائز!</string>
+    <string name="description_team_survival">نمط البقاء على قيد الحياة مع فرق! تعاون مع زملائك في الفريق للقضاء على الفرق الأخرى. الفريق الاخير المتبقي او الفريق الاكبر حجماً عند انتهاء الوقت هو الفائز!</string>
     <string name="description_knockout">تنافس في جولات الاقصاء! يمكن للاعبين العودة إلى اللعبة بحرية حتى يتم إقصاؤهم على فترات منتظمة. اللاعبون الأقل قوة في كل جولة يقصون نهائيا. كن آخر من يبقى على قيد الحياة لتفوز!</string>
     <string name="description_adventure">اكمل مراحل مليئة بالتحديات واهداف فريدة! تقدم عبر مستويات صعوبة متزايدة، واربح مكافات، واكتشف الى اي مدى يمكنك الوصول. كل مرحلة تقدم تحديات جديدة!</string>
     <string name="description_soccer">Capture the ball and shoot it into the enemy goal to score. The team with the most goals when time runs out wins!</string>
-    <string name="description_coming_soon">هذا الوضع قادم قريبا، ترقبوا!</string>
+    <string name="description_coming_soon">هذا الوضع قادم قريباً، ترقبوا!</string>
     <string name="description_competitive">Ranked 1v1 survival! Earn rating by beating opponents of similar skill. A 3-minute match with a 2-minute overtime if neither player dies. Win to climb the global leaderboard, lose and drop down, but the rating swing depends on the gap between you and your opponent.</string>
     <string name="description_multimerg">You spawn TWO blobs and switch control between them with the yin-yang button! Only the active blob responds to your joystick, split, and shoot. The other one keeps moving in its last direction. Your two blobs can eat each other if split, but the final piece is protected.</string>
 
     <!-- Map sizes !-->
-    <string name="mapsize_tiny">صغير جدا</string>
+    <string name="mapsize_tiny">صغير جداً</string>
     <string name="mapsize_small">صغير</string>
     <string name="mapsize_medium">عادي</string>
     <string name="mapsize_large">كبير</string>
@@ -617,13 +618,13 @@
     <!-- Adventure mode !-->
     <string name="adventure_stage">المراحل</string>
     <string name="adventure_initializing">تهيئة…</string>
-    <string name="adventure_obj_eat_all_bots">التهم جميع البوتات</string>
+    <string name="adventure_obj_eat_all_bots">التهم جميع الروبوتات</string>
     <string name="adventure_obj_survive">انجو</string>
     <string name="adventure_obj_high_speed">اعلى سرعة!</string>
     <string name="adventure_obj_more_holes">ثقوب اكثر!</string>
-    <string name="adventure_obj_collect_food">اجمع %d طعاما</string>
-    <string name="adventure_obj_invisible_bots">البوتات المخفية!</string>
-    <string name="adventure_obj_growing_bots">بوتات النمو!</string>
+    <string name="adventure_obj_collect_food">اجمع %d طعاماً</string>
+    <string name="adventure_obj_invisible_bots">الروبوتات المخفية!</string>
+    <string name="adventure_obj_growing_bots">روبوتات النمو!</string>
     <string name="adventure_obj_reach_size">الوصول %d الحجم</string>
     <string name="adventure_obj_finish_first">المركز الأول</string>
     <string name="adventure_obj_collect_voidstones">Collect %d Voidstones</string>
@@ -634,7 +635,7 @@
     <string name="timer_overtime_count">الوقت المتأخر %d</string>
     <string name="timer_grace">جمال</string>
     <string name="timer_tiebreaker">التعادل</string>
-    <string name="timer_winner">الفائر</string>
+    <string name="timer_winner">الفائز</string>
 
     <!-- Teams !-->
     <string name="blue_team">الفريق الأزرق</string>
@@ -645,7 +646,7 @@
     <!-- Buttons !-->
     <string name="buttons_shoot">زر الإطلاق</string>
     <string name="select_shoot">اختر الإطلاق</string>
-    <string name="shoot">اطلاق</string>
+    <string name="shoot">إطلاق</string>
     <string name="buttons_split">زر الانقسام</string>
     <string name="select_split">اختار الانقسام</string>
     <string name="split">انقسم</string>
@@ -665,7 +666,7 @@
     <string name="skin_tab_standard">معيار</string>
     <string name="skin_tab_level">المستوى</string>
     <string name="skin_tab_voidstones">فويدستون</string>
-    <string name="skin_tab_special">Special</string>
+    <string name="skin_tab_special">مُميز</string>
     <string name="level_skin_locked">الجلد يفتح في مستوى %d</string>
     <string name="level_lock">قفل المستوى</string>
 
@@ -744,7 +745,7 @@
     <string name="dialog_disconnected">غير متصل</string>
     <string name="dialog_disconnected_message">انقطع الاتصال بالخادم.</string>
     <string name="kicked_from_room">تم طردك من الغرفة!</string>
-    <string name="banned_from_room">تم حضرك من الغرفة!</string>
+    <string name="banned_from_room">تم حظرك من الغرفة!</string>
     <string name="enter_room_name">Enter Room Name</string>
     <string name="room_not_found">Room not found</string>
     <string name="already_in_room">You are already in a room!</string>
@@ -752,8 +753,8 @@
     <string name="room_name">Room Name</string>
     <string name="reported">Reported</string>
     <string name="reason">السبب</string>
-    <string name="room_crash">تحطمت الغرفة: %s</string>
-    <string name="app_crash">App crashed: %s</string>
+    <string name="room_crash">حدث خطأ للغرفة: %s</string>
+    <string name="app_crash">حدث خطأ في التطبيق: %s</string>
     <string name="dialog_reload">RELOAD</string>
     <string name="dialog_yes">نعم</string>
     <string name="dialog_no">لا</string>
@@ -774,17 +775,17 @@
     <string name="outdated_client">Outdated Client!\nClient: %1$s (%2$d)\nServer: %3$s (%4$d)</string>
 
     <!-- Block Player -->
-    <string name="blocked_players">اللاعبون المحضورين</string>
-    <string name="no_blocked_players">ﻻ يوجد لاعبين محضورين</string>
+    <string name="blocked_players">اللاعبون المحظورون</string>
+    <string name="no_blocked_players">ﻻ يوجد لاعبين محظورين</string>
     <string name="unblock_confirm_message">الغاء حظر "%1$s" (المعرف: %2$d)؟</string>
-    <string name="block_player">حضر اللاعب</string>
-    <string name="unblock_player">إلغاء حضر اللاعب</string>
-    <string name="block_confirm_title">حضر اللاعب؟</string>
+    <string name="block_player">حظر اللاعب</string>
+    <string name="unblock_player">إلغاء حظر اللاعب</string>
+    <string name="block_confirm_title">حظر اللاعب؟</string>
     <string name="block_confirm_message">هل أنت متأكد من رغبتك في حظر %s؟ لن تتمكن أنت وهو من إرسال رسائل بريد إلكتروني أو طلبات صداقة إلى بعضكما البعض، وسيتم حذفكما من قائمة أصدقاء بعضكما البعض.</string>
     <string name="player_unblocked">تم إلغاء حظر اللاعب</string>
-    <string name="player_blocked">تم حضر اللاعب</string>
-    <string name="you_blocked_user">انت حضرت هذا اللاعب</string>
-    <string name="user_blocked_you">محضور</string>
+    <string name="player_blocked">تم حظر اللاعب</string>
+    <string name="you_blocked_user">انت حظرت هذا اللاعب</string>
+    <string name="user_blocked_you">محظور</string>
     <string name="both_blocked">قام كلا المستخدمين بحظر الاخر</string>
 
     <!-- LAN Multiplayer -->
@@ -804,11 +805,11 @@
     <string name="joined_room">Joined room %s</string>
     <string name="player_list_title">قائمة اللاعبين</string>
     <string name="staff_list_title">STAFF LIST</string>
-    <string name="player_list_count">اللاعبون: %d ⋅ البوتات: %d ⋅ الاجمالي: %d</string>
+    <string name="player_list_count">اللاعبون: %d ⋅ الروبوتات: %d ⋅ الاجمالي: %d</string>
     <string name="player_list_count_with_spectators">Players: %d ⋅ Bots: %d ⋅ Spectators: %d ⋅ Total: %d</string>
     <string name="kick_confirm_title">طرد اللاعب من الغرفة</string>
     <string name="kick_confirm_message">هل تريد طرد %s من هذه الغرفة؟ قد يمكنه العودة الى الغرفة.</string>
-    <string name="ban_confirm_title">حضر اللاعب من الغرفة</string>
+    <string name="ban_confirm_title">حظر اللاعب من الغرفة</string>
     <string name="ban_confirm_message">هل انت متأكد من رغبتك في حظر %s من هذه الغرفة؟ لن يتمكنوا من الانضمام إليها مجدداً، ولا يمكن التراجع عن هذا الحظر!</string>
 
     <!-- Custom Images -->
@@ -887,9 +888,9 @@
     <string name="arrow_collapsed">▶</string>
     <string name="respawn">إعادة الظهور</string>
     <string name="wait">انتظر</string>
-    <string name="exit">Exit</string>
+    <string name="exit">الخروج/string>
     <string name="back">الرجوع</string>
-    <string name="mode">النوع</string>
+    <string name="mode">الطور</string>
     <string name="confirm">Confirm</string>
     <string name="save">حفظ</string>
     <string name="saved">تم الحفظ</string>
@@ -903,16 +904,16 @@
     <string name="cancel">إلغاء</string>
     <string name="close">إغلاق</string>
     <string name="select">اختيار</string>
-    <string name="reset">اعادة</string>
+    <string name="reset">إعادة</string>
     <string name="done">تم</string>
     <string name="info">معلومات</string>
     <string name="empty">فارغ</string>
-    <string name="online">Online</string>
-    <string name="offline">Offline</string>
+    <string name="online">مُتصل</string>
+    <string name="offline">غير مُتصل</string>
     <string name="name">اسم</string>
     <string name="owner">المالك</string>
     <string name="kick">طرد</string>
-    <string name="ban">حضر</string>
+    <string name="ban">حظر</string>
     <string name="signal">إشارة</string>
     <string name="home">الواجهة</string>
     <string name="settings">الإعدادات</string>
@@ -932,16 +933,16 @@
     <string name="room_hidden">Hidden</string>
     <string name="map">الخريطة</string>
     <string name="size">الحجم</string>
-    <string name="shots">الاطلاقات</string>
-    <string name="bot">بوت</string>
-    <string name="bots">بوتات</string>
+    <string name="shots">الإطلاقات</string>
+    <string name="bot">روبوت</string>
+    <string name="bots">روبوتات</string>
     <string name="fps" translatable="false">FPS</string>
     <string name="tps" translatable="false">TPS</string>
     <string name="mspt" translatable="false">MSPT</string>
     <string name="ur" translatable="false">UR</string>
     <string name="uptime">Uptime: %s</string>
     <string name="players_count">اللاعبين</string>
-    <string name="show_ui">اظهار UI</string>
+    <string name="show_ui">إظهار UI</string>
     <string name="open_menu">افتح القائمة</string>
     <string name="stop_spectating">توقف عن المشاهدة</string>
     <string name="spectate">شاهد</string>
@@ -967,7 +968,7 @@
     <string name="unlock_skin">Unlock</string>
     <string name="database_write_fail">فشلت عملية الكتابة في قاعدة البيانات</string>
     <string name="database_read_fail">فشلت عملية قراءة قاعدة البيانات</string>
-    <string name="banned">محضور</string>
+    <string name="banned">محظور</string>
     <string name="muted">مكتوم من الدردشة</string>
     <string name="banned_until">Banned until %s</string>
     <string name="muted_until">Muted until %s</string>

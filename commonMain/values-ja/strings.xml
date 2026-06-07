@@ -15,7 +15,7 @@
     <string name="developer">開発者:</string>
     <string name="code_contribution">コードヘルパー:</string>
     <string name="skins">スキン:</string>
-    <string name="graphics_icons">Graphics/Icons:</string>
+    <string name="graphics_icons">グラフィックとアイコン:</string>
     <string name="translations">翻訳:</string>
 
     <!-- Options menu !-->
@@ -48,6 +48,7 @@
     <string name="language_thai">ไทย｜タイ語</string>
     <string name="language_turkish">Türkçe｜トルコ語</string>
     <string name="language_vietnamese">Tiếng Việt｜ベトナム語</string>
+    <string name="language_ukrainian">Українська｜ウクライナ語</string>
     <string name="background">背景</string>
     <string name="background_black">黒</string>
     <string name="background_white">白</string>
@@ -155,7 +156,7 @@
     <string name="friend_request_error_list_full">フレンドリストが満員です。</string>
 
     <!-- Competitive (ranked 1v1) -->
-    <string name="competitive">バトルゲーム</string>
+    <string name="competitive">ランクバトル</string>
     <string name="competitive_menu">ランクバトル</string>
     <string name="competitive_history">ランクバトルの履歴</string>
     <string name="rating_label">ランキング</string>
@@ -197,7 +198,7 @@
     <string name="free_voidstones_subtitle">マスを選んで、広告を視聴してボイドストーンをケットしよう！</string>
     <string name="free_voidstones_won">ボイドストーンを%d枚獲得しました！</string>
     <string name="free_voidstones_status">残り%1$d件・%2$s後にリセット</string>
-    <string name="free_voidstones_left">%d left</string>
+    <string name="free_voidstones_left">残り%d件</string>
     <string name="pick">選ぶ</string>
     <string name="redeem_code">コードを利用</string>
     <string name="invalid_code">無効なコードです</string>
@@ -591,16 +592,16 @@
     <string name="gamemode_coming_soon">近日公開</string>
     <string name="gamemode_competitive">バトル</string>
     <string name="gamemode_multimerg">マルチマーグ</string>
-    <string name="description_classic">小さいプレイヤーを食べてマップで最大のブロブになろう！サイズを使ってマップを制しよう。だがより大きなブロブに気をつけてね！</string>
+    <string name="description_classic">小さいプレイヤーを食べてマップで最大のブロブになろう！サイズを使ってマップを制しよう。より大きなブロブに気をつけてね！</string>
     <string name="description_teams">同じカラーのプレイヤーに入ろう！敵チームのプレイヤーブロブを食べて、チームがリーダーボードを制するようにしよう！チームメイトは同じチームのプレイヤーを食べられない。</string>
     <string name="description_survival">ONE LIFE, ONE ROUND！リスポーン可能時間が終了する前に、できるだけ多くのスコアを集めよう。その後は、一度の死が命取りになる！最後まで生き残るか、時間終了時に最大サイズとなって勝利を掴もう！</string>
-    <string name="description_team_survival">チーム対抗サバイバル！仲間と協力して敵チームを撃破しよう。最後まで生き残るか、タイムアップ時にチームの合計サイズが最大であれば勝利する！</string>
+    <string name="description_team_survival">チーム対抗サバイバル！仲間と協力して敵チームを撃破しよう。最後まで生き残るか、タイムアップ時にチームの合計サイズが最大であれば勝利！</string>
     <string name="description_knockout">ノックアウトラウンドで競い合おう！プレイヤーは一定間隔で自由にリスポーンできる。最下位のプライヤーは各間隔で脱落となる。最後まで生き残って勝とう！</string>
     <string name="description_adventure">ユニークな目的のアドベンチャーステージをクリアしよう！難易度はステージが進むにつれて上がり、ボーナスを獲得し、スキルを披露しよう！各ステージで難易度が上がる！</string>
     <string name="description_soccer">相手のゴールにシュートを決めよう。タイムアップ時に得点多いチームの勝ち！</string>
     <string name="description_coming_soon">このゲームモードは近日公開予定です。続報を待ちましょう！</string>
     <string name="description_competitive">1対1のランキング戦サバイバル！同じくらいのスキルの相手を倒して、ランキングに入ろう。2人のプレイヤーが生存した場合、3分間のマッチと2分間の延長時間が得られる。勝ってグローバルランキングを駆け上がり、負けたら下がってしまう。ランキングの変動は2人のプレイヤーのスキル差によって決まる。</string>
-    <string name="description_multimerg">2つのブロブを生成し、陰陽ボタンで操作を切り替えよう！ジョイスティック、分裂、射出に反応するのは操作中のブロブだけ。もう片方のブロブは、直前の方向へ進み続ける。分裂時にお互いを食べ合うこともできるが、最後の1匹は守られる（吸収されない）ので安心だ。</string>
+    <string name="description_multimerg">2つのブロブを生成し、陰陽ボタンで操作を切り替えよう！ジョイスティック、分裂、射出に反応するのは操作中のブロブだけ。もう片方のブロブは、直前の方向へ進み続ける。分裂時にお互いを食べ合うこともできるが、最後の1匹は守られる（吸収されない）ので安心。</string>
 
     <!-- Map sizes !-->
     <string name="mapsize_tiny">最小</string>
@@ -691,7 +692,7 @@
     <string name="game_over">ゲームオーバー！</string>
     <string name="stage_clear">ステージ %s クリア！</string>
     <string name="stage_failed">ステージ %s 失敗！</string>
-    <string name="restarting_adventure">アドベンチャーを再起動中…</string>
+    <string name="restarting_adventure">アドベンチャーが再起動中…</string>
     <string name="server_in_maintenance">サーバーはメンテナンス中です</string>
     <string name="server_reboot">サーバー再起動</string>
     <string name="server_shutdown">サーバーシャットダウン</string>
@@ -987,12 +988,12 @@
     <string name="admin_cannot_act_on_staff">スタッフに実行できません</string>
     <string name="code_not_found">無効なコードです</string>
     <string name="code_expired">コードの有効期限が切れました</string>
-    <string name="code_already_redeemed">コードが既に利用されました！</string>
+    <string name="code_already_redeemed">コードはすでに利用されました！</string>
     <string name="clan_owner_must_transfer_error">クランから退出するには、他のクランメンバーにオーナーシップを移転する必要があります。</string>
     <string name="mail_cannot_send_self">自分宛てに送信できません</string>
     <string name="clan_already_requested_other">既にクラン参加リクエストを送信しました</string>
     <string name="before">以前</string>
     <string name="after">現在</string>
-    <string name="clan_id">Clan ID:</string>
-    <string name="editing_message">Editing message</string>
+    <string name="clan_id">クランID:</string>
+    <string name="editing_message">メッセージを編集中</string>
 </resources>

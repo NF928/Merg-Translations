@@ -20,9 +20,9 @@
 
     <!-- Options menu !-->
     <string name="language">Język</string>
-    <string name="language_arabic">عربي | Arabski</string>
+    <string name="language_arabic">العربية | Arabski</string>
     <string name="language_bengali">বাংলা | Bengalski</string>
-    <string name="language_chinese">中文 | Chiński (Uproszczony)</string>
+    <string name="language_chinese">简体中文 | Chiński (Uproszczony)</string>
     <string name="language_chinese_traditional">繁體中文 | Chiński (Tradycyjny)</string>
     <string name="language_czech">Čeština | Czeski</string>
     <string name="language_danish">Dansk | Duński</string>
@@ -48,6 +48,7 @@
     <string name="language_thai">ไทย | Tajski</string>
     <string name="language_turkish">Türkçe | Turecki</string>
     <string name="language_vietnamese">Tiếng Việt | Wietnamski</string>
+    <string name="language_ukrainian">Українська | Ukrainian</string>
     <string name="background">Tło</string>
     <string name="background_black">Czarne</string>
     <string name="background_white">Białe</string>
