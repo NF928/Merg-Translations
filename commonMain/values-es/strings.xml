@@ -198,6 +198,7 @@
     <string name="free_voidstones_subtitle">¡Mira un Anuncio para ganar Voidstones gratis!</string>
     <string name="free_voidstones_won">Obtuviste %d Voidstones!</string>
     <string name="free_voidstones_status">%1$d Restantes ⋅ Reinicio en %2$s</string>
+    <string name="free_voidstones_left">%d left</string>
     <string name="pick">Elegir</string>
     <string name="redeem_code">Canjear Código</string>
     <string name="invalid_code">Código Inválido</string>
@@ -236,7 +237,7 @@
     <string name="admin_deduction_sent">Deducción Admin enviada</string>
     <string name="verify_reward">Verificar Recompensa</string>
     <string name="competitive_season_reward">Recompensa de la Temporada Competitiva</string>
-    <string name="purchase_remove_ads_label">Quitar Anunciós</string>
+    <string name="purchase_remove_ads_label">Quitar Anuncios</string>
     <string name="purchase_status_permanent">Estado de Compra Permanente</string>
     <string name="purchase_status_refunded">Estado de Compra Reembolsada</string>
 
@@ -460,7 +461,7 @@
     <string name="clan_donate_sent">¡Donación Enviada!</string>
     <string name="clan_not_a_member">Ups, ya no eres Miembro de este Clan.</string>
     <string name="clan_already_requested">Ups, ya tienes una Solicitud de Ingreso pendiente con otro Clan.</string>
-    <string name="clan_copy_tag">Copiar Siglas/string>
+    <string name="clan_copy_tag">Copiar Siglas</string>
     <string name="clan_creator">Creador</string>
     <string name="clan_history">Historial de Clan</string>
     <string name="clan_history_no_entries">Sin Historial</string>
@@ -964,7 +965,7 @@
     <string name="nonexistent_user">Usuario no Encontrado</string>
     <string name="not_enough_voidstones">No hay suficientes Voidstones</string>
     <string name="ok">OK</string>
-    <string name="unlock_skin">>Desbloquear Skin</string>
+    <string name="unlock_skin">Desbloquear Skin</string>
     <string name="database_write_fail">Ups, hubo un error al escribir la Base de Datos.</string>
     <string name="database_read_fail">Ups, hubo un error en la lectura de la Base de Datos.</string>
     <string name="banned">Baneado</string>
@@ -995,4 +996,4 @@
     <string name="after">Después</string>
     <string name="clan_id">Clan ID:</string>
     <string name="editing_message">Editar Mensaje</string>
-    </resources>
+</resources>
