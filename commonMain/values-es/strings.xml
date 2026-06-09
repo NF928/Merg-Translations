@@ -579,7 +579,7 @@
     <string name="mail_sent_success">Correo Enviado</string>
     <string name="mark_unread">Marcar como No Leído</string>
     <string name="copy_verification_code">Copiar Código de Verificación</string>
-    <string name="code_copied">¡El Código de Verificación se copió con éxito!</string>
+    <string name="code_copied">¡El Código de Verificación se Copió con Éxito!</string>
 
     <!-- Gamemodes !-->
     <string name="gamemode_classic">Clásico</string>
