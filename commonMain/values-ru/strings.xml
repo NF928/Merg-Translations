@@ -376,10 +376,10 @@
     <string name="discord_staff">Персонал Discord</string>
 
     <!-- Voidstone Transfer -->
-    <string name="send_voidstones">Отправить пустотные камни</string>
-    <string name="send_voidstones_to">Отправить пустотные камни игроку %1$s ID: %2$d</string>
-    <string name="send_voidstones_confirm">Отправить %1$s пустотные камни игроку %2$s (ID: %3$d)?</string>
-    <string name="send_voidstones_self">Нельзя отправлять пустотные камни самому себе</string>
+    <string name="send_voidstones">Отправить войдстоуны</string>
+    <string name="send_voidstones_to">Отправить войдстоуны игроку %1$s ID: %2$d</string>
+    <string name="send_voidstones_confirm">Отправить %1$s войдстоуны игроку %2$s (ID: %3$d)?</string>
+    <string name="send_voidstones_self">Нельзя отправлять войдстоуны самому себе</string>
     <string name="voidstone_gift_from">Дар войдстоунов от %1$s (ID: %2$d)</string>
     <string name="voidstone_gift_to">Дар войдстоунов для %1$s (ID: %2$d)</string>
     <string name="voidstone_gift_from_label">Дар войдстоунов от:</string>
