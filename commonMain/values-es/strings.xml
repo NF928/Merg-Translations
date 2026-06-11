@@ -186,7 +186,7 @@
     <string name="play_again">Volver a Jugar</string>
     <string name="play_x_more_matches_to_rated">¡Juega %d partidas más para Clasificar!</string>
     <string name="play_one_more_match_to_rated">¡Juega un partido más para Obtener Puntuación!</string>
-    <string name="history_viewer_vs_opponent">%1$svs%2$s</string>
+    <string name="history_viewer_vs_opponent">%1$s VS %2$s</string>
     <string name="prizes">Premios</string>
     <string name="prizes_dialog_intro">¡Antes del reinicio de temporada, los mejores recibirán Voidstone según su rendimiento!</string>
     <string name="current_season">Temporada Actual</string>
@@ -463,7 +463,7 @@
     <string name="clan_already_requested">Ups, ya tienes una Solicitud de Ingreso pendiente con otro Clan.</string>
     <string name="clan_copy_tag">Copiar Siglas</string>
     <string name="clan_creator">Creador</string>
-    <string name="clan_history">Historial de Clan</string>
+    <string name="clan_history">Historial</string>
     <string name="clan_history_no_entries">Sin Historial</string>
     <string name="clan_history_event_join">Se Unió</string>
     <string name="clan_history_event_leave">Se Salió</string>
@@ -474,7 +474,7 @@
     <string name="clan_history_event_donation">Donado</string>
     <string name="clan_history_id">Historial de ID: %d</string>
     <string name="clan_public_profile">Perfil de Clan Público</string>
-    <string name="clan_kicked_banned_players">Jugadores Expulsados/Baneados</string>
+    <string name="clan_kicked_banned_players">Lista Negra</string>
     <string name="clan_unkick_confirm">¿Seguro(a) que quieres Readmitir a \"%1$s\" (ID: %2$d)?</string>
     <string name="clan_unban_confirm">¿Seguro(a) que quieres Desbanear a \"%1$s\" (ID: %2$d)?</string>
     <string name="clan_search_hint">Buscar por ID o por Nombre</string>
