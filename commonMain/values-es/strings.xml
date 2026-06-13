@@ -147,9 +147,9 @@
     <string name="friend_requests_sent">Solicitudes de Amistad Enviadas</string>
     <string name="no_friends">Sin Amigos…</string>
     <string name="remove_friend_title">Eliminar Amigo</string>
-    <string name="remove_friend_message">Estás seguro que quieres eliminar a "%1$s" (ID: %2$d) como amigos?</string>
+    <string name="remove_friend_message">¿Seguro(a) qué quieres Eliminar a "%1$s" (ID: %2$d) cómo Amigo?</string>
     <string name="cancel_request_title">Cancelar Solicitud</string>
-    <string name="cancel_request_message">Estás seguro que quieres cancelar la solicitud de amistad a "%1$s" (ID: %2$d)?</string>
+    <string name="cancel_request_message">¿Seguro(a) qué quieres Cancelar la Solicitud de Amistad de "%1$s" (ID: %2$d)?</string>
     <string name="friend_request_error_self">Ups, no puedes enviarte una Solicitud de Amistad a ti mismo.</string>
     <string name="friend_request_error_already_sent">Ya has enviado una Solicitud de Amistad</string>
     <string name="friend_request_error_already_friends">Ya son Amigos</string>
@@ -694,7 +694,7 @@
     <string name="stage_failed">Etapa %s Fallida!</string>
     <string name="restarting_adventure">Reiniciando Aventura…</string>
     <string name="server_in_maintenance">SERVIDOR EN MANTENIMIENTO.</string>
-    <string name="server_reboot">SERVIDOR REINICIDO</string>
+    <string name="server_reboot">SERVIDOR REINICIADO</string>
     <string name="server_shutdown">SERVIDOR CAÍDO</string>
     <string name="afk_disconnect">Desconectado por Inactividad</string>
 
@@ -829,7 +829,7 @@
     <string name="custom_image_invalid_format">Ups, el archivo debe ser una Imagen.</string>
     <string name="custom_image_error_size">La Imagen %1$dKB es demasiado Pesada (max %2$dKB)</string>
     <string name="custom_image_error_dimensions">La Imagen %1$dx%2$d es demasiado Grande (max. %3$dx%4$d pixeles)</string>
-    <string name="custom_image_error_both">Tu imagen %1$dKB / %3$dx%4$d es demasiado grande (max %2$dKB / %5$dx%6$d pixels)</string>
+    <string name="custom_image_error_both">Tu imagen %1$dKB / %3$dx%4$d no cumple con las especificaciones (max. %2$dKB / %5$dx%6$d pixels)</string>
     <string name="custom_image_compress_title">La Imagen es demasiado Pesada - ¿Quieres Comprimirla?</string>
     <string name="custom_image_compress_accept">Comprimir Imagen</string>
     <string name="custom_image_compress_failed">La Imagen no se pudo Comprimir para ajustarse al límite de KB.</string>
@@ -968,7 +968,7 @@
     <string name="unlock_skin">Desbloquear Skin</string>
     <string name="database_write_fail">Ups, hubo un error al escribir la Base de Datos.</string>
     <string name="database_read_fail">Ups, hubo un error en la lectura de la Base de Datos.</string>
-    <string name="tos_title">Términos de Servicio &amp; Politica de Privacidad</string>
+    <string name="tos_title">Términos de Servicio &amp; Política de Privacidad</string>
     <string name="tos_message">Al continuar, aceptas nuestros Términos de Servicio y Política de Privacidad.</string>
     <string name="tos_link">https://tos.redpixels-studio21.com</string>
     <string name="accept">Aceptar</string>
