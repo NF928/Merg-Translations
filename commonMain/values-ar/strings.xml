@@ -949,7 +949,7 @@
     <string name="previous_entity">الكيان السابق</string>
     <string name="next_entity">الكيان التالي</string>
     <string name="level_abbreviated">Lv.%d</string>
-    <string name="left">يسار</string> <!-- left as in remaining, not the left direction -->
+    <string name="left">متبقي</string> <!-- left as in remaining, not the left direction -->
     <string name="total">المجموع</string>
     <string name="unknown">مجهول</string>
     <string name="invalid_selection">إختيار غير صالح!</string>
