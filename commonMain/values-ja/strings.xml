@@ -968,11 +968,11 @@
     <string name="unlock_skin">アンロック</string>
     <string name="database_write_fail">データベースが書き込めませんでした</string>
     <string name="database_read_fail">データベースが読み込めませんでした</string>
-    <string name="tos_title">Terms of Service &amp; Privacy Policy</string>
-    <string name="tos_message">By continuing, you accept our Terms of Service and Privacy Policy.</string>
+    <string name="tos_title">利用規約とプライバシーポリシー</string>
+    <string name="tos_message">このアプリをご利用する前に、当社の利用規約およびプライバシーポリシーに同意していただく必要があります。</string>
     <string name="tos_link">https://tos.redpixels-studio21.com</string>
-    <string name="accept">Accept</string>
-    <string name="decline">Decline</string>
+    <string name="accept">同意</string>
+    <string name="decline">拒否</string>
     <string name="banned">バン中</string>
     <string name="muted">ミュート中</string>
     <string name="banned_until">%sまでバン中です</string>
@@ -1001,5 +1001,5 @@
     <string name="after">現在</string>
     <string name="clan_id">クランID:</string>
     <string name="editing_message">メッセージを編集中</string>
-    <string name="samsung_compat_warning_body">Invalid display configuration detected. This may cause issues with in-game controls and multitouch. This is a known bug with Samsung OneUI. To attempt to resolve the problem, try these steps in order:\n\n1. Open Game Booster Plus → Game Performance → set to \"Performance\" or 100%\n2. Remove the app from Game Launcher\'s library\n3. Lower the screen resolution if your device supports it (1440p → 1080p)\n4. Reboot your device\n\nIf the problem persists or your are not on Samsung OneUI, please file a bug report on our Discord Server or support mail.</string>
+    <string name="samsung_compat_warning_body">無効なディスプレイの設定です。これはゲーム内コントロールやマルチタッチに問題が生じる可能性があります。これはOne UIのデバイスにおける既知のバグです。この問題を解決するために、以下の手順をお試しください:\n\n① Game Booster Plusアプリを開く → ゲームパフォーマンス → 『パフォーマンス』か100%に設定する\n② アプリをGame Launcherライブラリから削除\n③ お使いのデバイスが画面解像度設定の機能を対応している場合、画面解像度を下げる (1440p → 1080p)\n④ デバイスを再起動する\n\n問題が解決しない場合、またはSamsung One UIを使用していない場合は、DiscordサーバーまたはサポートＥメールでバグ報告を行ってください。</string>
 </resources>
