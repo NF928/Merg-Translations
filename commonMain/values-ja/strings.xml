@@ -48,7 +48,7 @@
     <string name="language_thai">ไทย｜タイ語</string>
     <string name="language_turkish">Türkçe｜トルコ語</string>
     <string name="language_vietnamese">Tiếng Việt｜ベトナム語</string>
-    <string name="language_ukrainian">Українська | Ukrainian</string>
+    <string name="language_ukrainian">Українська｜ウクライナ語</string>
     <string name="background">背景</string>
     <string name="background_black">黒</string>
     <string name="background_white">白</string>
@@ -147,9 +147,9 @@
     <string name="friend_requests_sent">保留中の申請</string>
     <string name="no_friends">フレンドはこちらに表示されます</string>
     <string name="remove_friend_title">フレンドから解除</string>
-    <string name="remove_friend_message">Are you sure you want to remove "%1$s" (ID: %2$d) as a friend?</string>
+    <string name="remove_friend_message">「%1$s」さん（ID %2$d）をフレンドから解除してもよろしいですか？</string>
     <string name="cancel_request_title">申請をキャンセル</string>
-    <string name="cancel_request_message">Are you sure you want to cancel the friend request to "%1$s" (ID: %2$d)?</string>
+    <string name="cancel_request_message">「%1$s」さん（ID %2$d）とのフレンド申請をキャンセルしてもよろしいですか？</string>
     <string name="friend_request_error_self">フレンド申請を自分自身に送信できません。</string>
     <string name="friend_request_error_already_sent">この申請は保留中です。</string>
     <string name="friend_request_error_already_friends">すでにフレンドリストにいます。</string>
