@@ -147,9 +147,9 @@
     <string name="friend_requests_sent">الطلبات المرسلة</string>
     <string name="no_friends">ليس لديك أصدقاء بعد…</string>
     <string name="remove_friend_title">ازالة صديق</string>
-    <string name="remove_friend_message">Are you sure you want to remove "%1$s" (ID: %2$d) as a friend?</string>
+    <string name="remove_friend_message">هل أنت متأكد أنك تريد إزالة "%1$s" (الهوية: %2$d) من قائمة أصدقائك؟</string>
     <string name="cancel_request_title">الغاء الطلب</string>
-    <string name="cancel_request_message">Are you sure you want to cancel the friend request to "%1$s" (ID: %2$d)?</string>
+    <string name="cancel_request_message">هل أنت متأكد أنك تريد إلغاء طلب الصداقة المرسل إلى "%1$s" (الهوية: %2$d)؟</string>
     <string name="friend_request_error_self">لا يمكنك إرسال طلب صداقة الى نفسك</string>
     <string name="friend_request_error_already_sent">تم ارسال طلب الصداقة بالفعل</string>
     <string name="friend_request_error_already_friends">اصدقاء بالفعل</string>
@@ -198,7 +198,7 @@
     <string name="free_voidstones_subtitle">اختر مربعا وشاهد إعلان فيديو قصيرا لتربح فويدستون!</string>
     <string name="free_voidstones_won">لقد حصلت على %d فويدستون!</string>
     <string name="free_voidstones_status">متبقي %1$d ⋅ يعاد كل %2$s</string>
-    <string name="free_voidstones_left">%d left</string>
+    <string name="free_voidstones_left">متبقي: %d</string>
     <string name="pick">يختار</string>
     <string name="redeem_code">استرداد الرمز</string>
     <string name="invalid_code">رمز غير صالح</string>
@@ -253,7 +253,7 @@
 
     <!-- Season Pass -->
      <string name="season_pass">تذكرة الموسم</string>
-     <string name="season_pass_season_number">Season %s</string>
+     <string name="season_pass_season_number">الموسم %s</string>
      <string name="january">يناير</string>
      <string name="february">فبراير</string>
      <string name="march">مارس</string>
@@ -267,7 +267,7 @@
      <string name="november">نوفمبر</string>
      <string name="december">ديسمبر</string>
      <string name="season_bag_title">حقيبة العملات</string>
-     <string name="season_bag_entry">Season %1$s — %2$s (%3$s)</string>
+     <string name="season_bag_entry">الموسم %1$s — %2$s (%3$s)</string>
      <string name="season_bag_current">الحالي</string>
      <string name="season_bag_last">الأخير</string>
 
@@ -284,7 +284,7 @@
     <string name="share_id">مشاركة المعرف</string>
     <string name="share_id_message">Add me on Merg! My ID is %1$s</string>
     <string name="created">Created %s</string>
-    <string name="last_seen">Last seen %s</string>
+    <string name="last_seen">آخر ظهور: %s</string>
     <string name="save_profile_description">حفظ وصف الملف الشخصي</string>
     <string name="profile_description_placeholder">اكتب وصفا…</string>
     <string name="profile_description_save_success">تم حفظ وصف الملف الشخصي</string>
@@ -377,16 +377,16 @@
 
     <!-- Voidstone Transfer -->
     <string name="send_voidstones">إرسال الفويدستون</string>
-    <string name="send_voidstones_to">Send Voidstones to %1$s ID: %2$d</string>
-    <string name="send_voidstones_confirm">Send %1$s voidstones to %2$s (ID: %3$d)?</string>
+    <string name="send_voidstones_to">إرسال فويدستون إلى %1$s (الهوية: %2$d)</string>
+    <string name="send_voidstones_confirm">هل تريد إرسال %1$s فويدستون إلى %2$s (الهوية: %3$d)؟</string>
     <string name="send_voidstones_self">لا يمكنك إرسال الفويدستون إلى نفسك</string>
-    <string name="voidstone_gift_from">Voidstone Gift from %1$s (ID: %2$d)</string>
-    <string name="voidstone_gift_to">Voidstone Gift to %1$s (ID: %2$d)</string>
-    <string name="voidstone_gift_from_label">Voidstone Gift from:</string>
-    <string name="voidstone_gift_to_label">Voidstone Gift to:</string>
-    <string name="voidstone_gift_player">%1$s (ID: %2$d)</string>
-    <string name="transaction_fee">includes %d%% fee</string>
-    <string name="transaction_fee_amount">-%s fee</string>
+    <string name="voidstone_gift_from">هدية فويدستون من %1$s (الهوية: %2$d)</string>
+    <string name="voidstone_gift_to">هدية فويدستون إلى %1$s (الهوية: %2$d)</string>
+    <string name="voidstone_gift_from_label">هدية فويدستون من:</string>
+    <string name="voidstone_gift_to_label">هدية فويدستون إلى:</string>
+    <string name="voidstone_gift_player">%1$s (الهوية: %2$d)</string>
+    <string name="transaction_fee">تشمل رسوم %d%%</string>
+    <string name="transaction_fee_amount">-%s رسوم</string>
 
     <!-- Search Profile -->
     <string name="search_account">البحث عن حساب</string>
@@ -453,9 +453,9 @@
     <string name="clan_full">العشيرة ممتلئة</string>
     <string name="clan_join_button_full">العشيرة ممتلئة</string>
     <string name="clan_join_request_sent">تم إرسال الطلب</string>
-    <string name="clan_invite_list_full">This clan's invite list is full (max 100).</string>
-    <string name="clan_player_invite_list_full">This player already has the maximum number of pending invites.</string>
-    <string name="clan_request_list_full">This clan's join request list is full (max 100).</string>
+    <string name="clan_invite_list_full">قائمة دعوات العشيرة ممتلئة (الحد الأقصى 100).</string>
+    <string name="clan_player_invite_list_full">هذا اللاعب لديه بالفعل الحد الأقصى من الدعوات المعلقة.</string>
+    <string name="clan_request_list_full">قائمة طلبات الانضمام للعشيرة ممتلئة (الحد الأقصى 100).</string>
     <string name="clan_donate_voidstones">التبرع بالفويدستون</string>
     <string name="clan_donate_hint">100 – 100,000</string>
     <string name="clan_donate_sent">تم إرسال التبرع</string>
@@ -475,8 +475,8 @@
     <string name="clan_history_id">History ID: %d</string>
     <string name="clan_public_profile">ملف العشيرة العام</string>
     <string name="clan_kicked_banned_players">اللاعبون المطرودون المحظورون</string>
-    <string name="clan_unkick_confirm">Are you sure you want to unkick \"%1$s\" (ID: %2$d)?</string>
-    <string name="clan_unban_confirm">Are you sure you want to unban \"%1$s\" (ID: %2$d)?</string>
+    <string name="clan_unkick_confirm">هل أنت متأكد أنك تريد إلغاء طرد "%1$s" (الهوية: %2$d)؟</string>
+    <string name="clan_unban_confirm">هل أنت متأكد أنك تريد إلغاء حظر "%1$s" (الهوية: %2$d)؟</string>
     <string name="clan_search_hint">البحث بالهوية أو الاسم</string>
     <string name="clan_promote_to_owner">ترقية إلى مالك</string>
     <string name="clan_transfer_ownership_title">نقل الملكية</string>
@@ -516,7 +516,7 @@
     <string name="leaderboard_type">نوع لوحة الصدارة</string>
     <string name="leaderboard_xp_description">نقاط الخبرة مطلوبة للترقية إلى مستوى أعلى. يمكن الحصول عليها من خلال أي نشاط مهم داخل اللعبة.</string>
     <string name="leaderboard_competitive_description">Ranked 1v1 ladder. Only players who have completed at least 12 competitive matches are listed.</string>
-    <string name="leaderboard_rating">Rating</string>
+    <string name="leaderboard_rating">التقييم</string>
     <string name="leaderboard_period_daily">اليومي</string>
     <string name="leaderboard_period_weekly">الاسبوعي</string>
     <string name="leaderboard_period_monthly">الشهري</string>
@@ -600,7 +600,7 @@
     <string name="description_adventure">اكمل مراحل مليئة بالتحديات واهداف فريدة! تقدم عبر مستويات صعوبة متزايدة، واربح مكافات، واكتشف الى اي مدى يمكنك الوصول. كل مرحلة تقدم تحديات جديدة!</string>
     <string name="description_soccer">Capture the ball and shoot it into the enemy goal to score. The team with the most goals when time runs out wins!</string>
     <string name="description_coming_soon">هذا الوضع قادم قريباً، ترقبوا!</string>
-    <string name="description_competitive">Ranked 1v1 survival! Earn rating by beating opponents of similar skill. A 3-minute match with a 2-minute overtime if neither player dies. Win to climb the global leaderboard, lose and drop down, but the rating swing depends on the gap between you and your opponent.</string>
+    <string name="description_competitive">نمط البقاء 1 ضد 1! اكسب التقييم من خلال هزيمة الخصوم ذوي المهارات المماثلة. المباراة مدتها 3 دقائق مع وقت إضافي مدته دقيقتان إذا لم يمت أي من اللاعبين. الفوز يجعلك تتسلق لوحة الصدارة العالمية، والخسارة تجعلك تتراجع، لكن تغير التقييم يعتمد على الفارق بينك وبين خصمك.</string>
     <string name="description_multimerg">You spawn TWO blobs and switch control between them with the yin-yang button! Only the active blob responds to your joystick, split, and shoot. The other one keeps moving in its last direction. Your two blobs can eat each other if split, but the final piece is protected.</string>
 
     <!-- Map sizes !-->
@@ -627,7 +627,7 @@
     <string name="adventure_obj_growing_bots">روبوتات النمو!</string>
     <string name="adventure_obj_reach_size">الوصول %d الحجم</string>
     <string name="adventure_obj_finish_first">المركز الأول</string>
-    <string name="adventure_obj_collect_voidstones">Collect %d Voidstones</string>
+    <string name="adventure_obj_collect_voidstones">اجمع %d من الفويدستون</string>
 
     <!-- Timer text !-->
     <string name="timer_time">الوقت</string>
@@ -833,15 +833,15 @@
     <string name="custom_image_compress_title">Image Too Large - Compress?</string>
     <string name="custom_image_compress_accept">Use Compressed</string>
     <string name="custom_image_compress_failed">Image could not be compressed to fit the size limit</string>
-    <string name="custom_image_bought">Custom Image Upload</string>
-    <string name="custom_image_refund">Custom Image Refund</string>
+    <string name="custom_image_bought">رفع صورة مخصصة</string>
+    <string name="custom_image_refund">استرداد قيمة الصورة المخصصة</string>
     <string name="custom_image_slot">Image %1$d</string>
 
     <!-- Custom image skin -->
-    <string name="custom_image_skin_load_failed">Failed to load your custom skin: %1$s</string>
-    <string name="custom_image_no_approved_image">No approved image in slot %1$d</string>
-    <string name="report_avatar">Report Avatar</string>
-    <string name="report_avatar_message">Report the avatar of %1$s?</string>
+    <string name="custom_image_skin_load_failed">فشل تحميل المظهر المخصص الخاص بك: %1$s</string>
+    <string name="custom_image_no_approved_image">لا توجد صورة معتمدة في الخانة %1$d</string>
+    <string name="report_avatar">الإبلاغ عن الصورة الشخصية</string>
+    <string name="report_avatar_message">هل تريد الإبلاغ عن الصورة الشخصية لـ %1$s؟</string>
     <string name="report_avatar_success">تم الإبلاغ عن الصورة الشخصية</string>
     <string name="report_avatar_failed">فشل الإبلاغ عن الصورة الشخصية</string>
 
@@ -863,21 +863,21 @@
     <string name="recovery_error_invalid_request">طلب غير صالح. يرجى المحاولة مرة أخرى.</string>
     <string name="recovery_error_network">خطأ في الشبكة. يرجى التحقق من الاتصال والمحاولة مرة أخرى.</string>
     <string name="recovery_error_fingerprint_mismatch">This device and network do not match this account. Recovery requires the same phone on a Wi-Fi you have used with that account before.</string>
-    <string name="recovery_error_email_taken">This email is already used by another account. Delete that account or use a different email.</string>
+    <string name="recovery_error_email_taken">هذا البريد الإلكتروني مستخدم بالفعل من قبل حساب آخر. احذف ذلك الحساب أو استخدم بريداً إلكترونياً مختلفاً.</string>
     <string name="recovery_error_google_taken">This Google account is already linked to another account.</string>
     <string name="recovery_error_email_mismatch">The email you typed does not match the Google account you signed in with.</string>
-    <string name="recovery_error_cooldown">This account was recently recovered. Please wait 24 hours before trying again.</string>
-    <string name="recovery_error_banned">This account is banned and cannot be recovered.</string>
-    <string name="recovery_error_not_found">No account found with that ID.</string>
-    <string name="recovery_error_rate_limited">Too many attempts. Please wait and try again later.</string>
+    <string name="recovery_error_cooldown">تمت استعادة هذا الحساب مؤخراً. يرجى الانتظار 24 ساعة قبل المحاولة مرة أخرى.</string>
+    <string name="recovery_error_banned">هذا الحساب محظور ولا يمكن استعادته.</string>
+    <string name="recovery_error_not_found">لم يتم العثور على حساب بهذه الهوية.</string>
+    <string name="recovery_error_rate_limited">عدد كبير جداً من المحاولات. يرجى الانتظار والمحاولة مرة أخرى لاحقاً.</string>
     <string name="recovery_error_google_invalid">Could not verify your Google account. Please try again.</string>
     <string name="recovery_error_google_cancelled">Google sign-in was cancelled or failed.</string>
     <string name="recovery_error_internal">Something went wrong on our side. Please try again later.</string>
 
     <!-- Miscellaneous !-->
-    <string name="no_internet_connection">No internet connection. Check the network settings of your device.</string>
-    <string name="server_not_running">Server is not running</string>
-    <string name="name_change_reconnect_notice">For the name change to take effect, you will be reconnected to the server.</string>
+    <string name="no_internet_connection">لا يوجد اتصال بالإنترنت. تحقق من إعدادات الشبكة في جهازك.</string>
+    <string name="server_not_running">السيرفر لا يعمل</string>
+    <string name="name_change_reconnect_notice">لكي يتم تفعيل تغيير الاسم، ستتم إعادة اتصالك بالسيرفر.</string>
     <string name="play">العب</string>
     <string name="id">ID:</string>
     <string name="sort_id_desc">ID ↓</string>
@@ -891,7 +891,7 @@
     <string name="exit">خروج</string>
     <string name="back">الرجوع</string>
     <string name="mode">الطور</string>
-    <string name="confirm">Confirm</string>
+    <string name="confirm">تأكيد</string>
     <string name="save">حفظ</string>
     <string name="saved">تم الحفظ</string>
     <string name="saving">جاري الحفظ…</string>
@@ -961,7 +961,7 @@
     <string name="copied_to_clipboard">تم نسخها إلى الحافظة.</string>
     <string name="invalid_request">Request malformed or missing required fields</string>
     <string name="invalid_token">جلسة غير صالحة أو منتهية الصلاحية. يرجى تسجيل الدخول مرة أخرى.</string>
-    <string name="rate_limited">Please wait %d second(s) and try again.</string>
+    <string name="rate_limited">يرجى الانتظار %d ثانية والمحاولة مرة أخرى.</string>
     <string name="nonexistent_user">لم يتم العثور على المستخدم</string>
     <string name="not_enough_voidstones">لا توجد ما يكفي من الفويدستون</string>
     <string name="ok">OK</string>
@@ -975,28 +975,28 @@
     <string name="decline">Decline</string>
     <string name="banned">محظور</string>
     <string name="muted">حظر من الدردشة</string>
-    <string name="banned_until">Banned until %s</string>
-    <string name="muted_until">Muted until %s</string>
-    <string name="server_shutting_down">Server is shutting down</string>
-    <string name="server_rebooting">Server is rebooting. Please try again shortly.</string>
-    <string name="server_maintenance">Server is undergoing maintenance. Please try again later.</string>
+    <string name="banned_until">محظور حتى %s</string>
+    <string name="muted_until">حظر الدردشة حتى %s</string>
+    <string name="server_shutting_down">السيرفر قيد الإيقاف</string>
+    <string name="server_rebooting">السيرفر يعيد التشغيل. يرجى المحاولة بعد قليل.</string>
+    <string name="server_maintenance">السيرفر يخضع للصيانة. يرجى المحاولة لاحقاً.</string>
     <string name="forbidden">ممنوع من الحلبة</string>
     <string name="internal_server_error">خطأ في الخادم الداخلي</string>
     <string name="unknown_error_code">رمز خطأ غير معروف %d</string>
     <string name="page_x_of_y">الصفحة %s من %s</string>
     <string name="timeout">انتهت مهلة الجلسة بعد %dms</string>
-    <string name="success">Success</string>
+    <string name="success">تم بنجاح</string>
     <string name="duplicate_action">إجراء مكرر</string>
     <string name="invalid_action">غير صالح</string>
-    <string name="invalid_value">Invalid Value</string>
+    <string name="invalid_value">قيمة غير صالحة</string>
     <string name="admin_cannot_act_self">Cannot perform this action on yourself</string>
     <string name="admin_cannot_act_on_staff">Cannot perform this action on staff members</string>
-    <string name="code_not_found">Invalid Code</string>
-    <string name="code_expired">Code Expired</string>
+    <string name="code_not_found">رمز غير صالح</string>
+    <string name="code_expired">انتهت صلاحية الرمز</string>
     <string name="code_already_redeemed">Code Already Claimed!</string>
-    <string name="clan_owner_must_transfer_error">You must transfer ownership to another member before leaving.</string>
-    <string name="mail_cannot_send_self">You cannot send mail to yourself</string>
-    <string name="clan_already_requested_other">Already requested to join this clan</string>
+    <string name="clan_owner_must_transfer_error">يجب نقل الملكية إلى عضو آخر قبل المغادرة.</string>
+    <string name="mail_cannot_send_self">لا يمكنك إرسال رسالة إلى نفسك</string>
+    <string name="clan_already_requested_other">تم تقديم طلب انضمام مسبقاً لهذه العشيرة</string>
     <string name="before">قبل</string>
     <string name="after">بعد</string>
     <string name="clan_id">Clan ID:</string>
