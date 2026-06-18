@@ -330,6 +330,7 @@
     <string name="unlock_name_colors">Desbloquear Cores no Nome</string>
     <string name="unlock_name_colors_success">Cores no nome desbloqueadas!</string>
     <string name="name_colors_already_unlocked">Cores no nome já desbloqueadas</string>
+    <string name="unlock_name_color_gradient">Desbloquear Gradiente do Nome</string>
     <string name="unlock_name_color_gradient_success">Gradiente no nome desbloqueado!</string>
     <string name="unlock_name_color_gradient_already_unlocked">Gradiente no nome já desbloqueado</string>
     <string name="unlock_name_triple_gradient">Desbloquear Gradiente Triplo para o Nome</string>
