@@ -164,8 +164,8 @@
     <string name="find_opponent">対戦相手を探す</string>
     <string name="leave_matchmaking">マッチメイキングを終了</string>
     <string name="searching_ellipsis">探しています…</string>
-    <string name="x_searching_y_playing">%1$s試合が探し中 · %2$s試合が進行中</string>
-    <string name="x_searching">%d試合が探し中</string>
+    <string name="x_searching_y_playing">%1$s試合がマッチング中 · %2$s試合が進行中</string>
+    <string name="x_searching">%d試合がマッチング中</string>
     <string name="x_playing">%d試合が進行中</string>
     <string name="global_position">グローバルランキング: #%s</string>
     <string name="global_label">グローバルランキング: #</string>
@@ -868,7 +868,7 @@
     <string name="recovery_error_email_mismatch">入力したメールアドレスはサインインしたGoogleアカウントと一致しません。</string>
     <string name="recovery_error_cooldown">このアカウントは最近復旧されました。24時間お待ちの上、再度お試しください。</string>
     <string name="recovery_error_banned">このアカウントはバンされており、復元できません。</string>
-    <string name="recovery_error_not_found">入力されたIDは見つかりませんでした。</string>
+    <string name="recovery_error_not_found">入力したIDは見つかりませんでした。</string>
     <string name="recovery_error_rate_limited">試行回数が多すぎます。しばらくお待ちの上、再度お試しください。</string>
     <string name="recovery_error_google_invalid">Googleアカウントを確認できませんでした。再度お試しください。</string>
     <string name="recovery_error_google_cancelled">Googleでのサインインがキャンセルされたか、完了できませんでした。</string>
@@ -942,7 +942,7 @@
     <string name="ur" translatable="false">UR</string>
     <string name="uptime">稼働時間: %s</string>
     <string name="players_count">プレイヤー数</string>
-    <string name="show_ui">UI を表示化</string>
+    <string name="show_ui">UIを表示化</string>
     <string name="open_menu">メニューを開く</string>
     <string name="stop_spectating">観戦モードを終了</string>
     <string name="spectate">観戦する</string>
@@ -955,7 +955,7 @@
     <string name="invalid_selection">無効な選択です！</string>
     <string name="invalid_name">無効な名前です！</string>
     <string name="content_blocked">ブロックされたコンテンツが含まれています</string>
-    <string name="connecting">接続中… %s</string>
+    <string name="connecting">接続中%s</string>
     <string name="error">エラー</string>
     <string name="error_with_string">エラー: %s</string>
     <string name="copied_to_clipboard">クリップボードへコピーされました。</string>
@@ -973,14 +973,14 @@
     <string name="tos_link">https://tos.redpixels-studio21.com</string>
     <string name="accept">同意</string>
     <string name="decline">拒否</string>
-    <string name="banned">バン中</string>
-    <string name="muted">ミュート中</string>
+    <string name="banned">バン済</string>
+    <string name="muted">ミュート済</string>
     <string name="banned_until">%sまでバン中です</string>
     <string name="muted_until">%sまでミュート中です</string>
     <string name="server_shutting_down">サーバーがシャットダウンしています</string>
     <string name="server_rebooting">サーバーは再起動中です。まもなく再度お試しください。</string>
     <string name="server_maintenance">サーバーはメンテナンス中です。しばらくお待ちの上、再度お試しください。</string>
-    <string name="forbidden">禁止中</string>
+    <string name="forbidden">禁止</string>
     <string name="internal_server_error">内部サーバーエラー</string>
     <string name="unknown_error_code">不明なエラーです。コード %d</string>
     <string name="page_x_of_y">ページ：%s／%s</string>
@@ -1001,5 +1001,5 @@
     <string name="after">現在</string>
     <string name="clan_id">クランID:</string>
     <string name="editing_message">メッセージを編集中</string>
-    <string name="samsung_compat_warning_body">無効なディスプレイの設定です。これはゲーム内コントロールやマルチタッチに問題が生じる可能性があります。これはOne UIのデバイスにおける既知のバグです。この問題を解決するために、以下の手順をお試しください:\n\n① Game Booster Plusアプリを開く → ゲームパフォーマンス → 『パフォーマンス』か100%に設定する\n② アプリをGame Launcherライブラリから削除\n③ お使いのデバイスが画面解像度設定の機能を対応している場合、画面解像度を下げる (1440p → 1080p)\n④ デバイスを再起動する\n\n問題が解決しない場合、またはSamsung One UIを使用していない場合は、DiscordサーバーまたはサポートＥメールでバグ報告を行ってください。</string>
+    <string name="samsung_compat_warning_body">無効なディスプレイの設定です。これは、ゲーム内コントロールやマルチタッチに問題が生じる可能性があります。これはOne UIのデバイスにおける既知のバグです。この問題を解決するために、以下の手順をお試しください:\n\n① Game Booster Plusアプリを開く → ゲームパフォーマンス → 『パフォーマンス』または『100%』に設定する\n② アプリをGame Launcherライブラリから削除\n③ お使いのデバイスが画面解像度設定の機能を対応している場合、画面解像度を下げる (1440p → 1080p)\n④ デバイスを再起動する\n\n問題が解決しない場合、またはSamsung One UIを使用していない場合は、DiscordサーバーまたはサポートＥメールでバグ報告を行ってください。</string>
 </resources>
