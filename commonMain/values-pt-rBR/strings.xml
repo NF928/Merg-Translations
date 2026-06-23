@@ -895,7 +895,7 @@
     <string name="custom_banner_read_error">Falha ao ler o banner</string>
     <string name="custom_banner_invalid_format">O arquivo deve ser do tipo imagem</string>
     <string name="custom_banner_error_size">A imagem selecionada de %1$dKB para o banner é muito grande (máx. %2$dKB)</string>
-    <string name="custom_banner_error_dimensions">A imagem selecionada de %1$dx%2$d para o banner é muito grande (má. %3$dx%4$dp)</string>
+    <string name="custom_banner_error_dimensions">A imagem selecionada de %1$dx%2$d para o banner é muito grande (máx. %3$dx%4$dp)</string>
     <string name="custom_banner_error_both">A imagem selecionada de %1$dKB/%3$dx%4$d para o banner é muito grande (máx. %2$dKB/%5$dx%6$dp)</string>
     <string name="custom_banner_compress_title">Imagem Muito Grande - Comprimir?</string>
     <string name="custom_banner_compress_accept">Usar Imagem Comprimida</string>
