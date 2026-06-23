@@ -882,7 +882,7 @@
     <string name="report_banner_failed">Falha ao denunciar o banner</string>
 
     <!-- Custom banners — sibling of custom images (16:9 profile-header decoration) -->
-    <string name="custom_banner_rules">Explicitly Forbidden Content:\n\n- NSFW / Sexual content\n- Graphic violence / Gore\n- Weapons\n- Hate symbols\n- Hate speech / Discrimination\n- Drugs\n- Shock/gross-out content\n- Copyrighted characters/logos\n- Alcohol/tobacco references\n- Horror/creepy imagery</string>
+    <string name="custom_banner_rules">Conteúdos explicitamente proibidos:\n\n- NSFW/Conteúdo sexual\n- Violência explícita/Gore\n- Armas\n- Símbolos de ódio\n- Discurso de ódio/ Discriminação\n- Drogas\n- Conteúdo chocante/repugnante\n- Obras protegidas por direitos autorais (ex.: personagens e logotipos)\n- Referências a álcool/cigarro\n- Imagens de terror/assustadoras</string>
     <string name="custom_banner_upload">Enviar</string>
     <string name="custom_banner_replace">Substituir</string>
     <string name="custom_banner_deselect">Desselecionar</string>
