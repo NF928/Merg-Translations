@@ -22,7 +22,7 @@
     <!-- Options menu !-->
     <string name="language">言語</string>
     <string name="language_arabic">العربية｜アラビア語</string>
-    <string name="language_azerbaijani">Azərbaycanca | Azerbaijani</string>
+    <string name="language_azerbaijani">Azərbaycanca｜アゼルバイジャン語</string>
     <string name="language_bengali">বাংলা｜ベンガル語</string>
     <string name="language_chinese">简体中文｜中国語（簡体字）</string>
     <string name="language_chinese_traditional">繁體中文｜中国語（繁体字）</string>
@@ -130,8 +130,8 @@
     <string name="connected">接続済み</string>
     <string name="select_server">サーバー選択</string>
     <string name="server_europe">ヨーロッパ</string>
-    <string name="server_americas_nc">Americas (N/C)</string>
-    <string name="server_south_america">South America</string>
+    <string name="server_americas_nc">北米＋中米</string>
+    <string name="server_south_america">南米</string>
     <string name="join">参加</string>
     <string name="create">作成</string>
     <string name="create_chat_room">チャットルームの作成</string>
@@ -205,27 +205,27 @@
     <string name="pick">選ぶ</string>
     <string name="redeem_code">コードを利用</string>
     <!-- Boosters -->
-    <string name="boosters">Boosters</string>
-    <string name="booster_permanent_upgrades">Permanent Upgrades</string>
-    <string name="booster_ad_xp_title">Ad XP Multiplier</string>
-    <string name="booster_ad_xp_desc">Watch a video for a temporary XP boost!</string>
-    <string name="booster_stacks_base_xp">Stacks with Base XP</string>
-    <string name="booster_watch_ad">Watch Ad</string>
-    <string name="booster_choose_boost">Choose your XP boost</string>
-    <string name="booster_active">active</string>
-    <string name="booster_max">MAX</string>
-    <string name="booster_upgrade">Upgrade</string>
-    <string name="booster_base_xp">Base XP Multiplier</string>
-    <string name="booster_autosplit">Autosplit</string>
-    <string name="booster_autoshoot">Autoshoot</string>
-    <string name="booster_spawn_size">Spawn Size</string>
-    <string name="speed_none">None</string>
-    <string name="speed_slow">Slow (5/sec)</string>
-    <string name="speed_medium">Medium (10/sec)</string>
-    <string name="speed_fast">Fast (20/sec)</string>
-    <string name="speed_ultra">Ultra (30/sec)</string>
-    <string name="speed_crazy">Crazy (60/sec)</string>
-    <string name="minutes_short">%1$d min</string>
+    <string name="boosters">ブースター</string>
+    <string name="booster_permanent_upgrades">永久アップグレード</string>
+    <string name="booster_ad_xp_title">広告経験値倍率</string>
+    <string name="booster_ad_xp_desc">広告を視聴して一時的ななブーストをゲットしよう！</string>
+    <string name="booster_stacks_base_xp">基本経験値を含むスタック</string>
+    <string name="booster_watch_ad">広告視聴</string>
+    <string name="booster_choose_boost">経験値ブーストの選択</string>
+    <string name="booster_active">有効</string>
+    <string name="booster_max">最大</string>
+    <string name="booster_upgrade">アップグレード</string>
+    <string name="booster_base_xp">基本経験値倍率</string>
+    <string name="booster_autosplit">オートスプリット</string>
+    <string name="booster_autoshoot">オートイジェクト</string>
+    <string name="booster_spawn_size">スポーンサイズ</string>
+    <string name="speed_none">なし</string>
+    <string name="speed_slow">低速 (5／秒)</string>
+    <string name="speed_medium">普通 (10／秒)</string>
+    <string name="speed_fast">高速 (20／秒)</string>
+    <string name="speed_ultra">ウルトラ (30／秒)</string>
+    <string name="speed_crazy">クレイジー (60／秒)</string>
+    <string name="minutes_short">%1$d分間</string>
     <string name="invalid_code">無効なコードです</string>
     <string name="code_already_claimed">コードはすでに利用されました！</string>
     <string name="successfully_claimed_code">リワードを利用しました</string>
@@ -265,8 +265,8 @@
     <string name="purchase_remove_ads_label">広告を非表示化</string>
     <string name="purchase_status_permanent">生涯</string>
     <string name="purchase_status_refunded">返金</string>
-    <string name="purchase_no_ads_gift_received">No Ads gift from #%d</string>
-    <string name="purchase_no_ads_gift_purchased">No Ads gift for #%d</string>
+    <string name="purchase_no_ads_gift_received">#%dからの『広告を非表示化』ギフト</string>
+    <string name="purchase_no_ads_gift_purchased">#%dへの『広告を非表示化』ギフト</string>
 
     <!-- Ads -->
     <string name="ad_not_loaded">広告はまだ読み込まれていません</string>
@@ -694,7 +694,7 @@
     <string name="skin_tab_standard">デフォルト</string>
     <string name="skin_tab_level">レベル</string>
     <string name="skin_tab_voidstones">ボドスト</string>
-    <string name="flags">Flags</string>
+    <string name="flags">フラグ</string>
     <string name="skin_tab_special">特別</string>
     <string name="level_skin_locked">このスキンをレベル%d以降にアンロックします。</string>
     <string name="level_lock">レベルロック</string>
@@ -860,53 +860,53 @@
     <string name="custom_image_error_dimensions">画像が大きすぎます: %1$dx%2$d（最大%3$dx%4$dp)</string>
     <string name="custom_image_error_both">画像が大きすぎます: %1$dKB／%3$dx%4$d（最大%2$dKB／%5$dx%6$dp）</string>
     <string name="custom_image_compress_title">画像が大きすぎます・圧縮？</string>
-    <string name="custom_image_compress_accept">圧縮する</string>
+    <string name="custom_image_compress_accept">圧縮</string>
     <string name="custom_image_compress_failed">画像が圧縮できませんでした</string>
-    <string name="custom_image_crop_title">Crop to a square</string>
-    <string name="custom_image_crop_apply">Crop &amp; use</string>
-    <string name="custom_image_processing">Processing…</string>
+    <string name="custom_image_crop_title">1:1にトリミング</string>
+    <string name="custom_image_crop_apply">トリミングと使用</string>
+    <string name="custom_image_processing">処理中…</string>
     <string name="custom_image_bought">カスタム画像のアップロード</string>
-    <string name="custom_image_refund">カスタム画像返金</string>
+    <string name="custom_image_refund">カスタム画像の返金</string>
     <string name="custom_image_slot">画像 %1$d</string>
 
     <!-- Custom image skin -->
     <string name="custom_image_skin_load_failed">カスタムスキンが読み込めませんでした: %1$s</string>
     <string name="custom_image_no_approved_image">スロット %1$d に承認画像はありません</string>
-    <string name="report_avatar">アイコン報告</string>
+    <string name="report_avatar">アイコンを報告</string>
     <string name="report_avatar_message">「%1$s」さんのアイコンを報告しますか？</string>
     <string name="report_avatar_success">アイコンを報告しました</string>
     <string name="report_avatar_failed">アイコンが報告できませんでした</string>
-    <string name="report_banner">Report Banner</string>
-    <string name="report_banner_message">Report the banner of %1$s?</string>
-    <string name="report_banner_success">Banner reported</string>
-    <string name="report_banner_failed">Failed to report banner</string>
+    <string name="report_banner">バナーを報告</string>
+    <string name="report_banner_message">「%1$s」さんのバナーを報告しますか？</string>
+    <string name="report_banner_success">バナーを報告しました</string>
+    <string name="report_banner_failed">バナーが報告できませんでした</string>
 
     <!-- Custom banners — sibling of custom images (16:9 profile-header decoration) -->
-    <string name="custom_banner_rules">Explicitly Forbidden Content:\n\n- NSFW / Sexual content\n- Graphic violence / Gore\n- Weapons\n- Hate symbols\n- Hate speech / Discrimination\n- Drugs\n- Shock/gross-out content\n- Copyrighted characters/logos\n- Alcohol/tobacco references\n- Horror/creepy imagery</string>
-    <string name="custom_banner_upload">Upload</string>
-    <string name="custom_banner_replace">Replace</string>
-    <string name="custom_banner_deselect">Deselect</string>
-    <string name="custom_banner_confirm_title">Upload Banner</string>
-    <string name="custom_banner_confirm_body">Upload this banner for %1$s voidstones?</string>
-    <string name="custom_banner_upload_success">Banner sent for review</string>
-    <string name="custom_banner_selected">Banner selected</string>
-    <string name="custom_banner_deselected">Banner deselected</string>
-    <string name="custom_banner_upload_failed">Failed to upload banner</string>
-    <string name="custom_banner_read_error">Failed to read banner</string>
-    <string name="custom_banner_invalid_format">File must be an image</string>
-    <string name="custom_banner_error_size">Your banner %1$dKB is too large (max %2$dKB)</string>
-    <string name="custom_banner_error_dimensions">Your banner %1$dx%2$d is too large (max %3$dx%4$d pixels)</string>
-    <string name="custom_banner_error_both">Your banner %1$dKB / %3$dx%4$d is too large (max %2$dKB / %5$dx%6$d pixels)</string>
-    <string name="custom_banner_compress_title">Banner Too Large - Compress?</string>
-    <string name="custom_banner_compress_accept">Use Compressed</string>
-    <string name="custom_banner_compress_failed">Banner could not be compressed to fit the size limit</string>
-    <string name="custom_banner_crop_title">Crop to a 16:9 banner</string>
-    <string name="custom_banner_crop_apply">Crop &amp; use</string>
-    <string name="custom_banner_processing">Processing…</string>
-    <string name="custom_banner_bought">Custom Banner Upload</string>
-    <string name="custom_banner_refund">Custom Banner Refund</string>
-    <string name="custom_banner_slot">Banner %1$d</string>
-    <string name="custom_banner_no_approved_image">No approved banner in slot %1$d</string>
+    <string name="custom_banner_rules">使用禁止アイコンの種類:\n\n・NSFWや性的なコンテンツ\n・過激な暴力描写やゴア\n・武器\n・憎悪の象徴\n・ヘイトスピーチ\n・薬物\n・衝撃や気持ち悪いコンテンツ\n・著作権で保護されたキャラクターやロゴ\n・アルコルやタバコに関する言及\n・ホラーや不気味なコンテンツ</string>
+    <string name="custom_banner_upload">アップロード</string>
+    <string name="custom_banner_replace">差替</string>
+    <string name="custom_banner_deselect">選択解除</string>
+    <string name="custom_banner_confirm_title">バナー画像のアップロード</string>
+    <string name="custom_banner_confirm_body">このバナー画像を%1$s枚のボイドストーンでアップロードしますか？</string>
+    <string name="custom_banner_upload_success">バナー画像をレビュー用に送信しました</string>
+    <string name="custom_banner_selected">バナー画像を選択しました</string>
+    <string name="custom_banner_deselected">バナー画像を選択解除しました</string>
+    <string name="custom_banner_upload_failed">バナー画像がアップロードできませんでした</string>
+    <string name="custom_banner_read_error">バナー画像が読み込めませんでした</string>
+    <string name="custom_banner_invalid_format">画像ファイルを選択してください</string>
+    <string name="custom_banner_error_size">バナー画像が大きすぎます：%1$dKB（最大%2$dKB）</string>
+    <string name="custom_banner_error_dimensions">バナー画像が大きすぎます：%1$dx%2$d（最大%3$dx%4$dp)</string>
+    <string name="custom_banner_error_both">バナー画像が大きすぎます：%1$dKB／%3$dx%4$d（最大%2$dKB／%5$dx%6$dp)</string>
+    <string name="custom_banner_compress_title">バナー画像が大きすぎます・圧縮？</string>
+    <string name="custom_banner_compress_accept">圧縮</string>
+    <string name="custom_banner_compress_failed">バナー画像が圧縮できませんでした</string>
+    <string name="custom_banner_crop_title">16:9のバナーにトリミング</string>
+    <string name="custom_banner_crop_apply">トリミングと使用</string>
+    <string name="custom_banner_processing">処理中…</string>
+    <string name="custom_banner_bought">カスタムバナーのアップロード</string>
+    <string name="custom_banner_refund">カスタムバナーの返金</string>
+    <string name="custom_banner_slot">バナー %1$d</string>
+    <string name="custom_banner_no_approved_image">スロット %1$d に承認バナー画像はありません</string>
 
     <!-- Account recovery -->
     <string name="account_recovery">アカウントの復旧</string>
@@ -1064,5 +1064,5 @@
     <string name="after">現在</string>
     <string name="clan_id">クランID:</string>
     <string name="editing_message">メッセージを編集中</string>
-    <string name="samsung_compat_warning_body">無効なディスプレイの設定です。これは、ゲーム内コントロールやマルチタッチに問題が生じる可能性があります。これはOne UIのデバイスにおける既知のバグです。この問題を解決するために、以下の手順をお試しください:\n\n① Game Booster Plusアプリを開く → ゲームパフォーマンス → 『パフォーマンス』または『100%』に設定する\n② アプリをGame Launcherライブラリから削除\n③ お使いのデバイスが画面解像度設定の機能を対応している場合、画面解像度を下げる (1440p → 1080p)\n④ デバイスを再起動する\n\n問題が解決しない場合、またはSamsung One UIを使用していない場合は、DiscordサーバーまたはサポートＥメールでバグ報告を行ってください。</string>
+    <string name="samsung_compat_warning_body">無効なディスプレイの設定です。これは、ゲーム内コントロールやマルチタッチに問題が生じる可能性があります。これはOne UIのデバイスにおける既知のバグです。この問題を解決するために、以下の手順をお試しください:\n\n① Game Booster Plusアプリを開く → ゲームパフォーマンス → 『パフォーマンス』または『100%』に設定\n② アプリをGame Launcherライブラリから削除\n③ お使いのデバイスが画面解像度設定の機能を対応している場合、画面解像度を下げる (1440p → 1080p)\n④ デバイスを再起動\n\n問題が解決しない場合、またはSamsung One UIを使用していない場合は、DiscordサーバーまたはサポートＥメールでバグ報告を行ってください。</string>
 </resources>
