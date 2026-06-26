@@ -790,8 +790,8 @@
     <string name="dialog_ok">OK</string>
     <string name="dialog_copy">コピー</string>
     <string name="dialog_notice">注意</string>
-    <string name="dialog_warning">警告</string>
-    <string name="dialog_alert">警告</string>
+    <string name="dialog_warning">注意</string>
+    <string name="dialog_alert">注意</string>
     <string name="dialog_dont_show_again">再表示しない</string>
     <string name="dialog_dismiss">取り消す</string>
     <string name="dialog_previous">前へ</string>
