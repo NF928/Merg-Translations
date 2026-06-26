@@ -220,11 +220,11 @@
     <string name="booster_autoshoot">オートイジェクト</string>
     <string name="booster_spawn_size">スポーンサイズ</string>
     <string name="speed_none">なし</string>
-    <string name="speed_slow">低速 (5／秒)</string>
-    <string name="speed_medium">普通 (10／秒)</string>
-    <string name="speed_fast">高速 (20／秒)</string>
-    <string name="speed_ultra">ウルトラ (30／秒)</string>
-    <string name="speed_crazy">クレイジー (60／秒)</string>
+    <string name="speed_slow">スロー (5回／秒)</string>
+    <string name="speed_medium">ミディアム (10回／秒)</string>
+    <string name="speed_fast">ファスト (20回／秒)</string>
+    <string name="speed_ultra">ウルトラ (30回／秒)</string>
+    <string name="speed_crazy">クレイジー (60回／秒)</string>
     <string name="minutes_short">%1$d分間</string>
     <string name="invalid_code">無効なコードです</string>
     <string name="code_already_claimed">コードはすでに利用されました！</string>
