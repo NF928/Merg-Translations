@@ -433,7 +433,7 @@
     <string name="clan_name_taken">اسم العشيرة مستخدم بالفعل</string>
     <string name="clan_already_member">أنت بالفعل عضو في عشيرة</string>
     <string name="clan_accept_invite_leave_confirm">أنت بالفعل في عشيرة. هل تريد مغادرة عشيرتك الحالية وقبول هذه الدعوة؟</string>
-    <string name="clan_promoted">تمت ترقية العشيرة</string>
+    <string name="clan_promoted">Promoted to %1$s.</string>
     <string name="clan_demoted">تم تخفيض رتبة العشيرة</string>
     <string name="clan_kick_confirm_title">طرد العضو</string>
     <string name="clan_kick_confirm_message">رسالة تأكيد طرد العشيرة</string>
