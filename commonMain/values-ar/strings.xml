@@ -408,7 +408,7 @@
     <string name="clan_joined">تم الانضمام إلى العشيرة!</string>
     <string name="clan_private">هذه العشيرة خاصة أو لم تعد نشطة.</string>
     <string name="clan_members">الأعضاء</string>
-    <string name="clan_members_count">عدد أعضاء العشيرة/string>
+    <string name="clan_members_count">%1$d / %2$d members</string>
     <string name="clan_request_join">طلب الانضمام</string>
     <string name="clan_leave">الخروج من العشيرة</string>
     <string name="clan_leave_confirm">هل أنت متأكد انك تريد الخروج من العشيرة؟ </string>
