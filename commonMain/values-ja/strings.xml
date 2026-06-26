@@ -263,7 +263,7 @@
     <string name="verify_reward">リワード確認</string>
     <string name="competitive_season_reward">ランクバトルのシーズンリワード</string>
     <string name="purchase_remove_ads_label">広告を非表示化</string>
-    <string name="purchase_status_permanent">生涯</string>
+    <string name="purchase_status_permanent">無期限</string>
     <string name="purchase_status_refunded">返金</string>
     <string name="purchase_no_ads_gift_received">#%dからの『広告を非表示化』ギフト</string>
     <string name="purchase_no_ads_gift_purchased">#%dへの『広告を非表示化』ギフト</string>
