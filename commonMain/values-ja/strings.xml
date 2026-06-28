@@ -85,8 +85,8 @@
     <string name="cycle_progressbar">経験値進捗バーテキストをサイクル</string>
     <string name="verbose_in_game_ui">ゲーム内UIの詳細表示</string>
     <string name="jitter_buffer">ジッターバッファー</string>
-    <string name="extrapolation">Extrapolation</string>
-    <string name="no_interpolation">No Interpolation</string>
+    <string name="extrapolation">外装</string>
+    <string name="no_interpolation">補間なし</string>
 
     <!-- Game/room creation menu-->
     <string name="game_mode">ゲームモード</string>
